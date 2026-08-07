@@ -1,0 +1,42 @@
+name: Generate BBC News EPG
+
+# Rebuilds bbcnews.xml from the BBC's own schedules page and commits it when it changes.
+on:
+  schedule:
+    - cron: "40 */6 * * *"   # every 6 hours (UTC), offset off the hour and off the other EPG repos
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+    paths: ["generate.py", ".github/workflows/epg.yml"]
+
+permissions:
+  contents: write
+
+concurrency:
+  group: epg
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+
+      - uses: actions/setup-python@v7
+        with:
+          python-version: "3.12"
+
+      - name: Generate bbcnews.xml
+        run: python generate.py
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if [ -n "$(git status --porcelain bbcnews.xml)" ]; then
+            git add bbcnews.xml
+            git commit -m "Update BBC News EPG ($(date -u '+%Y-%m-%d %H:%M UTC'))"
+            git push
+          else
+            echo "bbcnews.xml unchanged — nothing to commit."
+          fi
