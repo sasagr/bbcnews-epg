@@ -175,7 +175,7 @@
   </programme>
   <programme start="20260807223000 +0000" stop="20260807224500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <sub-title lang="en">Is Trump the AI President?</sub-title>
+    <sub-title lang="en">Is Trump the AI president?</sub-title>
     <desc lang="en">Discussing President Trump's efforts to balance AI innovation and regulation.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
@@ -486,7 +486,7 @@
   </programme>
   <programme start="20260809104500 +0000" stop="20260809110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <sub-title lang="en">Is Trump the AI President?</sub-title>
+    <sub-title lang="en">Is Trump the AI president?</sub-title>
     <desc lang="en">Discussing President Trump's efforts to balance AI innovation and regulation.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
