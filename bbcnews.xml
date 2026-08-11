@@ -232,7 +232,8 @@
   </programme>
   <programme start="20260812024500 +0000" stop="20260812030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Is Myanmar Coming in from the Cold?</sub-title>
+    <desc lang="en">Is Myanmar diplomatically coming in from the cold?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260812030000 +0000" stop="20260812033000 +0000" channel="BBCNews.uk">
@@ -247,7 +248,8 @@
   </programme>
   <programme start="20260812034500 +0000" stop="20260812040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Is Myanmar Coming in from the Cold?</sub-title>
+    <desc lang="en">Is Myanmar diplomatically coming in from the cold?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260812040000 +0000" stop="20260812043000 +0000" channel="BBCNews.uk">
