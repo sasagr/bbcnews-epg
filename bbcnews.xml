@@ -48,25 +48,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260812103000 +0000" stop="20260812104500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20260812104500 +0000" stop="20260812110000 +0000" channel="BBCNews.uk">
+  <programme start="20260812103000 +0000" stop="20260812120000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260812110000 +0000" stop="20260812113000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20260812113000 +0000" stop="20260812120000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20260812120000 +0000" stop="20260812123000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -114,45 +99,45 @@
     <title lang="en">BBC News</title>
     <sub-title lang="en">Solar Eclipse Live</sub-title>
     <desc lang="en">Live build-up to the solar eclipse from the BBC's teams around the world and across the UK</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p40yz4.jpg" />
   </programme>
   <programme start="20260812160000 +0000" stop="20260812170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <sub-title lang="en">Solar Eclipse Live</sub-title>
     <desc lang="en">Live coverage as the solar eclipse passes over Iceland, Greenland and the Arctic Ocean.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p40yz4.jpg" />
   </programme>
   <programme start="20260812170000 +0000" stop="20260812180000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <sub-title lang="en">Solar Eclipse Live</sub-title>
     <desc lang="en">Live coverage as the solar eclipse is seen from the UK.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p40yz4.jpg" />
   </programme>
   <programme start="20260812180000 +0000" stop="20260812190000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <sub-title lang="en">Solar Eclipse Live</sub-title>
     <desc lang="en">Live coverage as the solar eclipse is visible from Portugal and parts of northern Spain.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p40yz4.jpg" />
   </programme>
   <programme start="20260812190000 +0000" stop="20260812193000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260812193000 +0000" stop="20260812200000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260812200000 +0000" stop="20260812203000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260812203000 +0000" stop="20260812210000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260812210000 +0000" stop="20260812213000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Ten</title>
@@ -652,7 +637,7 @@
   </programme>
   <programme start="20260814233000 +0000" stop="20260815000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Ben Thomson looks at the factors behind rising food prices.</desc>
+    <desc lang="en">Ben Thompson looks at the factors behind rising food prices.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260815000000 +0000" stop="20260815003000 +0000" channel="BBCNews.uk">
@@ -684,7 +669,7 @@
   <programme start="20260815023000 +0000" stop="20260815030000 +0000" channel="BBCNews.uk">
     <title lang="en">Inside China's EV Revolution</title>
     <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
   </programme>
   <programme start="20260815030000 +0000" stop="20260815033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -734,7 +719,7 @@
   </programme>
   <programme start="20260815103000 +0000" stop="20260815110000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Ben Thomson looks at the factors behind rising food prices.</desc>
+    <desc lang="en">Ben Thompson looks at the factors behind rising food prices.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260815110000 +0000" stop="20260815113000 +0000" channel="BBCNews.uk">
@@ -786,7 +771,7 @@
   <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="BBCNews.uk">
     <title lang="en">Inside China's EV Revolution</title>
     <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
   </programme>
   <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -821,7 +806,7 @@
   <programme start="20260815193000 +0000" stop="20260815200000 +0000" channel="BBCNews.uk">
     <title lang="en">Inside China's EV Revolution</title>
     <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
   </programme>
   <programme start="20260815200000 +0000" stop="20260815210000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -840,7 +825,7 @@
   </programme>
   <programme start="20260815223000 +0000" stop="20260815230000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Ben Thomson looks at the factors behind rising food prices.</desc>
+    <desc lang="en">Ben Thompson looks at the factors behind rising food prices.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260815230000 +0000" stop="20260815233000 +0000" channel="BBCNews.uk">
@@ -872,7 +857,7 @@
   <programme start="20260816013000 +0000" stop="20260816020000 +0000" channel="BBCNews.uk">
     <title lang="en">Inside China's EV Revolution</title>
     <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
   </programme>
   <programme start="20260816020000 +0000" stop="20260816023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -959,7 +944,7 @@
   </programme>
   <programme start="20260816123000 +0000" stop="20260816130000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Ben Thomson looks at the factors behind rising food prices.</desc>
+    <desc lang="en">Ben Thompson looks at the factors behind rising food prices.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260816130000 +0000" stop="20260816133000 +0000" channel="BBCNews.uk">
@@ -1068,7 +1053,7 @@
   <programme start="20260817003000 +0000" stop="20260817010000 +0000" channel="BBCNews.uk">
     <title lang="en">Inside China's EV Revolution</title>
     <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
   </programme>
   <programme start="20260817010000 +0000" stop="20260817013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -1327,7 +1312,7 @@
   </programme>
   <programme start="20260818003000 +0000" stop="20260818010000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Ben Thomson looks at the factors behind rising food prices.</desc>
+    <desc lang="en">Ben Thompson looks at the factors behind rising food prices.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260818010000 +0000" stop="20260818013000 +0000" channel="BBCNews.uk">
