@@ -213,15 +213,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260814050000 +0000" stop="20260814070000 +0000" channel="BBCNews.uk">
+  <programme start="20260814050000 +0000" stop="20260814073000 +0000" channel="BBCNews.uk">
     <title lang="en">Breakfast</title>
     <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fxfnwr.jpg" />
-  </programme>
-  <programme start="20260814070000 +0000" stop="20260814073000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260814073000 +0000" stop="20260814080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -609,10 +604,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260816003000 +0000" stop="20260816010000 +0000" channel="BBCNews.uk">
-    <title lang="en">Rachel Khoo's Kitchen Notebook</title>
-    <sub-title lang="en">Princes' Islands</sub-title>
-    <desc lang="en">Passionate cook Rachel Khoo travels the globe in search of fresh culinary inspiration.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n9lkgj.jpg" />
+    <title lang="en">World's Ultimate Adventures</title>
+    <sub-title lang="en">The Land of Troy</sub-title>
+    <desc lang="en">Janina Ramirez explores Turkey's Aegean coast, the land of the legend of Troy.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nyh8x6.jpg" />
   </programme>
   <programme start="20260816010000 +0000" stop="20260816013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
