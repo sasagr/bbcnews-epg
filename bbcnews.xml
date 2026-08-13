@@ -441,7 +441,8 @@
   </programme>
   <programme start="20260815033000 +0000" stop="20260815040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">James May's YouTube Move</sub-title>
+    <desc lang="en">James May on building a YouTube audience after television success.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260815040000 +0000" stop="20260815043000 +0000" channel="BBCNews.uk">
@@ -502,7 +503,8 @@
   </programme>
   <programme start="20260815123000 +0000" stop="20260815130000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">James May's YouTube Move</sub-title>
+    <desc lang="en">James May on building a YouTube audience after television success.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="BBCNews.uk">
@@ -511,10 +513,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="BBCNews.uk">
-    <title lang="en">What Happened at...?</title>
-    <sub-title lang="en">What Happened at Chernobyl?</sub-title>
-    <desc lang="en">Jordan Dunbar examines the world’s worst nuclear accident at Chernobyl in 1986.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ndzjsn.jpg" />
+    <title lang="en">Steve Rosenberg Meets Dmitry Muratov</title>
+    <desc lang="en">The Nobel Peace Prize-winning journalist on why Putin can no longer hope to claim victory.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y85b.jpg" />
   </programme>
   <programme start="20260815140000 +0000" stop="20260815143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -598,7 +599,8 @@
   </programme>
   <programme start="20260815233000 +0000" stop="20260816000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">James May's YouTube Move</sub-title>
+    <desc lang="en">James May on building a YouTube audience after television success.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260816000000 +0000" stop="20260816003000 +0000" channel="BBCNews.uk">
@@ -628,10 +630,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260816023000 +0000" stop="20260816030000 +0000" channel="BBCNews.uk">
-    <title lang="en">On the Front Line</title>
-    <sub-title lang="en">The Secret Jungle Hospital</sub-title>
-    <desc lang="en">Saving lives in a hidden hospital, rebels fighting against Myanmar's military.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nqyr60.jpg" />
+    <title lang="en">Steve Rosenberg Meets Dmitry Muratov</title>
+    <desc lang="en">The Nobel Peace Prize-winning journalist on why Putin can no longer hope to claim victory.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y85b.jpg" />
   </programme>
   <programme start="20260816030000 +0000" stop="20260816033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -773,7 +774,8 @@
   </programme>
   <programme start="20260816193000 +0000" stop="20260816200000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">James May's YouTube Move</sub-title>
+    <desc lang="en">James May on building a YouTube audience after television success.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260816200000 +0000" stop="20260816210000 +0000" channel="BBCNews.uk">
@@ -792,10 +794,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260816223000 +0000" stop="20260816230000 +0000" channel="BBCNews.uk">
-    <title lang="en">On the Front Line</title>
-    <sub-title lang="en">The Secret Jungle Hospital</sub-title>
-    <desc lang="en">Saving lives in a hidden hospital, rebels fighting against Myanmar's military.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nqyr60.jpg" />
+    <title lang="en">Steve Rosenberg Meets Dmitry Muratov</title>
+    <desc lang="en">The Nobel Peace Prize-winning journalist on why Putin can no longer hope to claim victory.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y85b.jpg" />
   </programme>
   <programme start="20260816230000 +0000" stop="20260816233000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1335,7 +1336,8 @@
   </programme>
   <programme start="20260819003000 +0000" stop="20260819010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">James May's YouTube Move</sub-title>
+    <desc lang="en">James May on building a YouTube audience after television success.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260819010000 +0000" stop="20260819013000 +0000" channel="BBCNews.uk">
@@ -1594,10 +1596,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260820003000 +0000" stop="20260820010000 +0000" channel="BBCNews.uk">
-    <title lang="en">On the Front Line</title>
-    <sub-title lang="en">The Secret Jungle Hospital</sub-title>
-    <desc lang="en">Saving lives in a hidden hospital, rebels fighting against Myanmar's military.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nqyr60.jpg" />
+    <title lang="en">Inside China's EV Revolution</title>
+    <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
   </programme>
   <programme start="20260820010000 +0000" stop="20260820013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
