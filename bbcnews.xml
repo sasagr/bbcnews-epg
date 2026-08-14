@@ -165,7 +165,8 @@
   </programme>
   <programme start="20260814223000 +0000" stop="20260814224500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump grapples with the AI data centre debate</sub-title>
+    <desc lang="en">Artificial intelligence data centres take centre stage in the US political debate.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260814224500 +0000" stop="20260814230000 +0000" channel="BBCNews.uk">
@@ -468,7 +469,8 @@
   </programme>
   <programme start="20260816104500 +0000" stop="20260816110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump grapples with the AI data centre debate</sub-title>
+    <desc lang="en">Artificial intelligence data centres take centre stage in the US political debate.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260816110000 +0000" stop="20260816113000 +0000" channel="BBCNews.uk">
