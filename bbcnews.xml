@@ -3,204 +3,6 @@
   <channel id="BBCNews.uk">
     <display-name>BBC News</display-name>
   </channel>
-  <programme start="20260815080000 +0000" stop="20260815090000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815090000 +0000" stop="20260815093000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815093000 +0000" stop="20260815100000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815100000 +0000" stop="20260815103000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815103000 +0000" stop="20260815110000 +0000" channel="BBCNews.uk">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Ben Thompson looks at the factors behind rising food prices.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
-  </programme>
-  <programme start="20260815110000 +0000" stop="20260815113000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815113000 +0000" stop="20260815120000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815120000 +0000" stop="20260815123000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815123000 +0000" stop="20260815130000 +0000" channel="BBCNews.uk">
-    <title lang="en">Tech Now</title>
-    <desc lang="en">Adrienne Murray meets the team using tech to preserve a historic warship in Sweden.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
-  </programme>
-  <programme start="20260815130000 +0000" stop="20260815133000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815133000 +0000" stop="20260815140000 +0000" channel="BBCNews.uk">
-    <title lang="en">Steve Rosenberg Meets Dmitry Muratov</title>
-    <desc lang="en">The Nobel Peace Prize-winning journalist on why Putin can no longer hope to claim victory.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y85b.jpg" />
-  </programme>
-  <programme start="20260815140000 +0000" stop="20260815143000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815143000 +0000" stop="20260815150000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815150000 +0000" stop="20260815153000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815153000 +0000" stop="20260815160000 +0000" channel="BBCNews.uk">
-    <title lang="en">Inside China's EV Revolution</title>
-    <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
-  </programme>
-  <programme start="20260815160000 +0000" stop="20260815170000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815170000 +0000" stop="20260815173000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815173000 +0000" stop="20260815180000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC including a round-up of the day's sporting action.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815180000 +0000" stop="20260815183000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815183000 +0000" stop="20260815190000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC including a round-up of the day's sporting action.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815190000 +0000" stop="20260815193000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815193000 +0000" stop="20260815200000 +0000" channel="BBCNews.uk">
-    <title lang="en">Inside China's EV Revolution</title>
-    <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
-  </programme>
-  <programme start="20260815200000 +0000" stop="20260815210000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815210000 +0000" stop="20260815220000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815220000 +0000" stop="20260815223000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815223000 +0000" stop="20260815230000 +0000" channel="BBCNews.uk">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Ben Thompson looks at the factors behind rising food prices.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
-  </programme>
-  <programme start="20260815230000 +0000" stop="20260815233000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260815233000 +0000" stop="20260816000000 +0000" channel="BBCNews.uk">
-    <title lang="en">Steve Rosenberg Meets Dmitry Muratov</title>
-    <desc lang="en">The Nobel Peace Prize-winning journalist on why Putin can no longer hope to claim victory.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y85b.jpg" />
-  </programme>
-  <programme start="20260816000000 +0000" stop="20260816003000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260816003000 +0000" stop="20260816010000 +0000" channel="BBCNews.uk">
-    <title lang="en">World's Ultimate Adventures</title>
-    <sub-title lang="en">The Land of Troy</sub-title>
-    <desc lang="en">Janina Ramirez explores Turkey's Aegean coast, the land of the legend of Troy.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nyh8x6.jpg" />
-  </programme>
-  <programme start="20260816010000 +0000" stop="20260816013000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260816013000 +0000" stop="20260816020000 +0000" channel="BBCNews.uk">
-    <title lang="en">Inside China's EV Revolution</title>
-    <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
-  </programme>
-  <programme start="20260816020000 +0000" stop="20260816023000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260816023000 +0000" stop="20260816030000 +0000" channel="BBCNews.uk">
-    <title lang="en">Steve Rosenberg Meets Dmitry Muratov</title>
-    <desc lang="en">The Nobel Peace Prize-winning journalist on why Putin can no longer hope to claim victory.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y85b.jpg" />
-  </programme>
-  <programme start="20260816030000 +0000" stop="20260816033000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260816033000 +0000" stop="20260816040000 +0000" channel="BBCNews.uk">
-    <title lang="en">What Happened at...?</title>
-    <sub-title lang="en">What Happened at Chernobyl?</sub-title>
-    <desc lang="en">Jordan Dunbar examines the world’s worst nuclear accident at Chernobyl in 1986.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ndzjsn.jpg" />
-  </programme>
-  <programme start="20260816040000 +0000" stop="20260816043000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260816043000 +0000" stop="20260816050000 +0000" channel="BBCNews.uk">
-    <title lang="en">World's Ultimate Adventures</title>
-    <sub-title lang="en">Turkey's South Eastern Soul</sub-title>
-    <desc lang="en">Chef Julie Lin's Turkish adventure blends food and history in the country's south east.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n4m4zf.jpg" />
-  </programme>
-  <programme start="20260816050000 +0000" stop="20260816080000 +0000" channel="BBCNews.uk">
-    <title lang="en">Breakfast</title>
-    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fxfnwr.jpg" />
-  </programme>
   <programme start="20260816080000 +0000" stop="20260816090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
@@ -1710,6 +1512,209 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nwf6w1.jpg" />
   </programme>
   <programme start="20260822050000 +0000" stop="20260822080000 +0000" channel="BBCNews.uk">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fxfnwr.jpg" />
+  </programme>
+  <programme start="20260822080000 +0000" stop="20260822090000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822090000 +0000" stop="20260822093000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822093000 +0000" stop="20260822100000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822100000 +0000" stop="20260822103000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822103000 +0000" stop="20260822110000 +0000" channel="BBCNews.uk">
+    <title lang="en">Talking Business</title>
+    <desc lang="en">Is the space economy the next gold rush?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
+  </programme>
+  <programme start="20260822110000 +0000" stop="20260822113000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822113000 +0000" stop="20260822120000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822120000 +0000" stop="20260822123000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822123000 +0000" stop="20260822130000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Media Show</title>
+    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
+  </programme>
+  <programme start="20260822130000 +0000" stop="20260822133000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822133000 +0000" stop="20260822140000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Climate Question</title>
+    <sub-title lang="en">Is the World More Flammable?</sub-title>
+    <desc lang="en">Huge wildfires have swept across Europe and North America. Is climate change to blame?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+  </programme>
+  <programme start="20260822140000 +0000" stop="20260822143000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822143000 +0000" stop="20260822150000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822150000 +0000" stop="20260822153000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822153000 +0000" stop="20260822160000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Engineers</title>
+    <sub-title lang="en">Flying at the Edge</sub-title>
+    <desc lang="en">Aviation is being reimagined: vertical take-off passenger cars for cities.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y0h6.png" />
+  </programme>
+  <programme start="20260822160000 +0000" stop="20260822170000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822170000 +0000" stop="20260822173000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822173000 +0000" stop="20260822180000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC including a round-up of the day's sporting action.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822180000 +0000" stop="20260822183000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822183000 +0000" stop="20260822190000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC including a round-up of the day's sporting action.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822190000 +0000" stop="20260822193000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822193000 +0000" stop="20260822200000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Climate Question</title>
+    <sub-title lang="en">Is the World More Flammable?</sub-title>
+    <desc lang="en">Huge wildfires have swept across Europe and North America. Is climate change to blame?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+  </programme>
+  <programme start="20260822200000 +0000" stop="20260822210000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822210000 +0000" stop="20260822220000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822220000 +0000" stop="20260822223000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822223000 +0000" stop="20260822230000 +0000" channel="BBCNews.uk">
+    <title lang="en">Talking Business</title>
+    <desc lang="en">Is the space economy the next gold rush?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
+  </programme>
+  <programme start="20260822230000 +0000" stop="20260822233000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260822233000 +0000" stop="20260823000000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Media Show</title>
+    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
+  </programme>
+  <programme start="20260823000000 +0000" stop="20260823003000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260823003000 +0000" stop="20260823010000 +0000" channel="BBCNews.uk">
+    <title lang="en">World's Ultimate Adventures</title>
+    <sub-title lang="en">Call of the Wild</sub-title>
+    <desc lang="en">Lizzie Daly heads to Mersin on the Turkish Mediterranean coast.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p42xs9.jpg" />
+  </programme>
+  <programme start="20260823010000 +0000" stop="20260823013000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260823013000 +0000" stop="20260823020000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Engineers</title>
+    <sub-title lang="en">Flying at the Edge</sub-title>
+    <desc lang="en">Aviation is being reimagined: vertical take-off passenger cars for cities.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y0h6.png" />
+  </programme>
+  <programme start="20260823020000 +0000" stop="20260823023000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260823023000 +0000" stop="20260823030000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Climate Question</title>
+    <sub-title lang="en">Is the World More Flammable?</sub-title>
+    <desc lang="en">Huge wildfires have swept across Europe and North America. Is climate change to blame?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+  </programme>
+  <programme start="20260823030000 +0000" stop="20260823033000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260823033000 +0000" stop="20260823040000 +0000" channel="BBCNews.uk">
+    <title lang="en">Global Eye</title>
+    <sub-title lang="en">Ghana’s reparations campaign</sub-title>
+    <desc lang="en">Aleem Maqbool on slavery's legacy in Ghana, and inside an Interpol anti-trafficking unit.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p457q9.png" />
+  </programme>
+  <programme start="20260823040000 +0000" stop="20260823043000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260823043000 +0000" stop="20260823050000 +0000" channel="BBCNews.uk">
+    <title lang="en">Streets of Gold: Mumbai</title>
+    <sub-title lang="en">Episode 1</sub-title>
+    <desc lang="en">A rare glimpse behind the gilded doors of Mumbai's one-percenters as social season begins.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y423.jpg" />
+  </programme>
+  <programme start="20260823050000 +0000" stop="20260823080000 +0000" channel="BBCNews.uk">
     <title lang="en">Breakfast</title>
     <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fxfnwr.jpg" />
