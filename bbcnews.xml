@@ -43,25 +43,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260817100000 +0000" stop="20260817103000 +0000" channel="BBCNews.uk">
+  <programme start="20260817100000 +0000" stop="20260817113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260817103000 +0000" stop="20260817104500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20260817104500 +0000" stop="20260817110000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260817110000 +0000" stop="20260817113000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20260817113000 +0000" stop="20260817120000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -454,10 +439,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260819003000 +0000" stop="20260819010000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Media Show</title>
-    <sub-title lang="en">James May's YouTube Move</sub-title>
-    <desc lang="en">James May on building a YouTube audience after television success.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
+    <title lang="en">Tech Now</title>
+    <desc lang="en">Adrienne Murray meets the team using tech to preserve a historic warship in Sweden.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
   </programme>
   <programme start="20260819010000 +0000" stop="20260819013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
