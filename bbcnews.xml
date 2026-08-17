@@ -170,8 +170,9 @@
   </programme>
   <programme start="20260817233000 +0000" stop="20260818000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nykx20.jpg" />
+    <sub-title lang="en">Why has Donald Trump threatened to bomb Oman?</sub-title>
+    <desc lang="en">Trump threatens US allies South Korea and Oman.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p50yjc.jpg" />
   </programme>
   <programme start="20260818000000 +0000" stop="20260818003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
