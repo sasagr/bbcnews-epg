@@ -225,7 +225,8 @@
   </programme>
   <programme start="20260819024500 +0000" stop="20260819030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why NE Asia is Wary of Immigration</sub-title>
+    <desc lang="en">Japan is tightening immigration rules amid concerns over the foreign resident population.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260819030000 +0000" stop="20260819033000 +0000" channel="BBCNews.uk">
@@ -240,7 +241,8 @@
   </programme>
   <programme start="20260819034500 +0000" stop="20260819040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why NE Asia is Wary of Immigration</sub-title>
+    <desc lang="en">Japan is tightening immigration rules amid concerns over the foreign resident population.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260819040000 +0000" stop="20260819043000 +0000" channel="BBCNews.uk">
