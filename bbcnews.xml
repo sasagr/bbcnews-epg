@@ -185,8 +185,9 @@
   </programme>
   <programme start="20260818233000 +0000" stop="20260819000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nykx20.jpg" />
+    <sub-title lang="en">Russia Threatens The UK (Again)</sub-title>
+    <desc lang="en">Threat comes after British-made drones were used in recent Ukrainian strikes in Russia.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p557wc.jpg" />
   </programme>
   <programme start="20260819000000 +0000" stop="20260819003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
