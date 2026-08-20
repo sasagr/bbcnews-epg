@@ -184,9 +184,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260820233000 +0000" stop="20260821000000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nykx20.jpg" />
+    <title lang="en">Inside China's EV Revolution</title>
+    <desc lang="en">How China transformed into the world's leading manufacturer of electric vehicles.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p41t6r.jpg" />
   </programme>
   <programme start="20260821000000 +0000" stop="20260821003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -493,7 +493,8 @@
   </programme>
   <programme start="20260822033000 +0000" stop="20260822040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The Death of Jason Arday</sub-title>
+    <desc lang="en">Questions over press scrutiny of Jason Arday following the academic’s death.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260822040000 +0000" stop="20260822043000 +0000" channel="BBCNews.uk">
@@ -554,7 +555,8 @@
   </programme>
   <programme start="20260822123000 +0000" stop="20260822130000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The Death of Jason Arday</sub-title>
+    <desc lang="en">Questions over press scrutiny of Jason Arday following the academic’s death.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260822130000 +0000" stop="20260822133000 +0000" channel="BBCNews.uk">
@@ -652,7 +654,8 @@
   </programme>
   <programme start="20260822233000 +0000" stop="20260823000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The Death of Jason Arday</sub-title>
+    <desc lang="en">Questions over press scrutiny of Jason Arday following the academic’s death.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260823000000 +0000" stop="20260823003000 +0000" channel="BBCNews.uk">
@@ -1394,7 +1397,8 @@
   </programme>
   <programme start="20260826003000 +0000" stop="20260826010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The Death of Jason Arday</sub-title>
+    <desc lang="en">Questions over press scrutiny of Jason Arday following the academic’s death.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260826010000 +0000" stop="20260826013000 +0000" channel="BBCNews.uk">
