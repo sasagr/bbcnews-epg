@@ -226,7 +226,8 @@
   </programme>
   <programme start="20260826024500 +0000" stop="20260826030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why are lab monkeys so expensive?</sub-title>
+    <desc lang="en">Why a long-tailed macaque can sell for tens of thousands of dollars.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260826030000 +0000" stop="20260826033000 +0000" channel="BBCNews.uk">
@@ -241,7 +242,8 @@
   </programme>
   <programme start="20260826034500 +0000" stop="20260826040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why are lab monkeys so expensive?</sub-title>
+    <desc lang="en">Why a long-tailed macaque can sell for tens of thousands of dollars.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260826040000 +0000" stop="20260826043000 +0000" channel="BBCNews.uk">
