@@ -133,15 +133,11 @@
     <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
   </programme>
-  <programme start="20260827180000 +0000" stop="20260827183000 +0000" channel="BBCNews.uk">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
-  </programme>
-  <programme start="20260827183000 +0000" stop="20260827190000 +0000" channel="BBCNews.uk">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
+  <programme start="20260827180000 +0000" stop="20260827190000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News Special</title>
+    <sub-title lang="en">Nepal-Tibet Flood Disaster</sub-title>
+    <desc lang="en">BBC News looks at the devastating floods affecting Nepal and Tibet.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p6m8k5.jpg" />
   </programme>
   <programme start="20260827190000 +0000" stop="20260827193000 +0000" channel="BBCNews.uk">
     <title lang="en">The Context USA</title>
@@ -171,7 +167,7 @@
   <programme start="20260827213000 +0000" stop="20260827220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
     <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p6ptkn.jpg" />
   </programme>
   <programme start="20260827220000 +0000" stop="20260827230000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
