@@ -166,7 +166,7 @@
   <programme start="20260828213000 +0000" stop="20260828220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
     <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p6xg29.jpg" />
   </programme>
   <programme start="20260828220000 +0000" stop="20260828223000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
@@ -191,7 +191,7 @@
   </programme>
   <programme start="20260828233000 +0000" stop="20260829000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Water has been a flashpoint in the Middle East and worldwide demand is outstripping supply</desc>
+    <desc lang="en">Is the space economy the next gold rush?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260829000000 +0000" stop="20260829003000 +0000" channel="BBCNews.uk">
@@ -223,7 +223,7 @@
   </programme>
   <programme start="20260829023000 +0000" stop="20260829030000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Water has been a flashpoint in the Middle East and worldwide demand is outstripping supply</desc>
+    <desc lang="en">Is the space economy the next gold rush?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260829030000 +0000" stop="20260829033000 +0000" channel="BBCNews.uk">
@@ -273,9 +273,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260829103000 +0000" stop="20260829110000 +0000" channel="BBCNews.uk">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Water has been a flashpoint in the Middle East and worldwide demand is outstripping supply</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
+    <title lang="en">The Travel Show</title>
+    <sub-title lang="en">Do Zoos Have a Future?</sub-title>
+    <desc lang="en">As the Zoological Society of London turns 200, Roma Wells asks: what are zoos for?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nyhvq0.jpg" />
   </programme>
   <programme start="20260829110000 +0000" stop="20260829113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -402,10 +403,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260830003000 +0000" stop="20260830010000 +0000" channel="BBCNews.uk">
-    <title lang="en">Talking Movies</title>
-    <sub-title lang="en">Summer Blockbuster Season</sub-title>
-    <desc lang="en">A review of Hollywood's summer movie season.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0c80mhr.jpg" />
+    <title lang="en">Talking Business</title>
+    <desc lang="en">Is the space economy the next gold rush?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260830010000 +0000" stop="20260830013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -451,21 +451,15 @@
     <desc lang="en">Jimmy Mistry, a Parsi business tycoon, designed his own skyscraper.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p3y44m.jpg" />
   </programme>
-  <programme start="20260830050000 +0000" stop="20260830070000 +0000" channel="BBCNews.uk">
+  <programme start="20260830050000 +0000" stop="20260830075000 +0000" channel="BBCNews.uk">
     <title lang="en">Breakfast</title>
     <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p5zj2v.png" />
   </programme>
-  <programme start="20260830070000 +0000" stop="20260830073000 +0000" channel="BBCNews.uk">
+  <programme start="20260830075000 +0000" stop="20260830080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260830073000 +0000" stop="20260830080000 +0000" channel="BBCNews.uk">
-    <title lang="en">Talking Movies</title>
-    <sub-title lang="en">Summer Blockbuster Season</sub-title>
-    <desc lang="en">A review of Hollywood's summer movie season.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0c80mhr.jpg" />
   </programme>
   <programme start="20260830080000 +0000" stop="20260830090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -893,7 +887,7 @@
   </programme>
   <programme start="20260901003000 +0000" stop="20260901010000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Water has been a flashpoint in the Middle East and worldwide demand is outstripping supply</desc>
+    <desc lang="en">Is the space economy the next gold rush?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260901010000 +0000" stop="20260901013000 +0000" channel="BBCNews.uk">
