@@ -61,12 +61,7 @@
     <desc lang="en">Do rising temperatures and deforestation make diseases like Ebola more likely to spread?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
   </programme>
-  <programme start="20260829140000 +0000" stop="20260829143000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260829143000 +0000" stop="20260829150000 +0000" channel="BBCNews.uk">
+  <programme start="20260829140000 +0000" stop="20260829150000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
