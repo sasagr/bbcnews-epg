@@ -28,16 +28,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260830103000 +0000" stop="20260830104500 +0000" channel="BBCNews.uk">
+  <programme start="20260830103000 +0000" stop="20260830110000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260830104500 +0000" stop="20260830110000 +0000" channel="BBCNews.uk">
-    <title lang="en">The President's Path</title>
-    <sub-title lang="en">Heated Rivalry: US v Canada</sub-title>
-    <desc lang="en">US-Canada trade war deepens with tit-for-tat tariffs between the historic close allies.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260830110000 +0000" stop="20260830113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
