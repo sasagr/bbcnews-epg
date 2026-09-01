@@ -104,9 +104,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
   <programme start="20260901153000 +0000" stop="20260901154500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260901154500 +0000" stop="20260901160000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -129,9 +129,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nh7frq.jpg" />
   </programme>
   <programme start="20260901173000 +0000" stop="20260901180000 +0000" channel="BBCNews.uk">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260901180000 +0000" stop="20260901183000 +0000" channel="BBCNews.uk">
     <title lang="en">The World Today with Maryam Moshiri</title>
@@ -999,10 +999,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260905023000 +0000" stop="20260905030000 +0000" channel="BBCNews.uk">
-    <title lang="en">Africa Eye</title>
-    <sub-title lang="en">Abandoned: Searching for Soldier Dad - Episode 1</sub-title>
+    <title lang="en">Abandoned: Searching for Soldier Dad</title>
+    <sub-title lang="en">Episode 1</sub-title>
     <desc lang="en">Africa Eye follows a groundbreaking process helping Kenyans track down their British dads.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0b9pgtc.png" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p7d1sc.jpg" />
   </programme>
   <programme start="20260905030000 +0000" stop="20260905033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1193,10 +1193,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260906013000 +0000" stop="20260906020000 +0000" channel="BBCNews.uk">
-    <title lang="en">Africa Eye</title>
-    <sub-title lang="en">Abandoned: Searching for Soldier Dad - Episode 1</sub-title>
+    <title lang="en">Abandoned: Searching for Soldier Dad</title>
+    <sub-title lang="en">Episode 1</sub-title>
     <desc lang="en">Africa Eye follows a groundbreaking process helping Kenyans track down their British dads.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0b9pgtc.png" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p7d1sc.jpg" />
   </programme>
   <programme start="20260906020000 +0000" stop="20260906023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1385,10 +1385,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260907003000 +0000" stop="20260907010000 +0000" channel="BBCNews.uk">
-    <title lang="en">Africa Eye</title>
-    <sub-title lang="en">Abandoned: Searching for Soldier Dad - Episode 1</sub-title>
+    <title lang="en">Abandoned: Searching for Soldier Dad</title>
+    <sub-title lang="en">Episode 1</sub-title>
     <desc lang="en">Africa Eye follows a groundbreaking process helping Kenyans track down their British dads.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0b9pgtc.png" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p7d1sc.jpg" />
   </programme>
   <programme start="20260907010000 +0000" stop="20260907013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
