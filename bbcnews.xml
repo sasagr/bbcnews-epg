@@ -225,7 +225,8 @@
   </programme>
   <programme start="20260902024500 +0000" stop="20260902030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">The AI Data Centre Boom in Southeast Asia</sub-title>
+    <desc lang="en">AI is driving a data centre boom across Asia, but is it costing communities?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260902030000 +0000" stop="20260902033000 +0000" channel="BBCNews.uk">
@@ -240,7 +241,8 @@
   </programme>
   <programme start="20260902034500 +0000" stop="20260902040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">The AI Data Centre Boom in Southeast Asia</sub-title>
+    <desc lang="en">AI is driving a data centre boom across Asia, but is it costing communities?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260902040000 +0000" stop="20260902043000 +0000" channel="BBCNews.uk">
