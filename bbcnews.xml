@@ -49,9 +49,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260902103000 +0000" stop="20260902104500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260902104500 +0000" stop="20260902105500 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -60,7 +60,7 @@
   </programme>
   <programme start="20260902105500 +0000" stop="20260902120000 +0000" channel="BBCNews.uk">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Andy Burnham's first Prime Minister's Questions.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
   </programme>
   <programme start="20260902120000 +0000" stop="20260902130000 +0000" channel="BBCNews.uk">
@@ -707,7 +707,7 @@
   </programme>
   <programme start="20260904233000 +0000" stop="20260905000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Why are the world’s supply chains at breaking point?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260905000000 +0000" stop="20260905003000 +0000" channel="BBCNews.uk">
@@ -790,7 +790,7 @@
   </programme>
   <programme start="20260905103000 +0000" stop="20260905110000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Why are the world’s supply chains at breaking point?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260905110000 +0000" stop="20260905113000 +0000" channel="BBCNews.uk">
@@ -901,7 +901,7 @@
   </programme>
   <programme start="20260905223000 +0000" stop="20260905230000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Why are the world’s supply chains at breaking point?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260905230000 +0000" stop="20260905233000 +0000" channel="BBCNews.uk">
@@ -1385,7 +1385,7 @@
   </programme>
   <programme start="20260908003000 +0000" stop="20260908010000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Why are the world’s supply chains at breaking point?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260908010000 +0000" stop="20260908013000 +0000" channel="BBCNews.uk">
