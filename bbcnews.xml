@@ -93,20 +93,15 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260904155500 +0000" stop="20260904163000 +0000" channel="BBCNews.uk">
+  <programme start="20260904155500 +0000" stop="20260904170000 +0000" channel="BBCNews.uk">
     <title lang="en">Politics Live</title>
     <desc lang="en">The big political issues of the day.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
   </programme>
-  <programme start="20260904163000 +0000" stop="20260904170000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
   <programme start="20260904170000 +0000" stop="20260904173000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at Six</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nh7frq.jpg" />
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
   </programme>
   <programme start="20260904173000 +0000" stop="20260904180000 +0000" channel="BBCNews.uk">
     <title lang="en">The World Today with Maryam Moshiri</title>
@@ -215,7 +210,7 @@
   <programme start="20260905033000 +0000" stop="20260905040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Meet the Meat Proxies</sub-title>
-    <desc lang="en">The humans who’ve become mouthpieces for text written by AI.</desc>
+    <desc lang="en">The humans who've become mouthpieces for text written by AI.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260905040000 +0000" stop="20260905043000 +0000" channel="BBCNews.uk">
@@ -303,7 +298,7 @@
   </programme>
   <programme start="20260905144500 +0000" stop="20260905150000 +0000" channel="BBCNews.uk">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News.</desc>
+    <desc lang="en">Was the BBC’s coverage of Jason Arday proportionate in the weeks leading up to his death?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20260905150000 +0000" stop="20260905153000 +0000" channel="BBCNews.uk">
@@ -314,7 +309,7 @@
   <programme start="20260905153000 +0000" stop="20260905160000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Meet the Meat Proxies</sub-title>
-    <desc lang="en">The humans who’ve become mouthpieces for text written by AI.</desc>
+    <desc lang="en">The humans who've become mouthpieces for text written by AI.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260905160000 +0000" stop="20260905170000 +0000" channel="BBCNews.uk">
@@ -380,7 +375,7 @@
   <programme start="20260905233000 +0000" stop="20260906000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Meet the Meat Proxies</sub-title>
-    <desc lang="en">The humans who’ve become mouthpieces for text written by AI.</desc>
+    <desc lang="en">The humans who've become mouthpieces for text written by AI.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260906000000 +0000" stop="20260906003000 +0000" channel="BBCNews.uk">
@@ -486,7 +481,7 @@
   <programme start="20260906123000 +0000" stop="20260906130000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Meet the Meat Proxies</sub-title>
-    <desc lang="en">The humans who’ve become mouthpieces for text written by AI.</desc>
+    <desc lang="en">The humans who've become mouthpieces for text written by AI.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260906130000 +0000" stop="20260906133000 +0000" channel="BBCNews.uk">
@@ -1115,7 +1110,7 @@
   <programme start="20260909003000 +0000" stop="20260909010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Meet the Meat Proxies</sub-title>
-    <desc lang="en">The humans who’ve become mouthpieces for text written by AI.</desc>
+    <desc lang="en">The humans who've become mouthpieces for text written by AI.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260909010000 +0000" stop="20260909013000 +0000" channel="BBCNews.uk">
