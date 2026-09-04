@@ -69,9 +69,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20260904120000 +0000" stop="20260904130000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260904130000 +0000" stop="20260904133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -175,7 +175,8 @@
   </programme>
   <programme start="20260904223000 +0000" stop="20260904230000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump’s Second Term: How America and the World See Him</sub-title>
+    <desc lang="en">With the midterms just two months away, we answer your questions on Trump’s second term.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260904230000 +0000" stop="20260904233000 +0000" channel="BBCNews.uk">
@@ -195,8 +196,9 @@
   </programme>
   <programme start="20260905003000 +0000" stop="20260905010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Inside Gamescom: The Big Reveals</sub-title>
     <desc lang="en">Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p7znym.jpg" />
   </programme>
   <programme start="20260905010000 +0000" stop="20260905013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -477,7 +479,8 @@
   </programme>
   <programme start="20260906103000 +0000" stop="20260906110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump’s Second Term: How America and the World See Him</sub-title>
+    <desc lang="en">With the midterms just two months away, we answer your questions on Trump’s second term.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260906110000 +0000" stop="20260906113000 +0000" channel="BBCNews.uk">
@@ -508,8 +511,9 @@
   </programme>
   <programme start="20260906133000 +0000" stop="20260906140000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Inside Gamescom: The Big Reveals</sub-title>
     <desc lang="en">Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p7znym.jpg" />
   </programme>
   <programme start="20260906140000 +0000" stop="20260906143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1642,8 +1646,9 @@
   </programme>
   <programme start="20260911003000 +0000" stop="20260911010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Inside Gamescom: The Big Reveals</sub-title>
     <desc lang="en">Laura Cress has the highlights from Gamescom, the biggest gaming convention in the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p7znym.jpg" />
   </programme>
   <programme start="20260911010000 +0000" stop="20260911013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
