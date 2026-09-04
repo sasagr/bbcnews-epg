@@ -68,25 +68,10 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20260904120000 +0000" stop="20260904130000 +0000" channel="BBCNews.uk">
+  <programme start="20260904120000 +0000" stop="20260904140000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260904130000 +0000" stop="20260904133000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20260904133000 +0000" stop="20260904134500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">The latest business news from New York and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
-  </programme>
-  <programme start="20260904134500 +0000" stop="20260904140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20260904140000 +0000" stop="20260904143000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -98,20 +83,20 @@
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
-  <programme start="20260904150000 +0000" stop="20260904153000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  <programme start="20260904150000 +0000" stop="20260904152500 +0000" channel="BBCNews.uk">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
   </programme>
-  <programme start="20260904153000 +0000" stop="20260904160000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  <programme start="20260904152500 +0000" stop="20260904155500 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260904160000 +0000" stop="20260904163000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  <programme start="20260904155500 +0000" stop="20260904163000 +0000" channel="BBCNews.uk">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
   </programme>
   <programme start="20260904163000 +0000" stop="20260904170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
