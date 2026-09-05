@@ -117,8 +117,9 @@
   </programme>
   <programme start="20260905193000 +0000" stop="20260905200000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nykx20.jpg" />
+    <sub-title lang="en">How damaging is Reform's donations row?</sub-title>
+    <desc lang="en">Nigel Farage tells Laura he 'wasn't listening' during foreign donor talks.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86gws.jpg" />
   </programme>
   <programme start="20260905200000 +0000" stop="20260905210000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -212,7 +213,7 @@
   </programme>
   <programme start="20260906080000 +0000" stop="20260906090000 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">Laura talks to Nigel Farage, Jonathan Reynolds and Andrew Griffith.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l7vnvy.jpg" />
   </programme>
   <programme start="20260906090000 +0000" stop="20260906093000 +0000" channel="BBCNews.uk">
@@ -321,7 +322,7 @@
   <programme start="20260906193000 +0000" stop="20260906200000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
     <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nykx20.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20260906200000 +0000" stop="20260906210000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -613,7 +614,7 @@
   <programme start="20260907233000 +0000" stop="20260908000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
     <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nykx20.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20260908000000 +0000" stop="20260908003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -873,7 +874,7 @@
   <programme start="20260908233000 +0000" stop="20260909000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
     <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nykx20.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20260909000000 +0000" stop="20260909003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1129,7 +1130,7 @@
   <programme start="20260909233000 +0000" stop="20260910000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
     <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nykx20.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20260910000000 +0000" stop="20260910003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1390,7 +1391,7 @@
   <programme start="20260910233000 +0000" stop="20260911000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
     <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nykx20.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20260911000000 +0000" stop="20260911003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
