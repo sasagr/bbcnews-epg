@@ -5,6 +5,7 @@
   </channel>
   <programme start="20260906080000 +0000" stop="20260906090000 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
+    <sub-title lang="en">Interview with Nigel Farage</sub-title>
     <desc lang="en">Laura talks to Nigel Farage, Jonathan Reynolds and Andrew Griffith.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l7vnvy.jpg" />
   </programme>
