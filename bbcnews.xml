@@ -486,7 +486,8 @@
   </programme>
   <programme start="20260909024500 +0000" stop="20260909030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why Indonesia can’t stop the haze?</sub-title>
+    <desc lang="en">Can haze wafting across borders in South East Asia be stopped?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260909030000 +0000" stop="20260909033000 +0000" channel="BBCNews.uk">
@@ -501,7 +502,8 @@
   </programme>
   <programme start="20260909034500 +0000" stop="20260909040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why Indonesia can’t stop the haze?</sub-title>
+    <desc lang="en">Can haze wafting across borders in South East Asia be stopped?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260909040000 +0000" stop="20260909043000 +0000" channel="BBCNews.uk">
