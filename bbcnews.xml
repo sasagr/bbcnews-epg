@@ -98,20 +98,10 @@
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
-  <programme start="20260907150000 +0000" stop="20260907153000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20260907153000 +0000" stop="20260907154500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20260907154500 +0000" stop="20260907160000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  <programme start="20260907150000 +0000" stop="20260907160000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260907160000 +0000" stop="20260907163000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -185,8 +175,9 @@
   </programme>
   <programme start="20260907233000 +0000" stop="20260908000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Can the Chancellor's positive vibes limit tax rises?</sub-title>
+    <desc lang="en">Chancellor John Healey aims for ‘vibes boost’ in first major economic speech.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p8fwk2.jpg" />
   </programme>
   <programme start="20260908000000 +0000" stop="20260908003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
