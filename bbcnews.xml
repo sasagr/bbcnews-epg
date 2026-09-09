@@ -180,8 +180,9 @@
   </programme>
   <programme start="20260909233000 +0000" stop="20260910000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Is This The Biggest Row Between Israel And The UK?</sub-title>
+    <desc lang="en">What counter-measures has Israel taken against the UK?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p8s4h0.jpg" />
   </programme>
   <programme start="20260910000000 +0000" stop="20260910003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -930,10 +931,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260913013000 +0000" stop="20260913020000 +0000" channel="BBCNews.uk">
-    <title lang="en">Abandoned: Searching for Soldier Dad</title>
-    <sub-title lang="en">Episode 2</sub-title>
-    <desc lang="en">Africa Eye follows a groundbreaking process helping Kenyans track down their British dads.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p7d1sc.jpg" />
+    <title lang="en">Inside India's Cockroach Party</title>
+    <desc lang="en">What will India's 'cockroaches' do next?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
   </programme>
   <programme start="20260913020000 +0000" stop="20260913023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
