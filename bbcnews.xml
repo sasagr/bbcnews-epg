@@ -493,7 +493,8 @@
   </programme>
   <programme start="20260912033000 +0000" stop="20260912040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">A Television Experiment That Lasted 60 Years</sub-title>
+    <desc lang="en">After more than 60 years, the groundbreaking Up documentary series comes to an end.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260912040000 +0000" stop="20260912043000 +0000" channel="BBCNews.uk">
@@ -554,7 +555,8 @@
   </programme>
   <programme start="20260912123000 +0000" stop="20260912130000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">A Television Experiment That Lasted 60 Years</sub-title>
+    <desc lang="en">After more than 60 years, the groundbreaking Up documentary series comes to an end.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260912130000 +0000" stop="20260912133000 +0000" channel="BBCNews.uk">
@@ -589,7 +591,8 @@
   </programme>
   <programme start="20260912153000 +0000" stop="20260912160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <sub-title lang="en">Angela Rayner</sub-title>
+    <desc lang="en">Angela Rayner reflects on the difference between the Burnham and Starmer premierships.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="BBCNews.uk">
@@ -654,7 +657,8 @@
   </programme>
   <programme start="20260912233000 +0000" stop="20260913000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">A Television Experiment That Lasted 60 Years</sub-title>
+    <desc lang="en">After more than 60 years, the groundbreaking Up documentary series comes to an end.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260913000000 +0000" stop="20260913003000 +0000" channel="BBCNews.uk">
@@ -676,7 +680,7 @@
   <programme start="20260913013000 +0000" stop="20260913020000 +0000" channel="BBCNews.uk">
     <title lang="en">Inside India's Cockroach Party</title>
     <desc lang="en">What will India's 'cockroaches' do next?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p8x1wf.jpg" />
   </programme>
   <programme start="20260913020000 +0000" stop="20260913023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1391,7 +1395,8 @@
   </programme>
   <programme start="20260916003000 +0000" stop="20260916010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">A Television Experiment That Lasted 60 Years</sub-title>
+    <desc lang="en">After more than 60 years, the groundbreaking Up documentary series comes to an end.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260916010000 +0000" stop="20260916013000 +0000" channel="BBCNews.uk">
