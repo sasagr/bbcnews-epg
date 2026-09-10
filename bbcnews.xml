@@ -185,8 +185,9 @@
   </programme>
   <programme start="20260910233000 +0000" stop="20260911000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Trump's $5,000 Payout Promise</sub-title>
+    <desc lang="en">Trump says every adult American will get $5,000 if the Republicans win the midterms.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p905kx.jpg" />
   </programme>
   <programme start="20260911000000 +0000" stop="20260911003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
