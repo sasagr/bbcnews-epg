@@ -69,9 +69,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20260911120000 +0000" stop="20260911130000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260911130000 +0000" stop="20260911133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -175,7 +175,8 @@
   </programme>
   <programme start="20260911223000 +0000" stop="20260911224500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">25 Years On: How 9/11 Changed America And The World</sub-title>
+    <desc lang="en">As America marks 25 years since 9/11, we discuss its lasting legacy.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260911224500 +0000" stop="20260911230000 +0000" channel="BBCNews.uk">
@@ -190,7 +191,7 @@
   </programme>
   <programme start="20260911233000 +0000" stop="20260912000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Can technology limit the economic damage of extreme weather?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260912000000 +0000" stop="20260912003000 +0000" channel="BBCNews.uk">
@@ -201,7 +202,7 @@
   <programme start="20260912003000 +0000" stop="20260912010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
     <desc lang="en">Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p93vgf.jpg" />
   </programme>
   <programme start="20260912010000 +0000" stop="20260912013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -274,7 +275,7 @@
   </programme>
   <programme start="20260912103000 +0000" stop="20260912110000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Can technology limit the economic damage of extreme weather?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260912110000 +0000" stop="20260912113000 +0000" channel="BBCNews.uk">
@@ -305,7 +306,8 @@
   </programme>
   <programme start="20260912133000 +0000" stop="20260912140000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Smart Glasses: Fear, Privacy and Promise</sub-title>
+    <desc lang="en">Are we in danger of demonising a technology with the potential to benefit millions?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260912140000 +0000" stop="20260912143000 +0000" channel="BBCNews.uk">
@@ -332,7 +334,7 @@
     <title lang="en">Political Thinking with Nick Robinson</title>
     <sub-title lang="en">Angela Rayner</sub-title>
     <desc lang="en">Angela Rayner reflects on the difference between the Burnham and Starmer premierships.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p94jjq.jpg" />
   </programme>
   <programme start="20260912160000 +0000" stop="20260912170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -386,7 +388,7 @@
   </programme>
   <programme start="20260912223000 +0000" stop="20260912230000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Can technology limit the economic damage of extreme weather?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260912230000 +0000" stop="20260912233000 +0000" channel="BBCNews.uk">
@@ -428,7 +430,8 @@
   </programme>
   <programme start="20260913023000 +0000" stop="20260913030000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Smart Glasses: Fear, Privacy and Promise</sub-title>
+    <desc lang="en">Are we in danger of demonising a technology with the potential to benefit millions?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260913030000 +0000" stop="20260913033000 +0000" channel="BBCNews.uk">
@@ -485,7 +488,8 @@
   </programme>
   <programme start="20260913104500 +0000" stop="20260913110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">25 Years On: How 9/11 Changed America And The World</sub-title>
+    <desc lang="en">As America marks 25 years since 9/11, we discuss its lasting legacy.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260913110000 +0000" stop="20260913113000 +0000" channel="BBCNews.uk">
@@ -517,7 +521,7 @@
   <programme start="20260913133000 +0000" stop="20260913140000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
     <desc lang="en">Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p93vgf.jpg" />
   </programme>
   <programme start="20260913140000 +0000" stop="20260913143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -592,7 +596,8 @@
   </programme>
   <programme start="20260913223000 +0000" stop="20260913230000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Smart Glasses: Fear, Privacy and Promise</sub-title>
+    <desc lang="en">Are we in danger of demonising a technology with the potential to benefit millions?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260913230000 +0000" stop="20260913233000 +0000" channel="BBCNews.uk">
@@ -874,7 +879,7 @@
   </programme>
   <programme start="20260915003000 +0000" stop="20260915010000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Can technology limit the economic damage of extreme weather?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260915010000 +0000" stop="20260915013000 +0000" channel="BBCNews.uk">
@@ -1395,7 +1400,8 @@
   </programme>
   <programme start="20260917003000 +0000" stop="20260917010000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Smart Glasses: Fear, Privacy and Promise</sub-title>
+    <desc lang="en">Are we in danger of demonising a technology with the potential to benefit millions?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260917010000 +0000" stop="20260917013000 +0000" channel="BBCNews.uk">
@@ -1651,7 +1657,7 @@
   <programme start="20260918003000 +0000" stop="20260918010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
     <desc lang="en">Shiona McCallum meets mums and hospital staff trialling a new assisted birth innovation.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p93vgf.jpg" />
   </programme>
   <programme start="20260918010000 +0000" stop="20260918013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
