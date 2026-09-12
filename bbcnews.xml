@@ -49,16 +49,10 @@
     <desc lang="en">After more than 60 years, the groundbreaking Up documentary series comes to an end.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
-  <programme start="20260912130000 +0000" stop="20260912133000 +0000" channel="BBCNews.uk">
+  <programme start="20260912130000 +0000" stop="20260912140000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260912133000 +0000" stop="20260912140000 +0000" channel="BBCNews.uk">
-    <title lang="en">AI Decoded</title>
-    <sub-title lang="en">AI Smart Glasses: Fear, Privacy and Promise</sub-title>
-    <desc lang="en">Are we in danger of demonising a technology with the potential to benefit millions?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260912140000 +0000" stop="20260912143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
