@@ -5,8 +5,9 @@
   </channel>
   <programme start="20260913080000 +0000" stop="20260913090000 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
+    <sub-title lang="en">Reform's mega donations, and why AI staff are 'frightened'</sub-title>
     <desc lang="en">Laura talks to Angela Rayner MP, Tom Tugendhat MP, Rhun Ap Iorwerth and Jacob Coxon.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l7vnvy.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p9f3tr.jpg" />
   </programme>
   <programme start="20260913090000 +0000" stop="20260913093000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
