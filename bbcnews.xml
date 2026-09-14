@@ -89,9 +89,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
   <programme start="20260914143000 +0000" stop="20260914150000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260914150000 +0000" stop="20260914153000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -180,8 +180,9 @@
   </programme>
   <programme start="20260914233000 +0000" stop="20260915000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Can AI Actually Be Slowed Down?</sub-title>
+    <desc lang="en">President Trump dismisses need for AI guardrails, saying “whoever wins AI, wins”</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p9lq97.jpg" />
   </programme>
   <programme start="20260915000000 +0000" stop="20260915003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
