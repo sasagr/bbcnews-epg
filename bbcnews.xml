@@ -43,15 +43,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260914100000 +0000" stop="20260914103000 +0000" channel="BBCNews.uk">
+  <programme start="20260914100000 +0000" stop="20260914104500 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260914103000 +0000" stop="20260914104500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
   <programme start="20260914104500 +0000" stop="20260914110000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
