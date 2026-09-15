@@ -69,24 +69,19 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260915120000 +0000" stop="20260915130000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260915130000 +0000" stop="20260915133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20260915133000 +0000" stop="20260915134500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">The latest business news from New York and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
-  </programme>
-  <programme start="20260915134500 +0000" stop="20260915140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20260915133000 +0000" stop="20260915140000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260915140000 +0000" stop="20260915143000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -1195,7 +1190,7 @@
   </programme>
   <programme start="20260920013000 +0000" stop="20260920020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">John Simpson analyses the impact of the latest outbreak of hostilities in Yemen.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20260920020000 +0000" stop="20260920023000 +0000" channel="BBCNews.uk">
