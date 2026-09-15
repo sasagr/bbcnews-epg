@@ -58,15 +58,15 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260915110000 +0000" stop="20260915113000 +0000" channel="BBCNews.uk">
+  <programme start="20260915110000 +0000" stop="20260915112000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20260915113000 +0000" stop="20260915120000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20260915112000 +0000" stop="20260915120000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260915120000 +0000" stop="20260915130000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
@@ -226,7 +226,8 @@
   </programme>
   <programme start="20260916024500 +0000" stop="20260916030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Australia’s Plan to Beat the Algorithm</sub-title>
+    <desc lang="en">A new proposal means tech companies could be forced to let users switch off algorithms.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260916030000 +0000" stop="20260916033000 +0000" channel="BBCNews.uk">
@@ -241,7 +242,8 @@
   </programme>
   <programme start="20260916034500 +0000" stop="20260916040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Australia’s Plan to Beat the Algorithm</sub-title>
+    <desc lang="en">A new proposal means tech companies could be forced to let users switch off algorithms.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260916040000 +0000" stop="20260916043000 +0000" channel="BBCNews.uk">
