@@ -180,8 +180,9 @@
   </programme>
   <programme start="20260915233000 +0000" stop="20260916000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Is the UK state pension unaffordable?</sub-title>
+    <desc lang="en">The state pension is set to rise by 3.9%, is the triple lock affordable and fair?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p9s51q.jpg" />
   </programme>
   <programme start="20260916000000 +0000" stop="20260916003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
