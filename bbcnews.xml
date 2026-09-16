@@ -68,10 +68,15 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20260916120000 +0000" stop="20260916130000 +0000" channel="BBCNews.uk">
+  <programme start="20260916120000 +0000" stop="20260916123000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
     <desc lang="en">The latest national and international news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
+  </programme>
+  <programme start="20260916123000 +0000" stop="20260916130000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260916130000 +0000" stop="20260916133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -93,7 +98,12 @@
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
-  <programme start="20260916143000 +0000" stop="20260916150000 +0000" channel="BBCNews.uk">
+  <programme start="20260916143000 +0000" stop="20260916144500 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20260916144500 +0000" stop="20260916150000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
@@ -185,8 +195,9 @@
   </programme>
   <programme start="20260916233000 +0000" stop="20260917000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Is Energy About To Get Even More Expensive?</sub-title>
+    <desc lang="en">Damage to a major pipeline in Saudi Arabia puts global oil supply at risk.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p9xvd8.jpg" />
   </programme>
   <programme start="20260917000000 +0000" stop="20260917003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -933,7 +944,7 @@
   <programme start="20260920013000 +0000" stop="20260920020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson analyses the impact of the latest outbreak of hostilities in Yemen.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p9wk2x.jpg" />
   </programme>
   <programme start="20260920020000 +0000" stop="20260920023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
