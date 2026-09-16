@@ -180,7 +180,8 @@
   </programme>
   <programme start="20260916213000 +0000" stop="20260916220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <sub-title lang="en">Burnham's economic challenges</sub-title>
+    <desc lang="en">Can Andy Burnham make the difficult choices ahead? With Victoria Derbyshire.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
   </programme>
   <programme start="20260916220000 +0000" stop="20260916230000 +0000" channel="BBCNews.uk">
@@ -427,7 +428,7 @@
   </programme>
   <programme start="20260917200000 +0000" stop="20260917210000 +0000" channel="BBCNews.uk">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Salisbury.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
   </programme>
   <programme start="20260917210000 +0000" stop="20260917213000 +0000" channel="BBCNews.uk">
