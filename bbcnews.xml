@@ -446,7 +446,7 @@
   </programme>
   <programme start="20260918233000 +0000" stop="20260919000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ben Thompson looks into the fast-growing problem of fraud.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260919000000 +0000" stop="20260919003000 +0000" channel="BBCNews.uk">
@@ -479,7 +479,7 @@
     <title lang="en">World Questions</title>
     <sub-title lang="en">Nigeria: Truth, Trust and Fake News</sub-title>
     <desc lang="en">Who can Nigerians trust to keep their country safe?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0h9v7nk.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pb1v4g.jpg" />
   </programme>
   <programme start="20260919030000 +0000" stop="20260919033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -488,7 +488,8 @@
   </programme>
   <programme start="20260919033000 +0000" stop="20260919040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Is the Right of Reply Under Threat?</sub-title>
+    <desc lang="en">How social media is reshaping the right of reply in journalism.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260919040000 +0000" stop="20260919043000 +0000" channel="BBCNews.uk">
@@ -500,7 +501,7 @@
     <title lang="en">The Travel Show</title>
     <sub-title lang="en">The Great Offline Adventure</sub-title>
     <desc lang="en">Can the great outdoors still inspire a generation raised on screens?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p01s92th.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pb1n00.jpg" />
   </programme>
   <programme start="20260919050000 +0000" stop="20260919080000 +0000" channel="BBCNews.uk">
     <title lang="en">Breakfast</title>
@@ -529,7 +530,7 @@
   </programme>
   <programme start="20260919103000 +0000" stop="20260919110000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ben Thompson looks into the fast-growing problem of fraud.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260919110000 +0000" stop="20260919113000 +0000" channel="BBCNews.uk">
@@ -585,8 +586,9 @@
   </programme>
   <programme start="20260919153000 +0000" stop="20260919160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <sub-title lang="en">Tom Tugendhat</sub-title>
+    <desc lang="en">The shadow foreign secretary Tom Tugendhat speaks to Nick Robinson.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pb1gh1.jpg" />
   </programme>
   <programme start="20260919160000 +0000" stop="20260919170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -640,7 +642,7 @@
   </programme>
   <programme start="20260919223000 +0000" stop="20260919230000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ben Thompson looks into the fast-growing problem of fraud.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260919230000 +0000" stop="20260919233000 +0000" channel="BBCNews.uk">
@@ -650,7 +652,8 @@
   </programme>
   <programme start="20260919233000 +0000" stop="20260920000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Is the Right of Reply Under Threat?</sub-title>
+    <desc lang="en">How social media is reshaping the right of reply in journalism.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260920000000 +0000" stop="20260920003000 +0000" channel="BBCNews.uk">
@@ -760,7 +763,7 @@
     <title lang="en">The Travel Show</title>
     <sub-title lang="en">The Great Offline Adventure</sub-title>
     <desc lang="en">Can the great outdoors still inspire a generation raised on screens?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p01s92th.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pb1n00.jpg" />
   </programme>
   <programme start="20260920130000 +0000" stop="20260920133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -868,7 +871,7 @@
     <title lang="en">World Questions</title>
     <sub-title lang="en">Nigeria: Truth, Trust and Fake News</sub-title>
     <desc lang="en">Who can Nigerians trust to keep their country safe?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0h9v7nk.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pb1v4g.jpg" />
   </programme>
   <programme start="20260921010000 +0000" stop="20260921013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -1127,7 +1130,7 @@
   </programme>
   <programme start="20260922003000 +0000" stop="20260922010000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ben Thompson looks into the fast-growing problem of fraud.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260922010000 +0000" stop="20260922013000 +0000" channel="BBCNews.uk">
@@ -1387,7 +1390,8 @@
   </programme>
   <programme start="20260923003000 +0000" stop="20260923010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Is the Right of Reply Under Threat?</sub-title>
+    <desc lang="en">How social media is reshaping the right of reply in journalism.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260923010000 +0000" stop="20260923013000 +0000" channel="BBCNews.uk">
