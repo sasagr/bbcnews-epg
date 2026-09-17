@@ -180,8 +180,9 @@
   </programme>
   <programme start="20260917233000 +0000" stop="20260918000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Buckingham Palace Hits Back Over Diana Book</sub-title>
+    <desc lang="en">Buckingham Palace respond to claims made by Princess Diana’s brother in a new memoir.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pb45j6.jpg" />
   </programme>
   <programme start="20260918000000 +0000" stop="20260918003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -561,7 +562,8 @@
   </programme>
   <programme start="20260919133000 +0000" stop="20260919140000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Armageddon</sub-title>
+    <desc lang="en">Has the AI industry finally recognised the dangers of the technology it is building?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260919140000 +0000" stop="20260919143000 +0000" channel="BBCNews.uk">
@@ -684,7 +686,8 @@
   </programme>
   <programme start="20260920023000 +0000" stop="20260920030000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Armageddon</sub-title>
+    <desc lang="en">Has the AI industry finally recognised the dangers of the technology it is building?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260920030000 +0000" stop="20260920033000 +0000" channel="BBCNews.uk">
@@ -848,7 +851,8 @@
   </programme>
   <programme start="20260920223000 +0000" stop="20260920230000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Armageddon</sub-title>
+    <desc lang="en">Has the AI industry finally recognised the dangers of the technology it is building?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260920230000 +0000" stop="20260920233000 +0000" channel="BBCNews.uk">
@@ -1651,7 +1655,8 @@
   </programme>
   <programme start="20260924003000 +0000" stop="20260924010000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Armageddon</sub-title>
+    <desc lang="en">Has the AI industry finally recognised the dangers of the technology it is building?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260924010000 +0000" stop="20260924013000 +0000" channel="BBCNews.uk">
