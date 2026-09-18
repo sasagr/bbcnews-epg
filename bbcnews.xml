@@ -203,7 +203,7 @@
     <title lang="en">Tech Now</title>
     <sub-title lang="en">Chasing a Solar Eclipse</sub-title>
     <desc lang="en">Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbb5jj.jpg" />
   </programme>
   <programme start="20260919010000 +0000" stop="20260919013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -443,7 +443,7 @@
   <programme start="20260920033000 +0000" stop="20260920040000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">El Salvador: The Price of Safety</sub-title>
-    <desc lang="en">João Fellet reports on Brazil's election and the cost of El Salvador's crime crackdown.</desc>
+    <desc lang="en">Global Eye investigates El Salvador's dramatic fall in violent crime.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p95lqm.jpg" />
   </programme>
   <programme start="20260920040000 +0000" stop="20260920043000 +0000" channel="BBCNews.uk">
@@ -483,15 +483,15 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260920103000 +0000" stop="20260920104500 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260920104500 +0000" stop="20260920110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
     <sub-title lang="en">Canada-EU 'Open Relationship': A Threat to Trump?</sub-title>
     <desc lang="en">As trade tensions with the US continue, Ottawa seeks a 'unique alliance' with the EU.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
+  </programme>
+  <programme start="20260920104500 +0000" stop="20260920110000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260920110000 +0000" stop="20260920113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -523,7 +523,7 @@
     <title lang="en">Tech Now</title>
     <sub-title lang="en">Chasing a Solar Eclipse</sub-title>
     <desc lang="en">Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbb5jj.jpg" />
   </programme>
   <programme start="20260920140000 +0000" stop="20260920143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -543,7 +543,7 @@
   <programme start="20260920153000 +0000" stop="20260920160000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">El Salvador: The Price of Safety</sub-title>
-    <desc lang="en">João Fellet reports on Brazil's election and the cost of El Salvador's crime crackdown.</desc>
+    <desc lang="en">Global Eye investigates El Salvador's dramatic fall in violent crime.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p95lqm.jpg" />
   </programme>
   <programme start="20260920160000 +0000" stop="20260920170000 +0000" channel="BBCNews.uk">
@@ -610,7 +610,7 @@
   <programme start="20260920233000 +0000" stop="20260921000000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">El Salvador: The Price of Safety</sub-title>
-    <desc lang="en">João Fellet reports on Brazil's election and the cost of El Salvador's crime crackdown.</desc>
+    <desc lang="en">Global Eye investigates El Salvador's dramatic fall in violent crime.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p95lqm.jpg" />
   </programme>
   <programme start="20260921000000 +0000" stop="20260921003000 +0000" channel="BBCNews.uk">
@@ -1660,7 +1660,7 @@
     <title lang="en">Tech Now</title>
     <sub-title lang="en">Chasing a Solar Eclipse</sub-title>
     <desc lang="en">Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbb5jj.jpg" />
   </programme>
   <programme start="20260925010000 +0000" stop="20260925013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
