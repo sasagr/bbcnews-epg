@@ -175,7 +175,8 @@
   </programme>
   <programme start="20260918223000 +0000" stop="20260918224500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Canada-EU 'Open Relationship': A Threat to Trump?</sub-title>
+    <desc lang="en">As trade tensions with the US continue, Ottawa seeks a 'unique alliance' with the EU.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260918224500 +0000" stop="20260918230000 +0000" channel="BBCNews.uk">
@@ -200,6 +201,7 @@
   </programme>
   <programme start="20260919003000 +0000" stop="20260919010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Chasing a Solar Eclipse</sub-title>
     <desc lang="en">Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
   </programme>
@@ -487,7 +489,8 @@
   </programme>
   <programme start="20260920104500 +0000" stop="20260920110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Canada-EU 'Open Relationship': A Threat to Trump?</sub-title>
+    <desc lang="en">As trade tensions with the US continue, Ottawa seeks a 'unique alliance' with the EU.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260920110000 +0000" stop="20260920113000 +0000" channel="BBCNews.uk">
@@ -518,6 +521,7 @@
   </programme>
   <programme start="20260920133000 +0000" stop="20260920140000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Chasing a Solar Eclipse</sub-title>
     <desc lang="en">Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
   </programme>
@@ -1654,6 +1658,7 @@
   </programme>
   <programme start="20260925003000 +0000" stop="20260925010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Chasing a Solar Eclipse</sub-title>
     <desc lang="en">Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
   </programme>
