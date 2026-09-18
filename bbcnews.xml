@@ -165,8 +165,9 @@
   </programme>
   <programme start="20260918213000 +0000" stop="20260918220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <sub-title lang="en">The Kemi Badenoch interview</sub-title>
+    <desc lang="en">Kemi Badenoch on the pension triple lock, Trump, Truss, Earl Spencer and the King.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbd7t3.jpg" />
   </programme>
   <programme start="20260918220000 +0000" stop="20260918223000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
@@ -323,7 +324,7 @@
   </programme>
   <programme start="20260919144500 +0000" stop="20260919150000 +0000" channel="BBCNews.uk">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News.</desc>
+    <desc lang="en">Why is Friday’s edition of Newsnight moving earlier in the evening, from 10.30 to 7.00 pm?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20260919150000 +0000" stop="20260919153000 +0000" channel="BBCNews.uk">
