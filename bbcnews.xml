@@ -117,9 +117,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260919193000 +0000" stop="20260919200000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <title lang="en">The Media Show</title>
+    <sub-title lang="en">Is the Right of Reply Under Threat?</sub-title>
+    <desc lang="en">How social media is reshaping the right of reply in journalism.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260919200000 +0000" stop="20260919210000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
