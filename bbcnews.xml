@@ -7,7 +7,7 @@
     <title lang="en">Sunday with Laura Kuenssberg</title>
     <sub-title lang="en">Earl Spencer, Sting and taxing the wealthy</sub-title>
     <desc lang="en">Laura Kuenssberg talks to Bridget Phillipson MP, Sir Ed Davey MP and Sting.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l7vnvy.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pblt2z.jpg" />
   </programme>
   <programme start="20260920090000 +0000" stop="20260920093000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -120,8 +120,9 @@
   </programme>
   <programme start="20260920193000 +0000" stop="20260920200000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">The Earl Spencer Diana Interview Analysis</sub-title>
+    <desc lang="en">We go through the UK exclusive interview with Princess Diana’s brother Earl Spencer.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbm4gg.jpg" />
   </programme>
   <programme start="20260920200000 +0000" stop="20260920210000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
