@@ -103,14 +103,9 @@
     <desc lang="en">The latest news from the BBC including a round-up of the day's sporting action.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260920180000 +0000" stop="20260920183000 +0000" channel="BBCNews.uk">
+  <programme start="20260920180000 +0000" stop="20260920190000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260920183000 +0000" stop="20260920190000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC including a round-up of the day's sporting action.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260920190000 +0000" stop="20260920193000 +0000" channel="BBCNews.uk">
