@@ -53,15 +53,10 @@
     <desc lang="en">The latest business news from London and around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
-  <programme start="20260921104500 +0000" stop="20260921110000 +0000" channel="BBCNews.uk">
+  <programme start="20260921104500 +0000" stop="20260921113000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260921110000 +0000" stop="20260921113000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20260921113000 +0000" stop="20260921120000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
