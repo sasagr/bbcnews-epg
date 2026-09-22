@@ -79,9 +79,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20260922133000 +0000" stop="20260922144500 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <title lang="en">Politics Live</title>
+    <sub-title lang="en">Ed Davey delivers his keynote speech to the Lib Dem conference</sub-title>
+    <desc lang="en">Ed Davey addresses the party faithful on the final day of their gathering in Brighton.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbx3tt.jpg" />
   </programme>
   <programme start="20260922144500 +0000" stop="20260922150000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -93,12 +94,7 @@
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
-  <programme start="20260922153000 +0000" stop="20260922154500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20260922154500 +0000" stop="20260922160000 +0000" channel="BBCNews.uk">
+  <programme start="20260922153000 +0000" stop="20260922160000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
@@ -175,8 +171,9 @@
   </programme>
   <programme start="20260922233000 +0000" stop="20260923000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Will Trump "Annihilate" Or "Negotiate" With Iran?</sub-title>
+    <desc lang="en">Trump repeats Iran ultimatum and says AI should be rebranded 'super intelligence’.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbxz5j.jpg" />
   </programme>
   <programme start="20260923000000 +0000" stop="20260923003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1043,7 +1040,7 @@
   </programme>
   <programme start="20260926073000 +0000" stop="20260926080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">John Simpson analyses the state of the German government after regional election defeats.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="BBCNews.uk">
@@ -1210,7 +1207,7 @@
   </programme>
   <programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">John Simpson analyses the state of the German government after regional election defeats.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="BBCNews.uk">
