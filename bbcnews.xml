@@ -170,10 +170,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260922233000 +0000" stop="20260923000000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <sub-title lang="en">Will Trump "Annihilate" Or "Negotiate" With Iran?</sub-title>
-    <desc lang="en">Trump repeats Iran ultimatum and says AI should be rebranded 'super intelligence’.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbxz5j.jpg" />
+    <title lang="en">Talking Business</title>
+    <desc lang="en">Ben Thompson looks into the fast-growing problem of fraud.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260923000000 +0000" stop="20260923003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
