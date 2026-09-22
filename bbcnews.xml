@@ -78,22 +78,12 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20260922133000 +0000" stop="20260922134500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">The latest business news from New York and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
+  <programme start="20260922133000 +0000" stop="20260922144500 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260922134500 +0000" stop="20260922140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20260922140000 +0000" stop="20260922143000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20260922143000 +0000" stop="20260922150000 +0000" channel="BBCNews.uk">
+  <programme start="20260922144500 +0000" stop="20260922150000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
@@ -226,7 +216,8 @@
   </programme>
   <programme start="20260923024500 +0000" stop="20260923030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Can the US and China make AI safer?</sub-title>
+    <desc lang="en">Can the US and China rein in AI from going rogue?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260923030000 +0000" stop="20260923033000 +0000" channel="BBCNews.uk">
@@ -241,7 +232,8 @@
   </programme>
   <programme start="20260923034500 +0000" stop="20260923040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Can the US and China make AI safer?</sub-title>
+    <desc lang="en">Can the US and China rein in AI from going rogue?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20260923040000 +0000" stop="20260923043000 +0000" channel="BBCNews.uk">
