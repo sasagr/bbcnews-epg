@@ -185,8 +185,9 @@
   </programme>
   <programme start="20260923233000 +0000" stop="20260924000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Burnham vs Trump, Putin and... Danny Dyer</sub-title>
+    <desc lang="en">Andy Burnham meets President Trump, takes on Russia and responds to Danny Dyer.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pc1zf6.jpg" />
   </programme>
   <programme start="20260924000000 +0000" stop="20260924003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -737,10 +738,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Interview</title>
-    <sub-title lang="en">Roelf Meyer</sub-title>
+    <title lang="en">Roelf Meyer: The Interview</title>
     <desc lang="en">South Africa’s ambassador to the US speaks about negotiating with Donald Trump.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m3d1cg.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
   </programme>
   <programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -791,7 +791,7 @@
   <programme start="20260926073000 +0000" stop="20260926080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson analyses the state of the German government after regional election defeats.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pc1tbz.jpg" />
   </programme>
   <programme start="20260926080000 +0000" stop="20260926090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -871,6 +871,7 @@
   </programme>
   <programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
+    <sub-title lang="en">Paul Greengrass</sub-title>
     <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
@@ -958,7 +959,7 @@
   <programme start="20260927013000 +0000" stop="20260927020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson analyses the state of the German government after regional election defeats.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pc1tbz.jpg" />
   </programme>
   <programme start="20260927020000 +0000" stop="20260927023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1176,10 +1177,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260928003000 +0000" stop="20260928010000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Climate Question</title>
-    <sub-title lang="en">Can China Build its Way Out of Climate Change?</sub-title>
-    <desc lang="en">Beijing is investing heavily in clean energy and infrastructure. Will it help the climate?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+    <title lang="en">Roelf Meyer: The Interview</title>
+    <desc lang="en">South Africa’s ambassador to the US speaks about negotiating with Donald Trump.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
   </programme>
   <programme start="20260928010000 +0000" stop="20260928013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
