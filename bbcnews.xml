@@ -416,7 +416,7 @@
   </programme>
   <programme start="20260924200000 +0000" stop="20260924210000 +0000" channel="BBCNews.uk">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Cambridge.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
   </programme>
   <programme start="20260924210000 +0000" stop="20260924213000 +0000" channel="BBCNews.uk">
@@ -737,10 +737,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Climate Question</title>
-    <sub-title lang="en">Can China Build its Way Out of Climate Change?</sub-title>
-    <desc lang="en">Beijing is investing heavily in clean energy and infrastructure. Will it help the climate?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+    <title lang="en">The Interview</title>
+    <sub-title lang="en">Roelf Meyer</sub-title>
+    <desc lang="en">South Africa’s ambassador to the US speaks about negotiating with Donald Trump.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m3d1cg.jpg" />
   </programme>
   <programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
