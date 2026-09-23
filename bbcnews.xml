@@ -184,10 +184,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260923233000 +0000" stop="20260924000000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <sub-title lang="en">Burnham vs Trump, Putin and... Danny Dyer</sub-title>
-    <desc lang="en">Andy Burnham meets President Trump, takes on Russia and responds to Danny Dyer.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pc1zf6.jpg" />
+    <title lang="en">Tech Now</title>
+    <sub-title lang="en">Chasing a Solar Eclipse</sub-title>
+    <desc lang="en">Adrienne Murray follows NASA scientists in Iceland researching a rare total solar eclipse.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbb5jj.jpg" />
   </programme>
   <programme start="20260924000000 +0000" stop="20260924003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
