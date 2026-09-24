@@ -456,8 +456,9 @@
   </programme>
   <programme start="20260926003000 +0000" stop="20260926010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Hunting the Fakes</sub-title>
     <desc lang="en">Ammie Sekhon explores tech used to identify and remove counterfeit products online.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pc9t8x.jpg" />
   </programme>
   <programme start="20260926010000 +0000" stop="20260926013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -519,8 +520,9 @@
   </programme>
   <programme start="20260926063000 +0000" stop="20260926070000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Hunting the Fakes</sub-title>
     <desc lang="en">Ammie Sekhon explores tech used to identify and remove counterfeit products online.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pc9t8x.jpg" />
   </programme>
   <programme start="20260926070000 +0000" stop="20260926073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -821,8 +823,9 @@
   </programme>
   <programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Hunting the Fakes</sub-title>
     <desc lang="en">Ammie Sekhon explores tech used to identify and remove counterfeit products online.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pc9t8x.jpg" />
   </programme>
   <programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
