@@ -446,7 +446,7 @@
   </programme>
   <programme start="20260925233000 +0000" stop="20260926000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How big a problem is forced labour across the global economy?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260926000000 +0000" stop="20260926003000 +0000" channel="BBCNews.uk">
@@ -487,7 +487,8 @@
   </programme>
   <programme start="20260926033000 +0000" stop="20260926040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Earl Spencer, the Palace and the Press</sub-title>
+    <desc lang="en">How did Earl Spencer's revelations about the royal family play out in the media?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260926040000 +0000" stop="20260926043000 +0000" channel="BBCNews.uk">
@@ -553,7 +554,7 @@
   </programme>
   <programme start="20260926103000 +0000" stop="20260926110000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How big a problem is forced labour across the global economy?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260926110000 +0000" stop="20260926113000 +0000" channel="BBCNews.uk">
@@ -610,8 +611,8 @@
   <programme start="20260926153000 +0000" stop="20260926160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
     <sub-title lang="en">Paul Greengrass</sub-title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <desc lang="en">The filmmaker on how the rage portrayed in his new film reflects the current climate.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pc7drg.jpg" />
   </programme>
   <programme start="20260926160000 +0000" stop="20260926170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -665,7 +666,7 @@
   </programme>
   <programme start="20260926223000 +0000" stop="20260926230000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How big a problem is forced labour across the global economy?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260926230000 +0000" stop="20260926233000 +0000" channel="BBCNews.uk">
@@ -675,7 +676,8 @@
   </programme>
   <programme start="20260926233000 +0000" stop="20260927000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Earl Spencer, the Palace and the Press</sub-title>
+    <desc lang="en">How did Earl Spencer's revelations about the royal family play out in the media?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260927000000 +0000" stop="20260927003000 +0000" channel="BBCNews.uk">
@@ -738,7 +740,7 @@
   </programme>
   <programme start="20260927053000 +0000" stop="20260927060000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How big a problem is forced labour across the global economy?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260927060000 +0000" stop="20260927063000 +0000" channel="BBCNews.uk">
@@ -1176,7 +1178,7 @@
   </programme>
   <programme start="20260929003000 +0000" stop="20260929010000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How big a problem is forced labour across the global economy?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20260929010000 +0000" stop="20260929013000 +0000" channel="BBCNews.uk">
@@ -1436,7 +1438,8 @@
   </programme>
   <programme start="20260930003000 +0000" stop="20260930010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Earl Spencer, the Palace and the Press</sub-title>
+    <desc lang="en">How did Earl Spencer's revelations about the royal family play out in the media?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20260930010000 +0000" stop="20260930013000 +0000" channel="BBCNews.uk">
