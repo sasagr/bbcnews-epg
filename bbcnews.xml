@@ -160,8 +160,9 @@
   </programme>
   <programme start="20260925213000 +0000" stop="20260925220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <sub-title lang="en">Burnham: No Early Election</sub-title>
+    <desc lang="en">Andy Burnham rules out an early general election. With Matt Chorley.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pckn0k.jpg" />
   </programme>
   <programme start="20260925220000 +0000" stop="20260925223000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
