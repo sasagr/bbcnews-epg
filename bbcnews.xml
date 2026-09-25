@@ -48,12 +48,7 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260925103000 +0000" stop="20260925104500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20260925104500 +0000" stop="20260925110000 +0000" channel="BBCNews.uk">
+  <programme start="20260925103000 +0000" stop="20260925110000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
@@ -223,7 +218,7 @@
   <programme start="20260926023000 +0000" stop="20260926030000 +0000" channel="BBCNews.uk">
     <title lang="en">Roelf Meyer: The Interview</title>
     <desc lang="en">South Africa’s ambassador to the US speaks about negotiating with Donald Trump.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcgmh8.jpg" />
   </programme>
   <programme start="20260926030000 +0000" stop="20260926033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -254,7 +249,8 @@
   </programme>
   <programme start="20260926053000 +0000" stop="20260926060000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Trump renames AI as 'Super Intelligence'</sub-title>
+    <desc lang="en">A pivotal week for AI, as Donald Trump meets Chinese president Xi Jinping.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260926060000 +0000" stop="20260926063000 +0000" channel="BBCNews.uk">
@@ -322,7 +318,7 @@
     <title lang="en">Talking Movies</title>
     <sub-title lang="en">Festival Review</sub-title>
     <desc lang="en">Reviewing the films from this year's Venice, Telluride and Toronto film festivals.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0c80mhr.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcgnxg.jpg" />
   </programme>
   <programme start="20260926130000 +0000" stop="20260926133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -331,7 +327,8 @@
   </programme>
   <programme start="20260926133000 +0000" stop="20260926140000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Trump renames AI as 'Super Intelligence'</sub-title>
+    <desc lang="en">A pivotal week for AI, as Donald Trump meets Chinese president Xi Jinping.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260926140000 +0000" stop="20260926143000 +0000" channel="BBCNews.uk">
@@ -435,7 +432,7 @@
     <title lang="en">Talking Movies</title>
     <sub-title lang="en">Festival Review</sub-title>
     <desc lang="en">Reviewing the films from this year's Venice, Telluride and Toronto film festivals.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0c80mhr.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcgnxg.jpg" />
   </programme>
   <programme start="20260927010000 +0000" stop="20260927013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -454,7 +451,8 @@
   </programme>
   <programme start="20260927023000 +0000" stop="20260927030000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Trump renames AI as 'Super Intelligence'</sub-title>
+    <desc lang="en">A pivotal week for AI, as Donald Trump meets Chinese president Xi Jinping.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260927030000 +0000" stop="20260927033000 +0000" channel="BBCNews.uk">
@@ -644,7 +642,8 @@
   </programme>
   <programme start="20260927223000 +0000" stop="20260927230000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Trump renames AI as 'Super Intelligence'</sub-title>
+    <desc lang="en">A pivotal week for AI, as Donald Trump meets Chinese president Xi Jinping.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20260927230000 +0000" stop="20260927233000 +0000" channel="BBCNews.uk">
@@ -666,7 +665,7 @@
   <programme start="20260928003000 +0000" stop="20260928010000 +0000" channel="BBCNews.uk">
     <title lang="en">Roelf Meyer: The Interview</title>
     <desc lang="en">South Africa’s ambassador to the US speaks about negotiating with Donald Trump.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcgmh8.jpg" />
   </programme>
   <programme start="20260928010000 +0000" stop="20260928013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -1446,7 +1445,8 @@
   </programme>
   <programme start="20261001003000 +0000" stop="20261001010000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Trump renames AI as 'Super Intelligence'</sub-title>
+    <desc lang="en">A pivotal week for AI, as Donald Trump meets Chinese president Xi Jinping.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261001010000 +0000" stop="20261001013000 +0000" channel="BBCNews.uk">
