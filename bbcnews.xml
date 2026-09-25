@@ -74,9 +74,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20260925133000 +0000" stop="20260925134500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">The latest business news from New York and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260925134500 +0000" stop="20260925140000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -170,7 +170,8 @@
   </programme>
   <programme start="20260925223000 +0000" stop="20260925224500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump on the World Stage: Friends, Enemies and Frenemies</sub-title>
+    <desc lang="en">From the UN to a White House summit with China, Trump faces a pivotal diplomatic week.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260925224500 +0000" stop="20260925230000 +0000" channel="BBCNews.uk">
@@ -343,7 +344,7 @@
   </programme>
   <programme start="20260926144500 +0000" stop="20260926150000 +0000" channel="BBCNews.uk">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News.</desc>
+    <desc lang="en">Was the BBC’s coverage of Earl Spencer’s book anything more than advertising and gossip?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20260926150000 +0000" stop="20260926153000 +0000" channel="BBCNews.uk">
@@ -463,7 +464,7 @@
   <programme start="20260927033000 +0000" stop="20260927040000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Indonesia's Toxic Haze Crisis</sub-title>
-    <desc lang="en">Global Eye reports from Indonesia on a devastating environmental crisis.</desc>
+    <desc lang="en">Rebecca Henschke reports from Indonesia.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbrw9d.jpg" />
   </programme>
   <programme start="20260927040000 +0000" stop="20260927043000 +0000" channel="BBCNews.uk">
@@ -534,7 +535,8 @@
   </programme>
   <programme start="20260927104500 +0000" stop="20260927110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump on the World Stage: Friends, Enemies and Frenemies</sub-title>
+    <desc lang="en">From the UN to a White House summit with China, Trump faces a pivotal diplomatic week.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20260927110000 +0000" stop="20260927113000 +0000" channel="BBCNews.uk">
@@ -587,7 +589,7 @@
   <programme start="20260927153000 +0000" stop="20260927160000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Indonesia's Toxic Haze Crisis</sub-title>
-    <desc lang="en">Global Eye reports from Indonesia on a devastating environmental crisis.</desc>
+    <desc lang="en">Rebecca Henschke reports from Indonesia.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbrw9d.jpg" />
   </programme>
   <programme start="20260927160000 +0000" stop="20260927170000 +0000" channel="BBCNews.uk">
@@ -654,7 +656,7 @@
   <programme start="20260927233000 +0000" stop="20260928000000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Indonesia's Toxic Haze Crisis</sub-title>
-    <desc lang="en">Global Eye reports from Indonesia on a devastating environmental crisis.</desc>
+    <desc lang="en">Rebecca Henschke reports from Indonesia.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbrw9d.jpg" />
   </programme>
   <programme start="20260928000000 +0000" stop="20260928003000 +0000" channel="BBCNews.uk">
