@@ -122,7 +122,8 @@
   </programme>
   <programme start="20260926193000 +0000" stop="20260926200000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <sub-title lang="en">Tug of War at Labour Conference</sub-title>
+    <desc lang="en">Senior Labour figures try to pull the party their way.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20260926200000 +0000" stop="20260926210000 +0000" channel="BBCNews.uk">
