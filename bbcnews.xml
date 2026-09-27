@@ -65,27 +65,15 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260927120000 +0000" stop="20260927123000 +0000" channel="BBCNews.uk">
+  <programme start="20260927120000 +0000" stop="20260927130000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260927123000 +0000" stop="20260927130000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Travel Show</title>
-    <sub-title lang="en">How to Eat Like an Italian</sub-title>
-    <desc lang="en">Food enthusiast and baker Briony May Williams travels to Italy.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pbrlql.jpg" />
-  </programme>
-  <programme start="20260927130000 +0000" stop="20260927133000 +0000" channel="BBCNews.uk">
+  <programme start="20260927130000 +0000" stop="20260927140000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260927133000 +0000" stop="20260927140000 +0000" channel="BBCNews.uk">
-    <title lang="en">Tech Now</title>
-    <sub-title lang="en">Hunting the Fakes</sub-title>
-    <desc lang="en">Ammie Sekhon explores tech used to identify and remove counterfeit products online.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pc9t8x.jpg" />
   </programme>
   <programme start="20260927140000 +0000" stop="20260927143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -140,7 +128,8 @@
   </programme>
   <programme start="20260927193000 +0000" stop="20260927200000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <sub-title lang="en">Andy Burnham’s National Care Service Plan</sub-title>
+    <desc lang="en">The prime minister proposes a national care service for England.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20260927200000 +0000" stop="20260927210000 +0000" channel="BBCNews.uk">
