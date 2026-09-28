@@ -33,12 +33,7 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260928090000 +0000" stop="20260928093000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260928093000 +0000" stop="20260928100000 +0000" channel="BBCNews.uk">
+  <programme start="20260928090000 +0000" stop="20260928100000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
@@ -53,25 +48,30 @@
     <desc lang="en">The latest business news from London and around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
-  <programme start="20260928104500 +0000" stop="20260928110000 +0000" channel="BBCNews.uk">
+  <programme start="20260928104500 +0000" stop="20260928105500 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260928110000 +0000" stop="20260928113000 +0000" channel="BBCNews.uk">
+  <programme start="20260928105500 +0000" stop="20260928110000 +0000" channel="BBCNews.uk">
+    <title lang="en">The SpeciaList</title>
+    <desc lang="en">A travel guide to everywhere you want to be, curated by celebrated local insiders.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0k2jcbg.jpg" />
+  </programme>
+  <programme start="20260928110000 +0000" stop="20260928120000 +0000" channel="BBCNews.uk">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvbxs.jpg" />
+  </programme>
+  <programme start="20260928120000 +0000" stop="20260928123000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20260928113000 +0000" stop="20260928120000 +0000" channel="BBCNews.uk">
+  <programme start="20260928123000 +0000" stop="20260928130000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20260928120000 +0000" stop="20260928130000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
   </programme>
   <programme start="20260928130000 +0000" stop="20260928133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -1261,7 +1261,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">The Murder That Changed Malta</sub-title>
     <desc lang="en">Anna Holligan reports from Malta on the latest in the Daphne Caruana Galizia murder case.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvn5r.png" />
   </programme>
   <programme start="20261003030000 +0000" stop="20261003033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1500,7 +1500,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">The Murder That Changed Malta</sub-title>
     <desc lang="en">Anna Holligan reports from Malta on the latest in the Daphne Caruana Galizia murder case.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvn5r.png" />
   </programme>
   <programme start="20261004040000 +0000" stop="20261004043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1623,7 +1623,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">The Murder That Changed Malta</sub-title>
     <desc lang="en">Anna Holligan reports from Malta on the latest in the Daphne Caruana Galizia murder case.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvn5r.png" />
   </programme>
   <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1689,7 +1689,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">The Murder That Changed Malta</sub-title>
     <desc lang="en">Anna Holligan reports from Malta on the latest in the Daphne Caruana Galizia murder case.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvn5r.png" />
   </programme>
   <programme start="20261005000000 +0000" stop="20261005003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
