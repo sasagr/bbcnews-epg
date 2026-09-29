@@ -166,9 +166,9 @@
   </programme>
   <programme start="20260929233000 +0000" stop="20260930000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <sub-title lang="en">Is The Triple Lock Toast?</sub-title>
-    <desc lang="en">Adam and Chris interview the Chancellor John Healey.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd02xk.jpg" />
+    <sub-title lang="en">Andy Burnham's Battle Of Ideas</sub-title>
+    <desc lang="en">The Prime Minister lays out his plan for the country.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd2h26.jpg" />
   </programme>
   <programme start="20260930000000 +0000" stop="20260930003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -984,7 +984,7 @@
   <programme start="20261003023000 +0000" stop="20261003030000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">The Murder That Changed Malta</sub-title>
-    <desc lang="en">Bringing forensic journalism from all corners of the world.</desc>
+    <desc lang="en">Anna Holligan reports from Malta.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvn5r.png" />
   </programme>
   <programme start="20261003030000 +0000" stop="20261003033000 +0000" channel="BBCNews.uk">
@@ -1035,7 +1035,7 @@
   </programme>
   <programme start="20261003073000 +0000" stop="20261003080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">John Simpson looks at the impact of intensifying Russian attacks on Ukraine.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261003080000 +0000" stop="20261003090000 +0000" channel="BBCNews.uk">
@@ -1202,7 +1202,7 @@
   </programme>
   <programme start="20261004013000 +0000" stop="20261004020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">John Simpson looks at the impact of intensifying Russian attacks on Ukraine.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="BBCNews.uk">
@@ -1223,7 +1223,7 @@
   <programme start="20261004033000 +0000" stop="20261004040000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">The Murder That Changed Malta</sub-title>
-    <desc lang="en">Bringing forensic journalism from all corners of the world.</desc>
+    <desc lang="en">Anna Holligan reports from Malta.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvn5r.png" />
   </programme>
   <programme start="20261004040000 +0000" stop="20261004043000 +0000" channel="BBCNews.uk">
@@ -1346,7 +1346,7 @@
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">The Murder That Changed Malta</sub-title>
-    <desc lang="en">Bringing forensic journalism from all corners of the world.</desc>
+    <desc lang="en">Anna Holligan reports from Malta.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvn5r.png" />
   </programme>
   <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="BBCNews.uk">
@@ -1412,7 +1412,7 @@
   <programme start="20261004233000 +0000" stop="20261005000000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">The Murder That Changed Malta</sub-title>
-    <desc lang="en">Bringing forensic journalism from all corners of the world.</desc>
+    <desc lang="en">Anna Holligan reports from Malta.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvn5r.png" />
   </programme>
   <programme start="20261005000000 +0000" stop="20261005003000 +0000" channel="BBCNews.uk">
