@@ -99,9 +99,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
   <programme start="20260930153000 +0000" stop="20260930154500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260930154500 +0000" stop="20260930160000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -128,25 +128,15 @@
     <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
   </programme>
-  <programme start="20260930180000 +0000" stop="20260930183000 +0000" channel="BBCNews.uk">
+  <programme start="20260930180000 +0000" stop="20260930181500 +0000" channel="BBCNews.uk">
     <title lang="en">The World Today with Maryam Moshiri</title>
     <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
   </programme>
-  <programme start="20260930183000 +0000" stop="20260930190000 +0000" channel="BBCNews.uk">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
-  </programme>
-  <programme start="20260930190000 +0000" stop="20260930193000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
-  </programme>
-  <programme start="20260930193000 +0000" stop="20260930200000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
+  <programme start="20260930181500 +0000" stop="20260930200000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20260930200000 +0000" stop="20260930203000 +0000" channel="BBCNews.uk">
     <title lang="en">The Context</title>
@@ -165,13 +155,19 @@
   </programme>
   <programme start="20260930213000 +0000" stop="20260930220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <sub-title lang="en">A new EU referendum?</sub-title>
+    <desc lang="en">The PM says it's possible Labour could promise a new in-out referendum on the EU.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd995x.jpg" />
   </programme>
-  <programme start="20260930220000 +0000" stop="20260930230000 +0000" channel="BBCNews.uk">
+  <programme start="20260930220000 +0000" stop="20260930223000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
     <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0gq408g.jpg" />
+  </programme>
+  <programme start="20260930223000 +0000" stop="20260930230000 +0000" channel="BBCNews.uk">
+    <title lang="en">Esther!</title>
+    <desc lang="en">Katie Razzall looks back on the career of TV trailblazer &amp; campaigner Dame Esther Rantzen.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd8gpg.jpg" />
   </programme>
   <programme start="20260930230000 +0000" stop="20260930233000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -786,7 +782,7 @@
   <programme start="20261003073000 +0000" stop="20261003080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson looks at the impact of intensifying Russian attacks on Ukraine.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd6fbj.jpg" />
   </programme>
   <programme start="20261003080000 +0000" stop="20261003090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -953,7 +949,7 @@
   <programme start="20261004013000 +0000" stop="20261004020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson looks at the impact of intensifying Russian attacks on Ukraine.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd6fbj.jpg" />
   </programme>
   <programme start="20261004020000 +0000" stop="20261004023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
