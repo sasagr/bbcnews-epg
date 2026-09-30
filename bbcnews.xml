@@ -16,7 +16,7 @@
   <programme start="20260930070000 +0000" stop="20260930073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
   <programme start="20260930073000 +0000" stop="20260930080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -43,15 +43,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20260930100000 +0000" stop="20260930103000 +0000" channel="BBCNews.uk">
+  <programme start="20260930100000 +0000" stop="20260930104500 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20260930103000 +0000" stop="20260930104500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
   <programme start="20260930104500 +0000" stop="20260930110000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -416,7 +411,7 @@
   </programme>
   <programme start="20261001200000 +0000" stop="20261001210000 +0000" channel="BBCNews.uk">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of debate from Tottenham in north London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
   </programme>
   <programme start="20261001210000 +0000" stop="20261001213000 +0000" channel="BBCNews.uk">
@@ -707,7 +702,7 @@
   </programme>
   <programme start="20261002233000 +0000" stop="20261003000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ramzan Karmali asks why there are so few women in the artificial intelligence industry.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261003000000 +0000" stop="20261003003000 +0000" channel="BBCNews.uk">
@@ -761,7 +756,7 @@
     <title lang="en">The Travel Show</title>
     <sub-title lang="en">Everest: Pushing the Limits</sub-title>
     <desc lang="en">Adaptive athlete Ollie Thorn attempts to become the first person to handcycle to Everest.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p01s92th.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd51ps.jpg" />
   </programme>
   <programme start="20261003050000 +0000" stop="20261003053000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -815,7 +810,7 @@
   </programme>
   <programme start="20261003103000 +0000" stop="20261003110000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ramzan Karmali asks why there are so few women in the artificial intelligence industry.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261003110000 +0000" stop="20261003113000 +0000" channel="BBCNews.uk">
@@ -926,7 +921,7 @@
   </programme>
   <programme start="20261003223000 +0000" stop="20261003230000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ramzan Karmali asks why there are so few women in the artificial intelligence industry.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261003230000 +0000" stop="20261003233000 +0000" channel="BBCNews.uk">
@@ -999,7 +994,7 @@
   </programme>
   <programme start="20261004053000 +0000" stop="20261004060000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ramzan Karmali asks why there are so few women in the artificial intelligence industry.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261004060000 +0000" stop="20261004063000 +0000" channel="BBCNews.uk">
@@ -1071,7 +1066,7 @@
     <title lang="en">The Travel Show</title>
     <sub-title lang="en">Everest: Pushing the Limits</sub-title>
     <desc lang="en">Adaptive athlete Ollie Thorn attempts to become the first person to handcycle to Everest.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p01s92th.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd51ps.jpg" />
   </programme>
   <programme start="20261004130000 +0000" stop="20261004133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1437,7 +1432,7 @@
   </programme>
   <programme start="20261006003000 +0000" stop="20261006010000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Ramzan Karmali asks why there are so few women in the artificial intelligence industry.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261006010000 +0000" stop="20261006013000 +0000" channel="BBCNews.uk">
