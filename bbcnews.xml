@@ -116,7 +116,7 @@
   <programme start="20261001170000 +0000" stop="20261001173000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Six</title>
     <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nh7frq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdhnv6.jpg" />
   </programme>
   <programme start="20261001173000 +0000" stop="20261001180000 +0000" channel="BBCNews.uk">
     <title lang="en">The World Today with Maryam Moshiri</title>
@@ -155,8 +155,9 @@
   </programme>
   <programme start="20261001213000 +0000" stop="20261001220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O’Connell.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <sub-title lang="en">Burnham and Manchester City</sub-title>
+    <desc lang="en">Andy Burnham gets a red card from critics over the Manchester City scandal.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdkdtk.jpg" />
   </programme>
   <programme start="20261001220000 +0000" stop="20261001230000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
@@ -479,7 +480,7 @@
   <programme start="20261003033000 +0000" stop="20261003040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Reporting the Man City Scandal</sub-title>
-    <desc lang="en">How the Man City story developed over time and the media’s role in reporting it.</desc>
+    <desc lang="en">How the Man City story developed over time and the media's role in reporting it.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261003040000 +0000" stop="20261003043000 +0000" channel="BBCNews.uk">
@@ -500,13 +501,14 @@
   </programme>
   <programme start="20261003053000 +0000" stop="20261003060000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Is Muse Meta's new 'AI Trojan Horse'?</sub-title>
+    <desc lang="en">Is Meta's new AI assistant the latest step in Big Tech's push into our personal lives?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261003060000 +0000" stop="20261003063000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
   <programme start="20261003063000 +0000" stop="20261003070000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -575,7 +577,8 @@
   </programme>
   <programme start="20261003133000 +0000" stop="20261003140000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Is Muse Meta's new 'AI Trojan Horse'?</sub-title>
+    <desc lang="en">Is Meta's new AI assistant the latest step in Big Tech's push into our personal lives?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261003140000 +0000" stop="20261003143000 +0000" channel="BBCNews.uk">
@@ -602,7 +605,7 @@
     <title lang="en">Political Thinking with Nick Robinson</title>
     <sub-title lang="en">Alan Milburn</sub-title>
     <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdgmk1.jpg" />
   </programme>
   <programme start="20261003160000 +0000" stop="20261003170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -667,7 +670,7 @@
   <programme start="20261003233000 +0000" stop="20261004000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Reporting the Man City Scandal</sub-title>
-    <desc lang="en">How the Man City story developed over time and the media’s role in reporting it.</desc>
+    <desc lang="en">How the Man City story developed over time and the media's role in reporting it.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261004000000 +0000" stop="20261004003000 +0000" channel="BBCNews.uk">
@@ -698,7 +701,8 @@
   </programme>
   <programme start="20261004023000 +0000" stop="20261004030000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Is Muse Meta's new 'AI Trojan Horse'?</sub-title>
+    <desc lang="en">Is Meta's new AI assistant the latest step in Big Tech's push into our personal lives?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261004030000 +0000" stop="20261004033000 +0000" channel="BBCNews.uk">
@@ -736,7 +740,7 @@
   <programme start="20261004060000 +0000" stop="20261004063000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
   <programme start="20261004063000 +0000" stop="20261004070000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -886,7 +890,8 @@
   </programme>
   <programme start="20261004223000 +0000" stop="20261004230000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Is Muse Meta's new 'AI Trojan Horse'?</sub-title>
+    <desc lang="en">Is Meta's new AI assistant the latest step in Big Tech's push into our personal lives?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261004230000 +0000" stop="20261004233000 +0000" channel="BBCNews.uk">
@@ -988,7 +993,7 @@
   <programme start="20261005070000 +0000" stop="20261005073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
   <programme start="20261005073000 +0000" stop="20261005080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1428,7 +1433,7 @@
   <programme start="20261007003000 +0000" stop="20261007010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Reporting the Man City Scandal</sub-title>
-    <desc lang="en">How the Man City story developed over time and the media’s role in reporting it.</desc>
+    <desc lang="en">How the Man City story developed over time and the media's role in reporting it.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261007010000 +0000" stop="20261007013000 +0000" channel="BBCNews.uk">
@@ -1688,7 +1693,8 @@
   </programme>
   <programme start="20261008003000 +0000" stop="20261008010000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Is Muse Meta's new 'AI Trojan Horse'?</sub-title>
+    <desc lang="en">Is Meta's new AI assistant the latest step in Big Tech's push into our personal lives?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261008010000 +0000" stop="20261008013000 +0000" channel="BBCNews.uk">
