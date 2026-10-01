@@ -16,7 +16,7 @@
   <programme start="20261001070000 +0000" stop="20261001073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
   <programme start="20261001073000 +0000" stop="20261001080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -73,20 +73,10 @@
     <desc lang="en">The latest national and international news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
   </programme>
-  <programme start="20261001130000 +0000" stop="20261001133000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20261001133000 +0000" stop="20261001134500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">The latest business news from New York and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
-  </programme>
-  <programme start="20261001134500 +0000" stop="20261001140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20261001130000 +0000" stop="20261001140000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261001140000 +0000" stop="20261001143000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -272,7 +262,7 @@
   <programme start="20261002070000 +0000" stop="20261002073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
   <programme start="20261002073000 +0000" stop="20261002080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -488,7 +478,8 @@
   </programme>
   <programme start="20261003033000 +0000" stop="20261003040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Reporting the Man City Scandal</sub-title>
+    <desc lang="en">How the Man City story developed over time and the media’s role in reporting it.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261003040000 +0000" stop="20261003043000 +0000" channel="BBCNews.uk">
@@ -573,10 +564,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261003123000 +0000" stop="20261003130000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Media Show</title>
-    <sub-title lang="en">Earl Spencer, the Palace and the Press</sub-title>
-    <desc lang="en">How did Earl Spencer's revelations about the royal family play out in the media?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
+    <title lang="en">Esther!</title>
+    <desc lang="en">Katie Razzall looks back on the career of TV trailblazer Dame Esther Rantzen.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd8gpg.jpg" />
   </programme>
   <programme start="20261003130000 +0000" stop="20261003133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -610,6 +600,7 @@
   </programme>
   <programme start="20261003153000 +0000" stop="20261003160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
+    <sub-title lang="en">Alan Milburn</sub-title>
     <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
@@ -675,7 +666,8 @@
   </programme>
   <programme start="20261003233000 +0000" stop="20261004000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Reporting the Man City Scandal</sub-title>
+    <desc lang="en">How the Man City story developed over time and the media’s role in reporting it.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261004000000 +0000" stop="20261004003000 +0000" channel="BBCNews.uk">
@@ -838,10 +830,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261004153000 +0000" stop="20261004160000 +0000" channel="BBCNews.uk">
-    <title lang="en">Global Eye</title>
-    <sub-title lang="en">The Murder That Changed Malta</sub-title>
-    <desc lang="en">Anna Holligan reports from Malta.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcvn5r.png" />
+    <title lang="en">Esther!</title>
+    <desc lang="en">Katie Razzall looks back on the career of TV trailblazer Dame Esther Rantzen.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pd8gpg.jpg" />
   </programme>
   <programme start="20261004160000 +0000" stop="20261004170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1436,7 +1427,8 @@
   </programme>
   <programme start="20261007003000 +0000" stop="20261007010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Reporting the Man City Scandal</sub-title>
+    <desc lang="en">How the Man City story developed over time and the media’s role in reporting it.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261007010000 +0000" stop="20261007013000 +0000" channel="BBCNews.uk">
