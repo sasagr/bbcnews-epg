@@ -160,8 +160,9 @@
   </programme>
   <programme start="20261002213000 +0000" stop="20261002220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <sub-title lang="en">Diesel Prices Top £2</sub-title>
+    <desc lang="en">The Chancellor tells Newsnight he is 'acutely concerned' about sky high diesel prices.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdqxfv.jpg" />
   </programme>
   <programme start="20261002220000 +0000" stop="20261002223000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
@@ -343,7 +344,7 @@
   </programme>
   <programme start="20261003144500 +0000" stop="20261003150000 +0000" channel="BBCNews.uk">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News.</desc>
+    <desc lang="en">What will be the impact of the planned cuts to the BBC's local and regional broadcasting?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20261003150000 +0000" stop="20261003153000 +0000" channel="BBCNews.uk">
