@@ -68,25 +68,20 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20261002120000 +0000" stop="20261002130000 +0000" channel="BBCNews.uk">
+  <programme start="20261002120000 +0000" stop="20261002123000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
     <desc lang="en">The latest national and international news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
   </programme>
-  <programme start="20261002130000 +0000" stop="20261002133000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20261002123000 +0000" stop="20261002133000 +0000" channel="BBCNews.uk">
+    <title lang="en">Politics Live</title>
+    <desc lang="en">The big political issues of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdmhl3.jpg" />
   </programme>
-  <programme start="20261002133000 +0000" stop="20261002134500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">The latest business news from New York and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
-  </programme>
-  <programme start="20261002134500 +0000" stop="20261002140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20261002133000 +0000" stop="20261002140000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261002140000 +0000" stop="20261002143000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -175,7 +170,8 @@
   </programme>
   <programme start="20261002223000 +0000" stop="20261002224500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump’s endorsement: help or hindrance?</sub-title>
+    <desc lang="en">Leading up to the midterms, Republicans weigh whether Trump's backing can help them win.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261002224500 +0000" stop="20261002230000 +0000" channel="BBCNews.uk">
@@ -200,8 +196,9 @@
   </programme>
   <programme start="20261003003000 +0000" stop="20261003010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Pokémon Turns 30</sub-title>
     <desc lang="en">Alasdair Keane heads to the Pokémon World Championships in San Francisco.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdn492.jpg" />
   </programme>
   <programme start="20261003010000 +0000" stop="20261003013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -357,7 +354,7 @@
   <programme start="20261003153000 +0000" stop="20261003160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
     <sub-title lang="en">Alan Milburn</sub-title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <desc lang="en">Alan Milburn, the man tasked with tackling youth worklessness, joins Nick Robinson.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdgmk1.jpg" />
   </programme>
   <programme start="20261003160000 +0000" stop="20261003170000 +0000" channel="BBCNews.uk">
@@ -537,7 +534,8 @@
   </programme>
   <programme start="20261004104500 +0000" stop="20261004110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump’s endorsement: help or hindrance?</sub-title>
+    <desc lang="en">Leading up to the midterms, Republicans weigh whether Trump's backing can help them win.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261004110000 +0000" stop="20261004113000 +0000" channel="BBCNews.uk">
@@ -568,8 +566,9 @@
   </programme>
   <programme start="20261004133000 +0000" stop="20261004140000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Pokémon Turns 30</sub-title>
     <desc lang="en">Alasdair Keane heads to the Pokémon World Championships in San Francisco.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdn492.jpg" />
   </programme>
   <programme start="20261004140000 +0000" stop="20261004143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -665,8 +664,9 @@
   </programme>
   <programme start="20261005003000 +0000" stop="20261005010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Pokémon Turns 30</sub-title>
     <desc lang="en">Alasdair Keane heads to the Pokémon World Championships in San Francisco.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdn492.jpg" />
   </programme>
   <programme start="20261005010000 +0000" stop="20261005013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -1006,7 +1006,7 @@
   <programme start="20261006070000 +0000" stop="20261006073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
   <programme start="20261006073000 +0000" stop="20261006080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1267,7 +1267,7 @@
   <programme start="20261007070000 +0000" stop="20261007073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
   <programme start="20261007073000 +0000" stop="20261007080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1528,7 +1528,7 @@
   <programme start="20261008070000 +0000" stop="20261008073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
   <programme start="20261008073000 +0000" stop="20261008080000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
