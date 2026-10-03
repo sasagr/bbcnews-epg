@@ -258,7 +258,8 @@
   </programme>
   <programme start="20261004080000 +0000" stop="20261004090000 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <sub-title lang="en">Kemi Badenoch, Prison Releases and MP Safety</sub-title>
+    <desc lang="en">Laura's guests are Kemi Badenoch, Alex Norris, Katie Amess and Richard Tice.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l7vnvy.jpg" />
   </programme>
   <programme start="20261004090000 +0000" stop="20261004093000 +0000" channel="BBCNews.uk">
