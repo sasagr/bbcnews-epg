@@ -136,9 +136,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261003193000 +0000" stop="20261003200000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <title lang="en">The Media Show</title>
+    <sub-title lang="en">Reporting the Man City Scandal</sub-title>
+    <desc lang="en">How the Man City story developed over time and the media's role in reporting it.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261003200000 +0000" stop="20261003210000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
