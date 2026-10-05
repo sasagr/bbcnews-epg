@@ -93,10 +93,15 @@
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
-  <programme start="20261005143000 +0000" stop="20261005150000 +0000" channel="BBCNews.uk">
+  <programme start="20261005143000 +0000" stop="20261005144000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  </programme>
+  <programme start="20261005144000 +0000" stop="20261005150000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261005150000 +0000" stop="20261005153000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -1488,7 +1493,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Serbia at a Crossroads</sub-title>
     <desc lang="en">Sandra Maksimovic investigates Serbia's growing student-led movement against corruption.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pf2435.jpg" />
   </programme>
   <programme start="20261011040000 +0000" stop="20261011043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1611,7 +1616,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Serbia at a Crossroads</sub-title>
     <desc lang="en">Sandra Maksimovic investigates Serbia's growing student-led movement against corruption.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pf2435.jpg" />
   </programme>
   <programme start="20261011160000 +0000" stop="20261011170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1677,7 +1682,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Serbia at a Crossroads</sub-title>
     <desc lang="en">Sandra Maksimovic investigates Serbia's growing student-led movement against corruption.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pf2435.jpg" />
   </programme>
   <programme start="20261012000000 +0000" stop="20261012003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
