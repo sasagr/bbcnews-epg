@@ -83,20 +83,10 @@
     <desc lang="en">The latest business news from New York and around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
   </programme>
-  <programme start="20261006134500 +0000" stop="20261006140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20261006140000 +0000" stop="20261006143000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20261006143000 +0000" stop="20261006150000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  <programme start="20261006134500 +0000" stop="20261006150000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261006150000 +0000" stop="20261006153000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -185,8 +175,9 @@
   </programme>
   <programme start="20261006233000 +0000" stop="20261007000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Will The Tories Make A Pact With Reform?</sub-title>
+    <desc lang="en">Chris speaks to Kemi Badenoch and is there really a Russian plague outbreak?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pf926k.jpg" />
   </programme>
   <programme start="20261007000000 +0000" stop="20261007003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -226,7 +217,8 @@
   </programme>
   <programme start="20261007024500 +0000" stop="20261007030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why Burmese Nationals Are Being Sent Back to Myanmar</sub-title>
+    <desc lang="en">The decision to repatriate Burmese refugees back to war-torn Myanmar has drawn criticism.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261007030000 +0000" stop="20261007033000 +0000" channel="BBCNews.uk">
@@ -241,7 +233,8 @@
   </programme>
   <programme start="20261007034500 +0000" stop="20261007040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why Burmese Nationals Are Being Sent Back to Myanmar</sub-title>
+    <desc lang="en">The decision to repatriate Burmese refugees back to war-torn Myanmar has drawn criticism.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261007040000 +0000" stop="20261007043000 +0000" channel="BBCNews.uk">
@@ -987,10 +980,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261010023000 +0000" stop="20261010030000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Climate Question</title>
-    <sub-title lang="en">Can China Build its Way Out of Climate Change?</sub-title>
-    <desc lang="en">Beijing is investing heavily in clean energy and infrastructure. Will it help the climate?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Manchester City vs The Premier League</sub-title>
+    <desc lang="en">BBC Sport traces how the disciplinary case against Manchester City unfolded.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcnwf8.jpg" />
   </programme>
   <programme start="20261010030000 +0000" stop="20261010033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1084,9 +1077,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261010123000 +0000" stop="20261010130000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Manchester City vs The Premier League</sub-title>
+    <desc lang="en">BBC Sport traces how the disciplinary case against Manchester City unfolded.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcnwf8.jpg" />
   </programme>
   <programme start="20261010130000 +0000" stop="20261010133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1425,10 +1419,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261012003000 +0000" stop="20261012010000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Climate Question</title>
-    <sub-title lang="en">Can China Build its Way Out of Climate Change?</sub-title>
-    <desc lang="en">Beijing is investing heavily in clean energy and infrastructure. Will it help the climate?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+    <title lang="en">Premier League</title>
+    <sub-title lang="en">Manchester City vs The Premier League</sub-title>
+    <desc lang="en">BBC Sport traces how the disciplinary case against Manchester City unfolded.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcnwf8.jpg" />
   </programme>
   <programme start="20261012010000 +0000" stop="20261012013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -1687,9 +1681,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261013003000 +0000" stop="20261013010000 +0000" channel="BBCNews.uk">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
+    <title lang="en">The Security Brief</title>
+    <sub-title lang="en">LIVE: How Ukraine and Russia Rewrote Military Strategy</sub-title>
+    <desc lang="en">What has the world learnt and where does the war go next?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdmpfj.jpg" />
   </programme>
   <programme start="20261013010000 +0000" stop="20261013013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
