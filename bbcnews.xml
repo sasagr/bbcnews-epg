@@ -981,7 +981,7 @@
   </programme>
   <programme start="20261010023000 +0000" stop="20261010030000 +0000" channel="BBCNews.uk">
     <title lang="en">Premier League</title>
-    <sub-title lang="en">Manchester City vs The Premier League</sub-title>
+    <sub-title lang="en">Manchester City v The Premier League</sub-title>
     <desc lang="en">BBC Sport traces how the disciplinary case against Manchester City unfolded.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcnwf8.jpg" />
   </programme>
@@ -1078,7 +1078,7 @@
   </programme>
   <programme start="20261010123000 +0000" stop="20261010130000 +0000" channel="BBCNews.uk">
     <title lang="en">Premier League</title>
-    <sub-title lang="en">Manchester City vs The Premier League</sub-title>
+    <sub-title lang="en">Manchester City v The Premier League</sub-title>
     <desc lang="en">BBC Sport traces how the disciplinary case against Manchester City unfolded.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcnwf8.jpg" />
   </programme>
@@ -1420,7 +1420,7 @@
   </programme>
   <programme start="20261012003000 +0000" stop="20261012010000 +0000" channel="BBCNews.uk">
     <title lang="en">Premier League</title>
-    <sub-title lang="en">Manchester City vs The Premier League</sub-title>
+    <sub-title lang="en">Manchester City v The Premier League</sub-title>
     <desc lang="en">BBC Sport traces how the disciplinary case against Manchester City unfolded.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcnwf8.jpg" />
   </programme>
@@ -1626,7 +1626,7 @@
   </programme>
   <programme start="20261012183000 +0000" stop="20261012190000 +0000" channel="BBCNews.uk">
     <title lang="en">The Security Brief</title>
-    <sub-title lang="en">LIVE: How Ukraine and Russia Rewrote Military Strategy</sub-title>
+    <sub-title lang="en">How Ukraine and Russia Rewrote Military Strategy</sub-title>
     <desc lang="en">What has the world learnt and where does the war go next?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdmpfj.jpg" />
   </programme>
@@ -1682,7 +1682,7 @@
   </programme>
   <programme start="20261013003000 +0000" stop="20261013010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Security Brief</title>
-    <sub-title lang="en">LIVE: How Ukraine and Russia Rewrote Military Strategy</sub-title>
+    <sub-title lang="en">How Ukraine and Russia Rewrote Military Strategy</sub-title>
     <desc lang="en">What has the world learnt and where does the war go next?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdmpfj.jpg" />
   </programme>
