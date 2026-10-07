@@ -43,30 +43,11 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261007100000 +0000" stop="20261007103000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261007103000 +0000" stop="20261007104500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261007104500 +0000" stop="20261007110000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261007110000 +0000" stop="20261007113000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20261007113000 +0000" stop="20261007120000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20261007100000 +0000" stop="20261007120000 +0000" channel="BBCNews.uk">
+    <title lang="en">Politics Live</title>
+    <sub-title lang="en">Kemi Badenoch's Speech to the Conservative Party Conference</sub-title>
+    <desc lang="en">Kemi Badenoch addresses the Conservative Party Conference in Birmingham.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfcvrn.jpg" />
   </programme>
   <programme start="20261007120000 +0000" stop="20261007130000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
@@ -779,7 +760,7 @@
   </programme>
   <programme start="20261010073000 +0000" stop="20261010080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">John Simpson explores how Israeli attitudes have changed since the October 7th attacks.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261010080000 +0000" stop="20261010090000 +0000" channel="BBCNews.uk">
@@ -860,6 +841,7 @@
   </programme>
   <programme start="20261010153000 +0000" stop="20261010160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
+    <sub-title lang="en">Tom Watson</sub-title>
     <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
@@ -946,7 +928,7 @@
   </programme>
   <programme start="20261011013000 +0000" stop="20261011020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">John Simpson explores how Israeli attitudes have changed since the October 7th attacks.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261011020000 +0000" stop="20261011023000 +0000" channel="BBCNews.uk">
