@@ -151,8 +151,9 @@
   </programme>
   <programme start="20261007213000 +0000" stop="20261007220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <sub-title lang="en">Is Badenoch Charming the UK or Just the Home Counties?</sub-title>
+    <desc lang="en">Are Kemi Badenoch's plans a route back to power for the Conservatives?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfk7qq.jpg" />
   </programme>
   <programme start="20261007220000 +0000" stop="20261007230000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
@@ -166,8 +167,9 @@
   </programme>
   <programme start="20261007233000 +0000" stop="20261008000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Kemi Badenoch's Battle Of Ideas</sub-title>
+    <desc lang="en">Kemi Badenoch made her closing speech to Conservative party conference</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfgzcf.jpg" />
   </programme>
   <programme start="20261008000000 +0000" stop="20261008003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -395,10 +397,15 @@
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
   </programme>
-  <programme start="20261008200000 +0000" stop="20261008210000 +0000" channel="BBCNews.uk">
-    <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
+  <programme start="20261008200000 +0000" stop="20261008203000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
+  </programme>
+  <programme start="20261008203000 +0000" stop="20261008210000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
   </programme>
   <programme start="20261008210000 +0000" stop="20261008213000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Ten</title>
@@ -708,7 +715,7 @@
   </programme>
   <programme start="20261010023000 +0000" stop="20261010030000 +0000" channel="BBCNews.uk">
     <title lang="en">Premier League</title>
-    <sub-title lang="en">Manchester City v The Premier League</sub-title>
+    <sub-title lang="en">Manchester City vs The Premier League</sub-title>
     <desc lang="en">BBC Sport traces how the disciplinary case against Manchester City unfolded.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcnwf8.jpg" />
   </programme>
@@ -731,7 +738,7 @@
     <title lang="en">The Travel Show</title>
     <sub-title lang="en">Guardians of Crete</sub-title>
     <desc lang="en">85 years after the Battle of Crete, Roma Wells meets the island's new guardians.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p01s92th.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfgccs.jpg" />
   </programme>
   <programme start="20261010050000 +0000" stop="20261010053000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -761,7 +768,7 @@
   <programme start="20261010073000 +0000" stop="20261010080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson explores how Israeli attitudes have changed since the October 7th attacks.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfggln.jpg" />
   </programme>
   <programme start="20261010080000 +0000" stop="20261010090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -805,7 +812,7 @@
   </programme>
   <programme start="20261010123000 +0000" stop="20261010130000 +0000" channel="BBCNews.uk">
     <title lang="en">Premier League</title>
-    <sub-title lang="en">Manchester City v The Premier League</sub-title>
+    <sub-title lang="en">Manchester City vs The Premier League</sub-title>
     <desc lang="en">BBC Sport traces how the disciplinary case against Manchester City unfolded.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcnwf8.jpg" />
   </programme>
@@ -842,7 +849,7 @@
   <programme start="20261010153000 +0000" stop="20261010160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
     <sub-title lang="en">Tom Watson</sub-title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <desc lang="en">The former Labour deputy leader tells Nick why he decided to join the tech giant Palantir.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261010160000 +0000" stop="20261010170000 +0000" channel="BBCNews.uk">
@@ -929,7 +936,7 @@
   <programme start="20261011013000 +0000" stop="20261011020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson explores how Israeli attitudes have changed since the October 7th attacks.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfggln.jpg" />
   </programme>
   <programme start="20261011020000 +0000" stop="20261011023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1042,7 +1049,7 @@
     <title lang="en">The Travel Show</title>
     <sub-title lang="en">Guardians of Crete</sub-title>
     <desc lang="en">85 years after the Battle of Crete, Roma Wells meets the island's new guardians.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p01s92th.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfgccs.jpg" />
   </programme>
   <programme start="20261011130000 +0000" stop="20261011133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1148,7 +1155,7 @@
   </programme>
   <programme start="20261012003000 +0000" stop="20261012010000 +0000" channel="BBCNews.uk">
     <title lang="en">Premier League</title>
-    <sub-title lang="en">Manchester City v The Premier League</sub-title>
+    <sub-title lang="en">Manchester City vs The Premier League</sub-title>
     <desc lang="en">BBC Sport traces how the disciplinary case against Manchester City unfolded.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcnwf8.jpg" />
   </programme>
@@ -1354,7 +1361,7 @@
   </programme>
   <programme start="20261012183000 +0000" stop="20261012190000 +0000" channel="BBCNews.uk">
     <title lang="en">The Security Brief</title>
-    <sub-title lang="en">How Ukraine and Russia Rewrote Military Strategy</sub-title>
+    <sub-title lang="en">LIVE: How Ukraine and Russia Rewrote Military Strategy</sub-title>
     <desc lang="en">What has the world learnt and where does the war go next?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdmpfj.jpg" />
   </programme>
@@ -1410,7 +1417,7 @@
   </programme>
   <programme start="20261013003000 +0000" stop="20261013010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Security Brief</title>
-    <sub-title lang="en">How Ukraine and Russia Rewrote Military Strategy</sub-title>
+    <sub-title lang="en">LIVE: How Ukraine and Russia Rewrote Military Strategy</sub-title>
     <desc lang="en">What has the world learnt and where does the war go next?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdmpfj.jpg" />
   </programme>
