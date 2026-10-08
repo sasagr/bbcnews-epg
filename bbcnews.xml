@@ -170,8 +170,9 @@
   </programme>
   <programme start="20261008213000 +0000" stop="20261008220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Katie Razzall.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <sub-title lang="en">Zack Polanski’s Leadership</sub-title>
+    <desc lang="en">What does victory - or defeat - mean for Zack Polanski in the Holborn by-election?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfslrr.jpg" />
   </programme>
   <programme start="20261008220000 +0000" stop="20261008230000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
@@ -183,15 +184,11 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261008233000 +0000" stop="20261008235500 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261008235500 +0000" stop="20261009000000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+  <programme start="20261008233000 +0000" stop="20261009000000 +0000" channel="BBCNews.uk">
+    <title lang="en">AI Decoded</title>
+    <sub-title lang="en">Is Muse Meta's new 'AI Trojan Horse'?</sub-title>
+    <desc lang="en">Is Meta's new AI assistant the latest step in Big Tech's push into our personal lives?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261009000000 +0000" stop="20261009003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -199,9 +196,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261009003000 +0000" stop="20261009010000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <title lang="en">Tech Now</title>
+    <sub-title lang="en">Pokémon Turns 30</sub-title>
+    <desc lang="en">Alasdair Keane heads to the Pokémon World Championships in San Francisco.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdn492.jpg" />
   </programme>
   <programme start="20261009010000 +0000" stop="20261009013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -450,6 +448,7 @@
   </programme>
   <programme start="20261010003000 +0000" stop="20261010010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Wildfires: Fighting Hidden Hotspots</sub-title>
     <desc lang="en">Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
   </programme>
@@ -483,7 +482,7 @@
   <programme start="20261010033000 +0000" stop="20261010040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Hungary and the Battle for Press Freedom</sub-title>
-    <desc lang="en">Nick Thorpe reports on Hungary’s media landscape six months after Péter Magyar’s election.</desc>
+    <desc lang="en">Nick Thorpe reports on Hungary's media landscape six months after Péter Magyar's election.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261010040000 +0000" stop="20261010043000 +0000" channel="BBCNews.uk">
@@ -504,7 +503,8 @@
   </programme>
   <programme start="20261010053000 +0000" stop="20261010060000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Can AI Feel Pain?</sub-title>
+    <desc lang="en">Researchers have identified what they call a 'pain axis' inside AI models.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261010060000 +0000" stop="20261010063000 +0000" channel="BBCNews.uk">
@@ -514,6 +514,7 @@
   </programme>
   <programme start="20261010063000 +0000" stop="20261010070000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Wildfires: Fighting Hidden Hotspots</sub-title>
     <desc lang="en">Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
   </programme>
@@ -580,7 +581,8 @@
   </programme>
   <programme start="20261010133000 +0000" stop="20261010140000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Can AI Feel Pain?</sub-title>
+    <desc lang="en">Researchers have identified what they call a 'pain axis' inside AI models.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261010140000 +0000" stop="20261010143000 +0000" channel="BBCNews.uk">
@@ -672,7 +674,7 @@
   <programme start="20261010233000 +0000" stop="20261011000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Hungary and the Battle for Press Freedom</sub-title>
-    <desc lang="en">Nick Thorpe reports on Hungary’s media landscape six months after Péter Magyar’s election.</desc>
+    <desc lang="en">Nick Thorpe reports on Hungary's media landscape six months after Péter Magyar's election.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261011000000 +0000" stop="20261011003000 +0000" channel="BBCNews.uk">
@@ -703,7 +705,8 @@
   </programme>
   <programme start="20261011023000 +0000" stop="20261011030000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Can AI Feel Pain?</sub-title>
+    <desc lang="en">Researchers have identified what they call a 'pain axis' inside AI models.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261011030000 +0000" stop="20261011033000 +0000" channel="BBCNews.uk">
@@ -816,6 +819,7 @@
   </programme>
   <programme start="20261011133000 +0000" stop="20261011140000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">Wildfires: Fighting Hidden Hotspots</sub-title>
     <desc lang="en">Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
   </programme>
@@ -892,7 +896,8 @@
   </programme>
   <programme start="20261011223000 +0000" stop="20261011230000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Can AI Feel Pain?</sub-title>
+    <desc lang="en">Researchers have identified what they call a 'pain axis' inside AI models.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261011230000 +0000" stop="20261011233000 +0000" channel="BBCNews.uk">
@@ -1437,7 +1442,7 @@
   <programme start="20261014003000 +0000" stop="20261014010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
     <sub-title lang="en">Hungary and the Battle for Press Freedom</sub-title>
-    <desc lang="en">Nick Thorpe reports on Hungary’s media landscape six months after Péter Magyar’s election.</desc>
+    <desc lang="en">Nick Thorpe reports on Hungary's media landscape six months after Péter Magyar's election.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261014010000 +0000" stop="20261014013000 +0000" channel="BBCNews.uk">
@@ -1692,7 +1697,8 @@
   </programme>
   <programme start="20261015003000 +0000" stop="20261015010000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Can AI Feel Pain?</sub-title>
+    <desc lang="en">Researchers have identified what they call a 'pain axis' inside AI models.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261015010000 +0000" stop="20261015013000 +0000" channel="BBCNews.uk">
