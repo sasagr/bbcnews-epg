@@ -482,7 +482,8 @@
   </programme>
   <programme start="20261010033000 +0000" stop="20261010040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Hungary and the Battle for Press Freedom</sub-title>
+    <desc lang="en">Nick Thorpe reports on Hungary’s media landscape six months after Péter Magyar’s election.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261010040000 +0000" stop="20261010043000 +0000" channel="BBCNews.uk">
@@ -670,7 +671,8 @@
   </programme>
   <programme start="20261010233000 +0000" stop="20261011000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Hungary and the Battle for Press Freedom</sub-title>
+    <desc lang="en">Nick Thorpe reports on Hungary’s media landscape six months after Péter Magyar’s election.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261011000000 +0000" stop="20261011003000 +0000" channel="BBCNews.uk">
@@ -1434,7 +1436,8 @@
   </programme>
   <programme start="20261014003000 +0000" stop="20261014010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Hungary and the Battle for Press Freedom</sub-title>
+    <desc lang="en">Nick Thorpe reports on Hungary’s media landscape six months after Péter Magyar’s election.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261014010000 +0000" stop="20261014013000 +0000" channel="BBCNews.uk">
