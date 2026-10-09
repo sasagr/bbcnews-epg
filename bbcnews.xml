@@ -150,8 +150,9 @@
   </programme>
   <programme start="20261009213000 +0000" stop="20261009220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <sub-title lang="en">Party leaders under threat?</sub-title>
+    <desc lang="en">Zack Polanski is under pressure after losing the Holborn and St Pancras by-election.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfzcjt.jpg" />
   </programme>
   <programme start="20261009220000 +0000" stop="20261009223000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
@@ -335,7 +336,7 @@
   </programme>
   <programme start="20261010144500 +0000" stop="20261010150000 +0000" channel="BBCNews.uk">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News.</desc>
+    <desc lang="en">Does Celebrity Traitors deserve a prominent place on BBC News outlets?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20261010150000 +0000" stop="20261010153000 +0000" channel="BBCNews.uk">
