@@ -3,16 +3,6 @@
   <channel id="BBCNews.uk">
     <display-name>BBC News</display-name>
   </channel>
-  <programme start="20261009060000 +0000" stop="20261009063000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261009063000 +0000" stop="20261009070000 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
   <programme start="20261009070000 +0000" stop="20261009073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
@@ -78,15 +68,10 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20261009133000 +0000" stop="20261009134500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">The latest business news from New York and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
-  </programme>
-  <programme start="20261009134500 +0000" stop="20261009140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20261009133000 +0000" stop="20261009140000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261009140000 +0000" stop="20261009143000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -175,7 +160,8 @@
   </programme>
   <programme start="20261009223000 +0000" stop="20261009224500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Could Trump deliver Democrats a midterms win?</sub-title>
+    <desc lang="en">Democrats are eyeing up crucial seats to win back control on Capitol Hill.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261009224500 +0000" stop="20261009230000 +0000" channel="BBCNews.uk">
@@ -190,7 +176,7 @@
   </programme>
   <programme start="20261009233000 +0000" stop="20261010000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">What will the energy crisis caused by wars in Iran and Ukraine mean for Europe's economy?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261010000000 +0000" stop="20261010003000 +0000" channel="BBCNews.uk">
@@ -202,7 +188,7 @@
     <title lang="en">Tech Now</title>
     <sub-title lang="en">Wildfires: Fighting Hidden Hotspots</sub-title>
     <desc lang="en">Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfw9wr.jpg" />
   </programme>
   <programme start="20261010010000 +0000" stop="20261010013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -268,7 +254,7 @@
     <title lang="en">Tech Now</title>
     <sub-title lang="en">Wildfires: Fighting Hidden Hotspots</sub-title>
     <desc lang="en">Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfw9wr.jpg" />
   </programme>
   <programme start="20261010070000 +0000" stop="20261010073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -302,7 +288,7 @@
   </programme>
   <programme start="20261010103000 +0000" stop="20261010110000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">What will the energy crisis caused by wars in Iran and Ukraine mean for Europe's economy?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261010110000 +0000" stop="20261010113000 +0000" channel="BBCNews.uk">
@@ -415,7 +401,7 @@
   </programme>
   <programme start="20261010223000 +0000" stop="20261010230000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">What will the energy crisis caused by wars in Iran and Ukraine mean for Europe's economy?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261010230000 +0000" stop="20261010233000 +0000" channel="BBCNews.uk">
@@ -490,7 +476,7 @@
   </programme>
   <programme start="20261011053000 +0000" stop="20261011060000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">What will the energy crisis caused by wars in Iran and Ukraine mean for Europe's economy?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261011060000 +0000" stop="20261011063000 +0000" channel="BBCNews.uk">
@@ -540,7 +526,8 @@
   </programme>
   <programme start="20261011104500 +0000" stop="20261011110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Could Trump deliver Democrats a midterms win?</sub-title>
+    <desc lang="en">Democrats are eyeing up crucial seats to win back control on Capitol Hill.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261011110000 +0000" stop="20261011113000 +0000" channel="BBCNews.uk">
@@ -573,7 +560,7 @@
     <title lang="en">Tech Now</title>
     <sub-title lang="en">Wildfires: Fighting Hidden Hotspots</sub-title>
     <desc lang="en">Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfw9wr.jpg" />
   </programme>
   <programme start="20261011140000 +0000" stop="20261011143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1707,7 +1694,7 @@
     <title lang="en">Tech Now</title>
     <sub-title lang="en">Wildfires: Fighting Hidden Hotspots</sub-title>
     <desc lang="en">Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfw9wr.jpg" />
   </programme>
   <programme start="20261016010000 +0000" stop="20261016013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
