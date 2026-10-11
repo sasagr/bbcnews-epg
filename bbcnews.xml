@@ -25,8 +25,9 @@
   </programme>
   <programme start="20261011080000 +0000" stop="20261011090000 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l7vnvy.jpg" />
+    <sub-title lang="en">Ukraine, defence spending and Richard E Grant</sub-title>
+    <desc lang="en">Victoria Derbyshire talks to Wes Streeting, Andrew Griffith and Richard E Grant.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pg4w8b.jpg" />
   </programme>
   <programme start="20261011090000 +0000" stop="20261011093000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -139,8 +140,9 @@
   </programme>
   <programme start="20261011193000 +0000" stop="20261011200000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Why is Trump calling for Zelensky to go?</sub-title>
+    <desc lang="en">We look at the Putin diesel deal and a new Trump-Zelensky relationship low.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pg53gr.jpg" />
   </programme>
   <programme start="20261011200000 +0000" stop="20261011210000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
