@@ -93,15 +93,10 @@
     <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
-  <programme start="20261012143000 +0000" stop="20261012150000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20261012150000 +0000" stop="20261012153000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  <programme start="20261012143000 +0000" stop="20261012153000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261012153000 +0000" stop="20261012154500 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -195,10 +190,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261013003000 +0000" stop="20261013010000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Security Brief</title>
-    <sub-title lang="en">LIVE: How Ukraine and Russia Rewrote Military Strategy</sub-title>
-    <desc lang="en">What has the world learnt and where does the war go next?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pdmpfj.jpg" />
+    <title lang="en">Talking Business</title>
+    <desc lang="en">What will the energy crisis caused by wars in Iran and Ukraine mean for Europe's economy?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261013010000 +0000" stop="20261013013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -688,7 +682,7 @@
   </programme>
   <programme start="20261014213000 +0000" stop="20261014220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
   </programme>
   <programme start="20261014220000 +0000" stop="20261014230000 +0000" channel="BBCNews.uk">
