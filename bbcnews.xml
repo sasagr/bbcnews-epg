@@ -165,7 +165,8 @@
   </programme>
   <programme start="20261013213000 +0000" stop="20261013220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <sub-title lang="en">MI5 AI Bioweapon Warning</sub-title>
+    <desc lang="en">The head of MI5 warns the UK that Russia is 'aggressor number one'.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
   </programme>
   <programme start="20261013220000 +0000" stop="20261013230000 +0000" channel="BBCNews.uk">
@@ -180,8 +181,9 @@
   </programme>
   <programme start="20261013233000 +0000" stop="20261014000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Why Andy Burnham Wants To Talk About Brexit Again</sub-title>
+    <desc lang="en">The PM says we need to “face up to the reality that Brexit has done more harm than good".</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pgh756.jpg" />
   </programme>
   <programme start="20261014000000 +0000" stop="20261014003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
