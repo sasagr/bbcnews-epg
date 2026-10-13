@@ -88,15 +88,10 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20261013140000 +0000" stop="20261013143000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20261013143000 +0000" stop="20261013150000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  <programme start="20261013140000 +0000" stop="20261013150000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261013150000 +0000" stop="20261013153000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -226,7 +221,8 @@
   </programme>
   <programme start="20261014024500 +0000" stop="20261014030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Should We Pay Political Leaders More?</sub-title>
+    <desc lang="en">Do higher salaries attract better politicians? Hosted by Mariko Oi.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261014030000 +0000" stop="20261014033000 +0000" channel="BBCNews.uk">
@@ -241,7 +237,8 @@
   </programme>
   <programme start="20261014034500 +0000" stop="20261014040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Should We Pay Political Leaders More?</sub-title>
+    <desc lang="en">Do higher salaries attract better politicians? Hosted by Mariko Oi.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261014040000 +0000" stop="20261014043000 +0000" channel="BBCNews.uk">
@@ -1048,7 +1045,7 @@
   </programme>
   <programme start="20261017073000 +0000" stop="20261017080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">John Simpson explores the effect on civilians of Russia’s bombardment of Ukrainian cities.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261017080000 +0000" stop="20261017090000 +0000" channel="BBCNews.uk">
@@ -1215,7 +1212,7 @@
   </programme>
   <programme start="20261018013000 +0000" stop="20261018020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">John Simpson explores the effect on civilians of Russia’s bombardment of Ukrainian cities.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261018020000 +0000" stop="20261018023000 +0000" channel="BBCNews.uk">
