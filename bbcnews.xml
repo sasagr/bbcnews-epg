@@ -411,7 +411,7 @@
   </programme>
   <programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="BBCNews.uk">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Brecon.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
   </programme>
   <programme start="20261015210000 +0000" stop="20261015213000 +0000" channel="BBCNews.uk">
@@ -788,7 +788,7 @@
   <programme start="20261017073000 +0000" stop="20261017080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson explores the effect on civilians of Russia’s bombardment of Ukrainian cities.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pgnyd8.jpg" />
   </programme>
   <programme start="20261017080000 +0000" stop="20261017090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -955,7 +955,7 @@
   <programme start="20261018013000 +0000" stop="20261018020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson explores the effect on civilians of Russia’s bombardment of Ukrainian cities.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pgnyd8.jpg" />
   </programme>
   <programme start="20261018020000 +0000" stop="20261018023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
