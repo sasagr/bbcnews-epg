@@ -489,7 +489,7 @@
   </programme>
   <programme start="20261017033000 +0000" stop="20261017040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <sub-title lang="en">TV screenwriter Russell T Davies</sub-title>
+    <sub-title lang="en">TV Screenwriter Russell T Davies</sub-title>
     <desc lang="en">Russell T Davies reflects on his career in TV drama.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
@@ -502,7 +502,7 @@
     <title lang="en">The Travel Show</title>
     <sub-title lang="en">Southern Wales: Heart of Steel</sub-title>
     <desc lang="en">Rob Bell visits Port Talbot and Pontypridd as they vie to become the UK's Town of Culture.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p01s92th.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pgvtkh.jpg" />
   </programme>
   <programme start="20261017050000 +0000" stop="20261017053000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -613,8 +613,9 @@
   </programme>
   <programme start="20261017153000 +0000" stop="20261017160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <sub-title lang="en">Suella Braverman</sub-title>
+    <desc lang="en">Suella Braverman talks to Nick about Englishness, personality and religion.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pgv87x.jpg" />
   </programme>
   <programme start="20261017160000 +0000" stop="20261017170000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -678,7 +679,7 @@
   </programme>
   <programme start="20261017233000 +0000" stop="20261018000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <sub-title lang="en">TV screenwriter Russell T Davies</sub-title>
+    <sub-title lang="en">TV Screenwriter Russell T Davies</sub-title>
     <desc lang="en">Russell T Davies reflects on his career in TV drama.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
@@ -814,7 +815,7 @@
     <title lang="en">The Travel Show</title>
     <sub-title lang="en">Southern Wales: Heart of Steel</sub-title>
     <desc lang="en">Rob Bell visits Port Talbot and Pontypridd as they vie to become the UK's Town of Culture.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p01s92th.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pgvtkh.jpg" />
   </programme>
   <programme start="20261018130000 +0000" stop="20261018133000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1442,7 +1443,7 @@
   </programme>
   <programme start="20261021003000 +0000" stop="20261021010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <sub-title lang="en">TV screenwriter Russell T Davies</sub-title>
+    <sub-title lang="en">TV Screenwriter Russell T Davies</sub-title>
     <desc lang="en">Russell T Davies reflects on his career in TV drama.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
