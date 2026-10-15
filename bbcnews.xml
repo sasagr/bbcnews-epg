@@ -14,7 +14,7 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
   <programme start="20261015070000 +0000" stop="20261015073000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
+    <title lang="en">BBC News (Signed)</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
@@ -58,12 +58,12 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261015110000 +0000" stop="20261015113000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20261015110000 +0000" stop="20261015114500 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261015113000 +0000" stop="20261015120000 +0000" channel="BBCNews.uk">
+  <programme start="20261015114500 +0000" stop="20261015120000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
@@ -270,7 +270,7 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
   <programme start="20261016070000 +0000" stop="20261016073000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
+    <title lang="en">BBC News (Signed)</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
@@ -489,7 +489,8 @@
   </programme>
   <programme start="20261017033000 +0000" stop="20261017040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">TV screenwriter Russell T Davies</sub-title>
+    <desc lang="en">Russell T Davies reflects on his career in TV drama.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261017040000 +0000" stop="20261017043000 +0000" channel="BBCNews.uk">
@@ -514,7 +515,7 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261017060000 +0000" stop="20261017063000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
+    <title lang="en">BBC News (Signed)</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
@@ -677,7 +678,8 @@
   </programme>
   <programme start="20261017233000 +0000" stop="20261018000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">TV screenwriter Russell T Davies</sub-title>
+    <desc lang="en">Russell T Davies reflects on his career in TV drama.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261018000000 +0000" stop="20261018003000 +0000" channel="BBCNews.uk">
@@ -744,7 +746,7 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261018060000 +0000" stop="20261018063000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
+    <title lang="en">BBC News (Signed)</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
@@ -999,7 +1001,7 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
   <programme start="20261019070000 +0000" stop="20261019073000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
+    <title lang="en">BBC News (Signed)</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
@@ -1259,7 +1261,7 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
   <programme start="20261020070000 +0000" stop="20261020073000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
+    <title lang="en">BBC News (Signed)</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
@@ -1440,7 +1442,8 @@
   </programme>
   <programme start="20261021003000 +0000" stop="20261021010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">TV screenwriter Russell T Davies</sub-title>
+    <desc lang="en">Russell T Davies reflects on his career in TV drama.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261021010000 +0000" stop="20261021013000 +0000" channel="BBCNews.uk">
@@ -1519,7 +1522,7 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
   <programme start="20261021070000 +0000" stop="20261021073000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
+    <title lang="en">BBC News (Signed)</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
   </programme>
