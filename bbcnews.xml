@@ -153,10 +153,15 @@
     <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
   </programme>
-  <programme start="20261015200000 +0000" stop="20261015210000 +0000" channel="BBCNews.uk">
-    <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate from Brecon.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
+  <programme start="20261015200000 +0000" stop="20261015203000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
+  </programme>
+  <programme start="20261015203000 +0000" stop="20261015210000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
   </programme>
   <programme start="20261015210000 +0000" stop="20261015213000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Ten</title>
@@ -180,7 +185,8 @@
   </programme>
   <programme start="20261015233000 +0000" stop="20261016000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <sub-title lang="en">Was Zelensky 'Betrayed' By Trump?</sub-title>
+    <desc lang="en">Where does Trump's 'betrayal' of Zelensky leave the US-Ukraine relationship?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20261016000000 +0000" stop="20261016003000 +0000" channel="BBCNews.uk">
@@ -511,7 +517,8 @@
   </programme>
   <programme start="20261017053000 +0000" stop="20261017060000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Will Super Intelligence Destroy Humanity?</sub-title>
+    <desc lang="en">Should we accelerate AI development or slow down before the risks become unmanageable?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261017060000 +0000" stop="20261017063000 +0000" channel="BBCNews.uk">
@@ -588,7 +595,8 @@
   </programme>
   <programme start="20261017133000 +0000" stop="20261017140000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Will Super Intelligence Destroy Humanity?</sub-title>
+    <desc lang="en">Should we accelerate AI development or slow down before the risks become unmanageable?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261017140000 +0000" stop="20261017143000 +0000" channel="BBCNews.uk">
@@ -711,7 +719,8 @@
   </programme>
   <programme start="20261018023000 +0000" stop="20261018030000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Will Super Intelligence Destroy Humanity?</sub-title>
+    <desc lang="en">Should we accelerate AI development or slow down before the risks become unmanageable?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261018030000 +0000" stop="20261018033000 +0000" channel="BBCNews.uk">
@@ -901,7 +910,8 @@
   </programme>
   <programme start="20261018223000 +0000" stop="20261018230000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Will Super Intelligence Destroy Humanity?</sub-title>
+    <desc lang="en">Should we accelerate AI development or slow down before the risks become unmanageable?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261018230000 +0000" stop="20261018233000 +0000" channel="BBCNews.uk">
@@ -1699,7 +1709,8 @@
   </programme>
   <programme start="20261022003000 +0000" stop="20261022010000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Will Super Intelligence Destroy Humanity?</sub-title>
+    <desc lang="en">Should we accelerate AI development or slow down before the risks become unmanageable?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261022010000 +0000" stop="20261022013000 +0000" channel="BBCNews.uk">
