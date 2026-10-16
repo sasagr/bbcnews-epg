@@ -58,15 +58,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261016110000 +0000" stop="20261016113000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20261016113000 +0000" stop="20261016120000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20261016110000 +0000" stop="20261016120000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261016120000 +0000" stop="20261016130000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
@@ -175,7 +170,8 @@
   </programme>
   <programme start="20261016223000 +0000" stop="20261016224500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Will Voters Punish Trump Over Affordability?</sub-title>
+    <desc lang="en">A look at how the issue of affordability could decide November’s midterms.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261016224500 +0000" stop="20261016230000 +0000" channel="BBCNews.uk">
@@ -540,7 +536,8 @@
   </programme>
   <programme start="20261018104500 +0000" stop="20261018110000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Will Voters Punish Trump Over Affordability?</sub-title>
+    <desc lang="en">A look at how the issue of affordability could decide November’s midterms.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261018110000 +0000" stop="20261018113000 +0000" channel="BBCNews.uk">
