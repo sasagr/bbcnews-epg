@@ -345,7 +345,7 @@
   </programme>
   <programme start="20261017144500 +0000" stop="20261017150000 +0000" channel="BBCNews.uk">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News.</desc>
+    <desc lang="en">What goes into writing the theme music for the BBC News Channel and BBC1 bulletins?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20261017150000 +0000" stop="20261017153000 +0000" channel="BBCNews.uk">
@@ -390,9 +390,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261017193000 +0000" stop="20261017200000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <title lang="en">The Climate Question</title>
+    <sub-title lang="en">Can China Build its Way Out of Climate Change?</sub-title>
+    <desc lang="en">Beijing is investing heavily in clean energy and infrastructure. Will it help the climate?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
   </programme>
   <programme start="20261017200000 +0000" stop="20261017210000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
