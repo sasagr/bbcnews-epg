@@ -81,20 +81,10 @@
     <desc lang="en">Should we accelerate AI development or slow down before the risks become unmanageable?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
-  <programme start="20261017140000 +0000" stop="20261017143000 +0000" channel="BBCNews.uk">
+  <programme start="20261017140000 +0000" stop="20261017150000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261017143000 +0000" stop="20261017144500 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261017144500 +0000" stop="20261017150000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newswatch</title>
-    <desc lang="en">What goes into writing the theme music for the BBC News Channel and BBC1 bulletins?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20261017150000 +0000" stop="20261017153000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
