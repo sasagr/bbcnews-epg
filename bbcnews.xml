@@ -185,7 +185,8 @@
   </programme>
   <programme start="20261019233000 +0000" stop="20261020000000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <sub-title lang="en">The Politics Behind the French Riots</sub-title>
+    <desc lang="en">Protests over education have turned to riots. What does it mean for French politics?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20261020000000 +0000" stop="20261020003000 +0000" channel="BBCNews.uk">
@@ -1503,7 +1504,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Inside Israel's Youth Vote</sub-title>
     <desc lang="en">Shaina Oppenheimer reports from Israel ahead of a closely fought election.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phdh9s.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phhyj8.png" />
   </programme>
   <programme start="20261025040000 +0000" stop="20261025043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1637,7 +1638,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Inside Israel's Youth Vote</sub-title>
     <desc lang="en">Shaina Oppenheimer reports from Israel ahead of a closely fought election.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phdh9s.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phhyj8.png" />
   </programme>
   <programme start="20261025170000 +0000" stop="20261025180000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1693,7 +1694,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Inside Israel's Youth Vote</sub-title>
     <desc lang="en">Shaina Oppenheimer reports from Israel ahead of a closely fought election.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phdh9s.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phhyj8.png" />
   </programme>
   <programme start="20261026000000 +0000" stop="20261026003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
