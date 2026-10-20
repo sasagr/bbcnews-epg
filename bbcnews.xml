@@ -164,9 +164,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fjvy7w.jpg" />
   </programme>
   <programme start="20261020213000 +0000" stop="20261020220000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Paddy O'Connell.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <title lang="en">Talking Business</title>
+    <desc lang="en">Lukwesa Burak delves into how the UK is becoming a global AI leader.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261020220000 +0000" stop="20261020230000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
