@@ -58,15 +58,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261020110000 +0000" stop="20261020113000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20261020113000 +0000" stop="20261020120000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  <programme start="20261020110000 +0000" stop="20261020120000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261020120000 +0000" stop="20261020130000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
@@ -226,7 +221,8 @@
   </programme>
   <programme start="20261021024500 +0000" stop="20261021030000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Can Indonesia’s neighbours stop the haze?</sub-title>
+    <desc lang="en">Can Indonesia’s neighbours do more to prevent the fires next year? Hosted by Mariko Oi.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261021030000 +0000" stop="20261021033000 +0000" channel="BBCNews.uk">
@@ -241,7 +237,8 @@
   </programme>
   <programme start="20261021034500 +0000" stop="20261021040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Can Indonesia’s neighbours stop the haze?</sub-title>
+    <desc lang="en">Can Indonesia’s neighbours do more to prevent the fires next year? Hosted by Mariko Oi.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261021040000 +0000" stop="20261021043000 +0000" channel="BBCNews.uk">
