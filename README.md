@@ -1,18 +1,32 @@
 # bbcnews-epg
 
-A cloud-hosted **XMLTV EPG for the BBC News channel**, built from the BBC's own schedule pages at
-<https://www.bbc.co.uk/schedules/p00fzl6g>.
+A cloud-hosted **XMLTV EPG for the BBC News channel**, built from the BBC's own iPlayer TV guide at
+<https://www.bbc.co.uk/iplayer/guide/bbcnews>.
 
 [`generate.py`](generate.py) reads seven days and writes [`bbcnews.xml`](bbcnews.xml). A GitHub
 Action re-runs it every 6 hours and commits the file, so any IPTV app can attach the guide with a
 plain URL.
+
+## The source moved once
+
+It used to read the schema.org graph out of `bbc.co.uk/schedules/p00fzl6g`. On **21 October 2026**
+every path under `/schedules/` and `/programmes/` began answering `302 → /error.html` ("BBC: Service
+Temporarily Unavailable") — the undated page and other channels alike, from a GitHub runner as well
+as from a home connection, while the rest of bbc.co.uk stayed up. The iPlayer guide carries the same
+schedule in `window.__IPLAYER_REDUX_STATE__` and is the better source anyway: UTC timestamps with an
+explicit `Z`, and an image template that renders at any size.
+
+The swap was checked against the last file the old scraper produced: of 348 programmes, **346 share
+an exact start time**, and of those 345 agree on title and stop time, 346 on description, and every
+artwork URL is identical. The handful that differ are the BBC having revised the day's schedule since
+that snapshot, not a parsing difference.
 
 ## Why, when the IPTV provider already has a BBC News guide
 
 **Artwork.** The provider's feed names a Sky image id for every programme, and Sky's image service
 does not hold all of them — every airing of *The World Today with Maryam Moshiri* and *The Context
 USA* returns 404, in every crop — so those rows fall back to the channel logo. The BBC publishes its
-own images for the same programmes and they exist: in the current build, **330 of 330 programmes
+own images for the same programmes and they exist: in the current build, **348 of 348 programmes
 have artwork**, 27 distinct images, every one verified as a real JPEG.
 
 The descriptions and the series/episode split are better too: a daily strand comes through as
