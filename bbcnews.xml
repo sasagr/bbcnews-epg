@@ -406,7 +406,7 @@
   </programme>
   <programme start="20261022200000 +0000" stop="20261022210000 +0000" channel="BBCNews.uk">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of topical debate from Scunthorpe in Lincolnshire.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
   </programme>
   <programme start="20261022210000 +0000" stop="20261022213000 +0000" channel="BBCNews.uk">
@@ -789,7 +789,7 @@
   <programme start="20261024073000 +0000" stop="20261024080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson analyses the toll on Saudi Arabia of ongoing attacks by the Houthis.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phtnsh.jpg" />
   </programme>
   <programme start="20261024080000 +0000" stop="20261024090000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -955,7 +955,7 @@
   <programme start="20261025013000 +0000" stop="20261025020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson analyses the toll on Saudi Arabia of ongoing attacks by the Houthis.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phtnsh.jpg" />
   </programme>
   <programme start="20261025020000 +0000" stop="20261025023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1089,7 +1089,7 @@
   <programme start="20261025143000 +0000" stop="20261025150000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">John Simpson analyses the toll on Saudi Arabia of ongoing attacks by the Houthis.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phtnsh.jpg" />
   </programme>
   <programme start="20261025150000 +0000" stop="20261025153000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1643,15 +1643,11 @@
     <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
   </programme>
-  <programme start="20261027200000 +0000" stop="20261027203000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
-  </programme>
-  <programme start="20261027203000 +0000" stop="20261027210000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
+  <programme start="20261027200000 +0000" stop="20261027210000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <sub-title lang="en">Israeli Election 2026</sub-title>
+    <desc lang="en">The latest news from the BBC including results from the Israeli election.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261027210000 +0000" stop="20261027213000 +0000" channel="BBCNews.uk">
     <title lang="en">The Context</title>
