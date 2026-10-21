@@ -25,12 +25,20 @@ programmes, and they exist.
 in the data: the BBC's broadcast day starts at 05:00Z before the 25 October clock change and 06:00Z
 after it, which is 06:00 local on both sides. `sanity_check` re-tests the shape of that on every run.
 
+**An outage upstream is not a failure here, until it is.** The run distinguishes "the BBC is not
+answering" from "the BBC answered and we could not read it". The first keeps the committed guide and
+exits 0, because a scheduled publisher should not page anyone every six hours for someone else's
+outage, and the file already holds a week. The second still fails loudly: that is the case where
+nobody would otherwise notice. The amnesty is not open-ended — once the committed guide has less
+than `STALE_HOURS` still to run, an outage stops being harmless and fails like anything else.
+
 Stdlib only — runs on a stock GitHub Actions runner. Mirrors tgs-epg / rds-epg / aljazeera-epg.
 """
 
 import json
 import re
 import sys
+import urllib.parse
 import urllib.request
 from datetime import datetime, timedelta, timezone
 from xml.sax.saxutils import escape
@@ -45,6 +53,10 @@ DAYS_AHEAD = 7                            # the guide's own day picker offers th
 UA = ("Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 "
       "(KHTML, like Gecko) Version/17.0 Safari/605.1.15")
 OUT = "bbcnews.xml"
+# How much of the committed guide must still lie ahead for an upstream outage to be survivable.
+# The job runs every 6 hours and publishes a week, so the BBC would have to be down for six days
+# before this trips — at which point the guide really is about to run dry and silence is wrong.
+STALE_HOURS = 24
 
 # The image template is a URL with a `{recipe}` placeholder — ichef will render whatever size is
 # asked for, so ask for one worth putting on a television.
@@ -58,25 +70,53 @@ _STATE = re.compile(r"window\.__IPLAYER_REDUX_STATE__\s*=\s*(\{.*?\});?\s*</scri
 _DATE_NAME = re.compile(r"^\s*(?:.*?:\s*)?\d{1,2}[/.]\d{1,2}[/.]\d{2,4}\s*$")
 
 
-def fetch(url):
-    request = urllib.request.Request(url, headers={"User-Agent": UA})
-    with urllib.request.urlopen(request, timeout=60) as response:
-        return response.read().decode("utf-8", "ignore")
+class Unavailable(Exception):
+    """The BBC did not serve the guide. Not our bug, and not necessarily worth failing the run."""
 
 
-def slots(html):
-    """The schedule items out of the page's redux state.
+def slots(url):
+    """The schedule items for one day, or `Unavailable` if the BBC did not serve the page.
 
-    Raises rather than returning nothing when the state is missing altogether, because the two
-    cases want different answers: a page without the state is the source having moved or gone down,
-    which is worth saying out loud, while a state holding an empty day is simply an empty day.
+    Three ways this is the BBC's problem rather than ours, and all three raise `Unavailable`:
+    the request fails outright; the request is diverted somewhere that is not the guide, which is
+    how the old source died (`302 → /error.html`, a page that then answers 200, so the status code
+    alone would say everything was fine); or the page arrives without the redux state in it.
+
+    A state that parses but holds no items for the day is NOT unavailable — that is an answer, and
+    an empty day is a thing that can legitimately happen at the far end of the window.
     """
+    request = urllib.request.Request(url, headers={"User-Agent": UA})
+    try:
+        with urllib.request.urlopen(request, timeout=60) as response:
+            landed = response.geturl()
+            html = response.read().decode("utf-8", "ignore")
+    except Exception as e:
+        raise Unavailable(str(e)) from e
+    if urllib.parse.urlsplit(landed).path.rstrip("/") != urllib.parse.urlsplit(url).path.rstrip("/"):
+        raise Unavailable(f"diverted to {landed}")
     found = _STATE.search(html)
     if not found:
-        raise ValueError("no __IPLAYER_REDUX_STATE__ in the page — the guide has moved or is down")
+        raise Unavailable("no __IPLAYER_REDUX_STATE__ in the page")
     schedule = json.loads(found.group(1)).get("schedule") or {}
     items = schedule.get("items")
     return items if isinstance(items, list) else []
+
+
+def committed_runway():
+    """Hours of guide still ahead of now in the `OUT` already committed, or None if there is none.
+
+    Read with a regex rather than an XML parser: all this needs is the last `stop`, and a file too
+    damaged to regex is one there is no point falling back to anyway.
+    """
+    try:
+        with open(OUT, encoding="utf-8") as fh:
+            stops = re.findall(r'stop="(\d{14})\s*([+-]\d{4})"', fh.read())
+    except OSError:
+        return None
+    if not stops:
+        return None
+    last = max(datetime.strptime(d + o, "%Y%m%d%H%M%S%z") for d, o in stops)
+    return (last - datetime.now(timezone.utc)).total_seconds() / 3600
 
 
 def timestamp(value):
@@ -147,14 +187,22 @@ def xmltv_ts(dt):
 def main():
     today = datetime.now(timezone.utc).date()
     rows = {}
+    answered = 0            # days the BBC actually served a schedule for, empty or not
     for offset in range(DAYS_AHEAD):
         day = today + timedelta(days=offset)
         url = f"{BASE}/{day:%Y%m%d}"
         try:
-            found = slots(fetch(url))
-        except Exception as e:
+            found = slots(url)
+        except Unavailable as e:
             print(f"  ! {day}: {e}", file=sys.stderr)
             continue
+        except Exception as e:
+            # The page was served and we could not read it. That is ours, and it is the case the
+            # amnesty below must not cover, so it counts as answered.
+            answered += 1
+            print(f"  ! {day}: {e}", file=sys.stderr)
+            continue
+        answered += 1
         print(f"  {day}: {len(found)} broadcast(s)")
         for slot in found:
             row = convert(slot)
@@ -165,6 +213,21 @@ def main():
 
     if len(rows) < 24:
         print(f"! only {len(rows)} broadcasts parsed — refusing to write {OUT}", file=sys.stderr)
+        # Nobody answered: the BBC is down, which is not something this repo can fix and not
+        # something worth an alert every six hours — as long as the guide already committed still
+        # has a usable stretch ahead of it. Say so plainly and leave that file alone.
+        if answered == 0:
+            runway = committed_runway()
+            if runway is None:
+                print("! and there is no committed guide to fall back on", file=sys.stderr)
+                return 1
+            if runway < STALE_HOURS:
+                print(f"! and the committed guide runs out in {runway:.0f}h — too close to ignore",
+                      file=sys.stderr)
+                return 1
+            print(f"The BBC served no schedule at all; keeping the committed {OUT}, which still "
+                  f"has {runway:.0f}h ({runway / 24:.1f} days) to run.")
+            return 0
         return 1
 
     ordered = [rows[k] for k in sorted(rows)]
