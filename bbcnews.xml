@@ -692,9 +692,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261024233000 +0000" stop="20261025000000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Media Show</title>
-    <desc lang="en">Our panel of politicians, current and ex-BBC execs reflect on the cuts announced so far.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
+    <title lang="en">Newsnight</title>
+    <sub-title lang="en">Aberfan: Newsnight Special</sub-title>
+    <desc lang="en">Sixty years on from the Aberfan disaster, three survivors speak to Victoria Derbyshire.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phrygs.jpg" />
   </programme>
   <programme start="20261025000000 +0000" stop="20261025003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1403,21 +1404,11 @@
     <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
   </programme>
-  <programme start="20261027200000 +0000" stop="20261027210000 +0000" channel="BBCNews.uk">
+  <programme start="20261027200000 +0000" stop="20261027220000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <sub-title lang="en">Israeli Election 2026</sub-title>
     <desc lang="en">The latest news from the BBC including results from the Israeli election.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261027210000 +0000" stop="20261027213000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
-  </programme>
-  <programme start="20261027213000 +0000" stop="20261027220000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
   </programme>
   <programme start="20261027220000 +0000" stop="20261027223000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Ten</title>
