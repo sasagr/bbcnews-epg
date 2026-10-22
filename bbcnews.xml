@@ -175,7 +175,8 @@
   </programme>
   <programme start="20261022213000 +0000" stop="20261022220000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <sub-title lang="en">Streeting: 'Don't feed the crocodile'</sub-title>
+    <desc lang="en">'Don't feed the crocodile,' says Streeting after Putin described as a 'humanitarian.'</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
   </programme>
   <programme start="20261022220000 +0000" stop="20261022230000 +0000" channel="BBCNews.uk">
@@ -259,25 +260,10 @@
     <desc lang="en">The latest business news from London and around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
-  <programme start="20261023050000 +0000" stop="20261023053000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261023053000 +0000" stop="20261023060000 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261023060000 +0000" stop="20261023063000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261023063000 +0000" stop="20261023070000 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+  <programme start="20261023050000 +0000" stop="20261023070000 +0000" channel="BBCNews.uk">
+    <title lang="en">Breakfast</title>
+    <desc lang="en">The latest news, sport, business and weather from the BBC's Breakfast team.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p7p9j2.jpg" />
   </programme>
   <programme start="20261023070000 +0000" stop="20261023073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News (Signed)</title>
