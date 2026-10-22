@@ -505,7 +505,7 @@
   </programme>
   <programme start="20261024033000 +0000" stop="20261024040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <desc lang="en">Our panel of politicians, current and ex-BBC execs reflect on the cuts announced so far.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261024040000 +0000" stop="20261024043000 +0000" channel="BBCNews.uk">
@@ -592,7 +592,7 @@
   </programme>
   <programme start="20261024123000 +0000" stop="20261024130000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <desc lang="en">Our panel of politicians, current and ex-BBC execs reflect on the cuts announced so far.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261024130000 +0000" stop="20261024133000 +0000" channel="BBCNews.uk">
@@ -627,7 +627,8 @@
   </programme>
   <programme start="20261024153000 +0000" stop="20261024160000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <sub-title lang="en">Series 3: Kanishka Narayan</sub-title>
+    <desc lang="en">Kanishka Narayan's journey from a childhood in India to his role as AI minister.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261024160000 +0000" stop="20261024170000 +0000" channel="BBCNews.uk">
@@ -692,7 +693,7 @@
   </programme>
   <programme start="20261024233000 +0000" stop="20261025000000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <desc lang="en">Our panel of politicians, current and ex-BBC execs reflect on the cuts announced so far.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261025000000 +0000" stop="20261025003000 +0000" channel="BBCNews.uk">
@@ -934,7 +935,7 @@
   </programme>
   <programme start="20261026003000 +0000" stop="20261026010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <desc lang="en">Our panel of politicians, current and ex-BBC execs reflect on the cuts announced so far.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261026010000 +0000" stop="20261026013000 +0000" channel="BBCNews.uk">
