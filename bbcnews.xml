@@ -175,7 +175,7 @@
   </programme>
   <programme start="20261023223000 +0000" stop="20261023224500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <desc lang="en">How will President Trump's tough stance on immigration impact the midterms?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261023224500 +0000" stop="20261023230000 +0000" channel="BBCNews.uk">
@@ -190,7 +190,7 @@
   </programme>
   <programme start="20261023233000 +0000" stop="20261024000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Why are record amounts of money pouring into sport?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261024000000 +0000" stop="20261024003000 +0000" channel="BBCNews.uk">
@@ -307,7 +307,7 @@
   </programme>
   <programme start="20261024103000 +0000" stop="20261024110000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Why are record amounts of money pouring into sport?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261024110000 +0000" stop="20261024113000 +0000" channel="BBCNews.uk">
@@ -353,7 +353,7 @@
   </programme>
   <programme start="20261024144500 +0000" stop="20261024150000 +0000" channel="BBCNews.uk">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News.</desc>
+    <desc lang="en">Should government employees be working on secondment for BBC News?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20261024150000 +0000" stop="20261024153000 +0000" channel="BBCNews.uk">
@@ -419,7 +419,7 @@
   </programme>
   <programme start="20261024223000 +0000" stop="20261024230000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Why are record amounts of money pouring into sport?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261024230000 +0000" stop="20261024233000 +0000" channel="BBCNews.uk">
@@ -494,7 +494,7 @@
   </programme>
   <programme start="20261025053000 +0000" stop="20261025060000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Why are record amounts of money pouring into sport?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261025060000 +0000" stop="20261025063000 +0000" channel="BBCNews.uk">
@@ -555,7 +555,7 @@
   </programme>
   <programme start="20261025114500 +0000" stop="20261025120000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <desc lang="en">How will President Trump's tough stance on immigration impact the midterms?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261025120000 +0000" stop="20261025123000 +0000" channel="BBCNews.uk">
@@ -939,7 +939,7 @@
   </programme>
   <programme start="20261027013000 +0000" stop="20261027020000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Why are record amounts of money pouring into sport?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261027020000 +0000" stop="20261027023000 +0000" channel="BBCNews.uk">
@@ -1179,10 +1179,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261028013000 +0000" stop="20261028020000 +0000" channel="BBCNews.uk">
-    <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 1</sub-title>
-    <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
+    <title lang="en">The Media Show</title>
+    <desc lang="en">Our panel of politicians, current and ex-BBC execs reflect on the cuts announced so far.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261028020000 +0000" stop="20261028023000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -1296,13 +1295,13 @@
   </programme>
   <programme start="20261028111500 +0000" stop="20261028123000 +0000" channel="BBCNews.uk">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Vicki Young presents live coverage of Chancellor John Healey's Budget.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
   </programme>
   <programme start="20261028123000 +0000" stop="20261028153000 +0000" channel="BBCNews.uk">
     <title lang="en">Politics Live</title>
     <sub-title lang="en">Budget 2026</sub-title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <desc lang="en">Vicki Young presents live coverage of Chancellor John Healey's Budget.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
   </programme>
   <programme start="20261028153000 +0000" stop="20261028160000 +0000" channel="BBCNews.uk">
@@ -1407,7 +1406,7 @@
   </programme>
   <programme start="20261029013000 +0000" stop="20261029020000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 2</sub-title>
+    <sub-title lang="en">The Road to the Midterms: Episode 1</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
   </programme>
@@ -1648,7 +1647,7 @@
   </programme>
   <programme start="20261030003000 +0000" stop="20261030010000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 3</sub-title>
+    <sub-title lang="en">The Road to the Midterms: Episode 2</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
   </programme>
