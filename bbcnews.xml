@@ -84,9 +84,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
   </programme>
   <programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -1193,7 +1193,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Yemen's Frontline City</sub-title>
     <desc lang="en">Nawal Al-Maghafi reports from Yemen's front lines.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjnc6z.png" />
   </programme>
   <programme start="20261031030000 +0000" stop="20261031033000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -1245,7 +1245,7 @@
     <title lang="en">Talking Movies</title>
     <sub-title lang="en">London and New York Film Festivals</sub-title>
     <desc lang="en">A review of films from the BFI London Film Festival and the New York Film Festival.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0c80mhr.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjnlp8.jpg" />
   </programme>
   <programme start="20261031080000 +0000" stop="20261031083000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1413,7 +1413,7 @@
     <title lang="en">Talking Movies</title>
     <sub-title lang="en">London and New York Film Festivals</sub-title>
     <desc lang="en">A review of films from the BFI London Film Festival and the New York Film Festival.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0c80mhr.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjnlp8.jpg" />
   </programme>
   <programme start="20261101010000 +0000" stop="20261101013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1444,7 +1444,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Yemen's Frontline City</sub-title>
     <desc lang="en">Nawal Al-Maghafi reports from Yemen's front lines.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjnc6z.png" />
   </programme>
   <programme start="20261101040000 +0000" stop="20261101043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1557,7 +1557,7 @@
     <title lang="en">Talking Movies</title>
     <sub-title lang="en">London and New York Film Festivals</sub-title>
     <desc lang="en">A review of films from the BFI London Film Festival and the New York Film Festival.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0c80mhr.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjnlp8.jpg" />
   </programme>
   <programme start="20261101150000 +0000" stop="20261101153000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1578,7 +1578,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Yemen's Frontline City</sub-title>
     <desc lang="en">Nawal Al-Maghafi reports from Yemen's front lines.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjnc6z.png" />
   </programme>
   <programme start="20261101170000 +0000" stop="20261101173000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1646,7 +1646,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Yemen's Frontline City</sub-title>
     <desc lang="en">Nawal Al-Maghafi reports from Yemen's front lines.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjnc6z.png" />
   </programme>
   <programme start="20261102000000 +0000" stop="20261102003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
