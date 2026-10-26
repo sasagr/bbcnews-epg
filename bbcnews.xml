@@ -83,15 +83,10 @@
     <desc lang="en">The latest national and international news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
   </programme>
-  <programme start="20261026140000 +0000" stop="20261026143000 +0000" channel="BBCNews.uk">
+  <programme start="20261026140000 +0000" stop="20261026150000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026143000 +0000" stop="20261026150000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20261026150000 +0000" stop="20261026153000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -190,7 +185,8 @@
   </programme>
   <programme start="20261027003000 +0000" stop="20261027010000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <sub-title lang="en">Can the Government Actually End Rough Sleeping by Christmas?</sub-title>
+    <desc lang="en">Andy Burnham doubles funding for his rough sleeping pledge.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
   </programme>
   <programme start="20261027010000 +0000" stop="20261027013000 +0000" channel="BBCNews.uk">
@@ -667,9 +663,9 @@
   </programme>
   <programme start="20261029013000 +0000" stop="20261029020000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 1</sub-title>
+    <sub-title lang="en">The Road to the Midterms: 1. Ohio</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjpkvy.jpg" />
   </programme>
   <programme start="20261029020000 +0000" stop="20261029023000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -908,9 +904,9 @@
   </programme>
   <programme start="20261030003000 +0000" stop="20261030010000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 2</sub-title>
+    <sub-title lang="en">The Road to the Midterms: 2. North Carolina</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjpkvy.jpg" />
   </programme>
   <programme start="20261030010000 +0000" stop="20261030013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -1169,9 +1165,9 @@
   </programme>
   <programme start="20261031003000 +0000" stop="20261031010000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 3</sub-title>
+    <sub-title lang="en">The Road to the Midterms: 3. Kansas</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjpkvy.jpg" />
   </programme>
   <programme start="20261031010000 +0000" stop="20261031013000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -1344,9 +1340,9 @@
   </programme>
   <programme start="20261031173000 +0000" stop="20261031180000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 1</sub-title>
+    <sub-title lang="en">The Road to the Midterms: 1. Ohio</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjpkvy.jpg" />
   </programme>
   <programme start="20261031180000 +0000" stop="20261031183000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1385,9 +1381,9 @@
   </programme>
   <programme start="20261031213000 +0000" stop="20261031220000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 2</sub-title>
+    <sub-title lang="en">The Road to the Midterms: 2. North Carolina</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjpkvy.jpg" />
   </programme>
   <programme start="20261031220000 +0000" stop="20261031230000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1587,9 +1583,9 @@
   </programme>
   <programme start="20261101173000 +0000" stop="20261101180000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 3</sub-title>
+    <sub-title lang="en">The Road to the Midterms: 3. Kansas</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjpkvy.jpg" />
   </programme>
   <programme start="20261101180000 +0000" stop="20261101183000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1628,9 +1624,9 @@
   </programme>
   <programme start="20261101213000 +0000" stop="20261101220000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
-    <sub-title lang="en">The Road to the Midterms: Episode 4</sub-title>
+    <sub-title lang="en">The Road to the Midterms: 4. Florida</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phg0q8.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjpkvy.jpg" />
   </programme>
   <programme start="20261101220000 +0000" stop="20261101230000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
