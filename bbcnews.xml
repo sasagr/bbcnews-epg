@@ -155,9 +155,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjstvx.jpg" />
   </programme>
   <programme start="20261027220000 +0000" stop="20261027223000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at Ten</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fjvy7w.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261027223000 +0000" stop="20261027230000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
