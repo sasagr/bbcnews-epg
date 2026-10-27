@@ -152,7 +152,7 @@
     <title lang="en">BBC News</title>
     <sub-title lang="en">Israeli Election 2026</sub-title>
     <desc lang="en">The latest news from the BBC including results from the Israeli election.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjstvx.jpg" />
   </programme>
   <programme start="20261027220000 +0000" stop="20261027223000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Ten</title>
@@ -216,7 +216,8 @@
   </programme>
   <programme start="20261028034500 +0000" stop="20261028040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why is Japan’s gender gap so big?</sub-title>
+    <desc lang="en">An annual gender equality index of 145 countries has placed Japan at 117.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261028040000 +0000" stop="20261028043000 +0000" channel="BBCNews.uk">
@@ -231,7 +232,8 @@
   </programme>
   <programme start="20261028044500 +0000" stop="20261028050000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Why is Japan’s gender gap so big?</sub-title>
+    <desc lang="en">An annual gender equality index of 145 countries has placed Japan at 117.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261028050000 +0000" stop="20261028053000 +0000" channel="BBCNews.uk">
