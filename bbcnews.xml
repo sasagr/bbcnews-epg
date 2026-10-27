@@ -79,9 +79,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20261027130000 +0000" stop="20261027140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261027140000 +0000" stop="20261027143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -1026,7 +1026,7 @@
   </programme>
   <programme start="20261031113000 +0000" stop="20261031120000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">The challenges facing Ukraine, protests in France, and the election victory for Lula.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261031120000 +0000" stop="20261031123000 +0000" channel="BBCNews.uk">
@@ -1169,7 +1169,7 @@
   </programme>
   <programme start="20261101013000 +0000" stop="20261101020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">The challenges facing Ukraine, protests in France, and the election victory for Lula.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261101020000 +0000" stop="20261101023000 +0000" channel="BBCNews.uk">
