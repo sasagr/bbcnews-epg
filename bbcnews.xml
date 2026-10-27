@@ -3,257 +3,6 @@
   <channel id="BBCNews.uk">
     <display-name>BBC News</display-name>
   </channel>
-  <programme start="20261026060000 +0000" stop="20261026063000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026063000 +0000" stop="20261026070000 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261026070000 +0000" stop="20261026073000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026073000 +0000" stop="20261026080000 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261026080000 +0000" stop="20261026083000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News (Signed)</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
-  </programme>
-  <programme start="20261026083000 +0000" stop="20261026090000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026090000 +0000" stop="20261026093000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026093000 +0000" stop="20261026100000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026100000 +0000" stop="20261026103000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026103000 +0000" stop="20261026110000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026110000 +0000" stop="20261026113000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026113000 +0000" stop="20261026114500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261026114500 +0000" stop="20261026120000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026120000 +0000" stop="20261026123000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20261026123000 +0000" stop="20261026130000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20261026130000 +0000" stop="20261026140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
-  </programme>
-  <programme start="20261026140000 +0000" stop="20261026150000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026150000 +0000" stop="20261026153000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20261026153000 +0000" stop="20261026160000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20261026160000 +0000" stop="20261026163000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20261026163000 +0000" stop="20261026164500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261026164500 +0000" stop="20261026170000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20261026170000 +0000" stop="20261026173000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
-  </programme>
-  <programme start="20261026173000 +0000" stop="20261026180000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261026180000 +0000" stop="20261026183000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at Six</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nh7frq.jpg" />
-  </programme>
-  <programme start="20261026183000 +0000" stop="20261026190000 +0000" channel="BBCNews.uk">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
-  </programme>
-  <programme start="20261026190000 +0000" stop="20261026193000 +0000" channel="BBCNews.uk">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
-  </programme>
-  <programme start="20261026193000 +0000" stop="20261026200000 +0000" channel="BBCNews.uk">
-    <title lang="en">The World Today with Maryam Moshiri</title>
-    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
-  </programme>
-  <programme start="20261026200000 +0000" stop="20261026203000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
-  </programme>
-  <programme start="20261026203000 +0000" stop="20261026210000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context USA</title>
-    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
-  </programme>
-  <programme start="20261026210000 +0000" stop="20261026213000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
-  </programme>
-  <programme start="20261026213000 +0000" stop="20261026220000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Context</title>
-    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
-  </programme>
-  <programme start="20261026220000 +0000" stop="20261026223000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at Ten</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fjvy7w.jpg" />
-  </programme>
-  <programme start="20261026223000 +0000" stop="20261026230000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
-  </programme>
-  <programme start="20261026230000 +0000" stop="20261027000000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC World News America</title>
-    <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0gq408g.jpg" />
-  </programme>
-  <programme start="20261027000000 +0000" stop="20261027003000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261027003000 +0000" stop="20261027010000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <sub-title lang="en">Can the Government Actually End Rough Sleeping by Christmas?</sub-title>
-    <desc lang="en">Andy Burnham doubles funding for his rough sleeping pledge.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
-  </programme>
-  <programme start="20261027010000 +0000" stop="20261027013000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261027013000 +0000" stop="20261027020000 +0000" channel="BBCNews.uk">
-    <title lang="en">Talking Business</title>
-    <desc lang="en">Why are record amounts of money pouring into sport?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
-  </programme>
-  <programme start="20261027020000 +0000" stop="20261027023000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hwqglj.jpg" />
-  </programme>
-  <programme start="20261027023000 +0000" stop="20261027024500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from Singapore and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261027024500 +0000" stop="20261027030000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ltl241.jpg" />
-  </programme>
-  <programme start="20261027030000 +0000" stop="20261027033000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hwqglj.jpg" />
-  </programme>
-  <programme start="20261027033000 +0000" stop="20261027034500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from Singapore and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261027034500 +0000" stop="20261027040000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ltl241.jpg" />
-  </programme>
-  <programme start="20261027040000 +0000" stop="20261027043000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newsday</title>
-    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hwqglj.jpg" />
-  </programme>
-  <programme start="20261027043000 +0000" stop="20261027044500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from Singapore and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261027044500 +0000" stop="20261027050000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC Sport</title>
-    <desc lang="en">A round-up of the day's sporting action.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ltl241.jpg" />
-  </programme>
-  <programme start="20261027050000 +0000" stop="20261027053000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261027053000 +0000" stop="20261027060000 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
   <programme start="20261027060000 +0000" stop="20261027063000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
@@ -1715,6 +1464,267 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261102053000 +0000" stop="20261102060000 +0000" channel="BBCNews.uk">
+    <title lang="en">Business Today</title>
+    <desc lang="en">The latest business news from London and around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+  </programme>
+  <programme start="20261102060000 +0000" stop="20261102063000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102063000 +0000" stop="20261102070000 +0000" channel="BBCNews.uk">
+    <title lang="en">Business Today</title>
+    <desc lang="en">The latest business news from London and around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+  </programme>
+  <programme start="20261102070000 +0000" stop="20261102073000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102073000 +0000" stop="20261102080000 +0000" channel="BBCNews.uk">
+    <title lang="en">Business Today</title>
+    <desc lang="en">The latest business news from London and around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+  </programme>
+  <programme start="20261102080000 +0000" stop="20261102083000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News (Signed)</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pcxb6q.jpg" />
+  </programme>
+  <programme start="20261102083000 +0000" stop="20261102090000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102090000 +0000" stop="20261102093000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102093000 +0000" stop="20261102100000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102100000 +0000" stop="20261102103000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102103000 +0000" stop="20261102110000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102110000 +0000" stop="20261102113000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102113000 +0000" stop="20261102114500 +0000" channel="BBCNews.uk">
+    <title lang="en">Business Today</title>
+    <desc lang="en">The latest business news from London and around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+  </programme>
+  <programme start="20261102114500 +0000" stop="20261102120000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102120000 +0000" stop="20261102123000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  </programme>
+  <programme start="20261102123000 +0000" stop="20261102130000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  </programme>
+  <programme start="20261102130000 +0000" stop="20261102140000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News at One</title>
+    <desc lang="en">The latest national and international news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
+  </programme>
+  <programme start="20261102140000 +0000" stop="20261102143000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  </programme>
+  <programme start="20261102143000 +0000" stop="20261102144500 +0000" channel="BBCNews.uk">
+    <title lang="en">Business Today - NYSE Opening Bell</title>
+    <desc lang="en">The latest business news from New York and around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
+  </programme>
+  <programme start="20261102144500 +0000" stop="20261102150000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  </programme>
+  <programme start="20261102150000 +0000" stop="20261102153000 +0000" channel="BBCNews.uk">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  </programme>
+  <programme start="20261102153000 +0000" stop="20261102160000 +0000" channel="BBCNews.uk">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  </programme>
+  <programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="BBCNews.uk">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  </programme>
+  <programme start="20261102163000 +0000" stop="20261102164500 +0000" channel="BBCNews.uk">
+    <title lang="en">Business Today</title>
+    <desc lang="en">The latest business news from London and around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+  </programme>
+  <programme start="20261102164500 +0000" stop="20261102170000 +0000" channel="BBCNews.uk">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  </programme>
+  <programme start="20261102170000 +0000" stop="20261102173000 +0000" channel="BBCNews.uk">
+    <title lang="en">Verified Live</title>
+    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+  </programme>
+  <programme start="20261102173000 +0000" stop="20261102180000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261102180000 +0000" stop="20261102183000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News at Six</title>
+    <desc lang="en">The latest national and international news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nh7frq.jpg" />
+  </programme>
+  <programme start="20261102183000 +0000" stop="20261102190000 +0000" channel="BBCNews.uk">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
+  </programme>
+  <programme start="20261102190000 +0000" stop="20261102193000 +0000" channel="BBCNews.uk">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
+  </programme>
+  <programme start="20261102193000 +0000" stop="20261102200000 +0000" channel="BBCNews.uk">
+    <title lang="en">The World Today with Maryam Moshiri</title>
+    <desc lang="en">Watch the best of the BBC's journalism from around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hd093m.jpg" />
+  </programme>
+  <programme start="20261102200000 +0000" stop="20261102203000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
+  </programme>
+  <programme start="20261102203000 +0000" stop="20261102210000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Context USA</title>
+    <desc lang="en">Special coverage from Washington DC and London, focusing on President Trump's second term.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0lnpqrz.jpg" />
+  </programme>
+  <programme start="20261102210000 +0000" stop="20261102213000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
+  </programme>
+  <programme start="20261102213000 +0000" stop="20261102220000 +0000" channel="BBCNews.uk">
+    <title lang="en">The Context</title>
+    <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
+  </programme>
+  <programme start="20261102220000 +0000" stop="20261102223000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News at Ten</title>
+    <desc lang="en">The latest national and international news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fjvy7w.jpg" />
+  </programme>
+  <programme start="20261102223000 +0000" stop="20261102230000 +0000" channel="BBCNews.uk">
+    <title lang="en">Newsnight</title>
+    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+  </programme>
+  <programme start="20261102230000 +0000" stop="20261103000000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC World News America</title>
+    <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0gq408g.jpg" />
+  </programme>
+  <programme start="20261103000000 +0000" stop="20261103003000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261103003000 +0000" stop="20261103010000 +0000" channel="BBCNews.uk">
+    <title lang="en">Newscast</title>
+    <desc lang="en">Lighthearted discussion of the day's news.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+  </programme>
+  <programme start="20261103010000 +0000" stop="20261103013000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261103013000 +0000" stop="20261103020000 +0000" channel="BBCNews.uk">
+    <title lang="en">US Midterm Elections 26</title>
+    <sub-title lang="en">The Road to the Midterms: 4. Florida</sub-title>
+    <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjpkvy.jpg" />
+  </programme>
+  <programme start="20261103020000 +0000" stop="20261103023000 +0000" channel="BBCNews.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hwqglj.jpg" />
+  </programme>
+  <programme start="20261103023000 +0000" stop="20261103024500 +0000" channel="BBCNews.uk">
+    <title lang="en">Business Today</title>
+    <desc lang="en">The latest business news from Singapore and around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+  </programme>
+  <programme start="20261103024500 +0000" stop="20261103030000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ltl241.jpg" />
+  </programme>
+  <programme start="20261103030000 +0000" stop="20261103033000 +0000" channel="BBCNews.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hwqglj.jpg" />
+  </programme>
+  <programme start="20261103033000 +0000" stop="20261103034500 +0000" channel="BBCNews.uk">
+    <title lang="en">Business Today</title>
+    <desc lang="en">The latest business news from Singapore and around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+  </programme>
+  <programme start="20261103034500 +0000" stop="20261103040000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ltl241.jpg" />
+  </programme>
+  <programme start="20261103040000 +0000" stop="20261103043000 +0000" channel="BBCNews.uk">
+    <title lang="en">Newsday</title>
+    <desc lang="en">Live from Singapore, the latest international news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hwqglj.jpg" />
+  </programme>
+  <programme start="20261103043000 +0000" stop="20261103044500 +0000" channel="BBCNews.uk">
+    <title lang="en">Business Today</title>
+    <desc lang="en">The latest business news from Singapore and around the world.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+  </programme>
+  <programme start="20261103044500 +0000" stop="20261103050000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC Sport</title>
+    <desc lang="en">A round-up of the day's sporting action.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ltl241.jpg" />
+  </programme>
+  <programme start="20261103050000 +0000" stop="20261103053000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+  </programme>
+  <programme start="20261103053000 +0000" stop="20261103060000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
     <desc lang="en">The latest business news from London and around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
