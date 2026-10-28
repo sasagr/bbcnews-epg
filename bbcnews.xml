@@ -53,12 +53,12 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261028110000 +0000" stop="20261028111500 +0000" channel="BBCNews.uk">
+  <programme start="20261028110000 +0000" stop="20261028120000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261028111500 +0000" stop="20261028123000 +0000" channel="BBCNews.uk">
+  <programme start="20261028120000 +0000" stop="20261028123000 +0000" channel="BBCNews.uk">
     <title lang="en">Politics Live</title>
     <desc lang="en">Vicki Young presents live coverage of Chancellor John Healey's Budget.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
@@ -387,7 +387,7 @@
   </programme>
   <programme start="20261029210000 +0000" stop="20261029220000 +0000" channel="BBCNews.uk">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of debate from Warwick.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
   </programme>
   <programme start="20261029220000 +0000" stop="20261029223000 +0000" channel="BBCNews.uk">
