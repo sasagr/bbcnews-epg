@@ -612,8 +612,9 @@
   </programme>
   <programme start="20261031163000 +0000" stop="20261031170000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <sub-title lang="en">Series 3: Andy Haldane</sub-title>
+    <desc lang="en">Andy Burnham's former adviser gives his verdict on the budget and the wider economy.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pkbrlk.jpg" />
   </programme>
   <programme start="20261031170000 +0000" stop="20261031173000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -624,7 +625,7 @@
     <title lang="en">US Midterm Elections 26</title>
     <sub-title lang="en">The Road to the Midterms: 1. Ohio</sub-title>
     <desc lang="en">Sumi Somaskanda and Caitríona Perry tour the US to discover what's shaping the vote.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjpkvy.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pkbpcg.jpg" />
   </programme>
   <programme start="20261031180000 +0000" stop="20261031183000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -921,9 +922,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261101233000 +0000" stop="20261102000000 +0000" channel="BBCNews.uk">
-    <title lang="en">Africa: From Reparations to Action</title>
-    <desc lang="en">African leaders push to turn reparations demands into action after UN resolution.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <title lang="en">Global Eye</title>
+    <sub-title lang="en">Yemen's Frontline City</sub-title>
+    <desc lang="en">Nawal Al-Maghafi reports from Yemen's front lines.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pjnc6z.png" />
   </programme>
   <programme start="20261102000000 +0000" stop="20261102003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
