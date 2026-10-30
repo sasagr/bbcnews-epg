@@ -180,7 +180,8 @@
   </programme>
   <programme start="20261030233000 +0000" stop="20261030234500 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">US Midterms: Races to Watch</sub-title>
+    <desc lang="en">Sumi and Caitriona go through what you need to know about this year's US midterms.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261030234500 +0000" stop="20261031000000 +0000" channel="BBCNews.uk">
@@ -228,7 +229,8 @@
   </programme>
   <programme start="20261031033000 +0000" stop="20261031040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Is TV News Fit for Purpose in the Internet Age?</sub-title>
+    <desc lang="en">Are traditional TV news channels fit for purpose in the digital media age?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261031040000 +0000" stop="20261031043000 +0000" channel="BBCNews.uk">
@@ -249,7 +251,8 @@
   </programme>
   <programme start="20261031053000 +0000" stop="20261031060000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI at the Ballot Box</sub-title>
+    <desc lang="en">An examination of the growing role of artificial intelligence in the US midterm elections.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261031060000 +0000" stop="20261031063000 +0000" channel="BBCNews.uk">
@@ -325,7 +328,8 @@
   </programme>
   <programme start="20261031133000 +0000" stop="20261031140000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI at the Ballot Box</sub-title>
+    <desc lang="en">An examination of the growing role of artificial intelligence in the US midterm elections.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261031140000 +0000" stop="20261031143000 +0000" channel="BBCNews.uk">
@@ -335,7 +339,8 @@
   </programme>
   <programme start="20261031143000 +0000" stop="20261031150000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Is TV News Fit for Purpose in the Internet Age?</sub-title>
+    <desc lang="en">Are traditional TV news channels fit for purpose in the digital media age?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261031150000 +0000" stop="20261031153000 +0000" channel="BBCNews.uk">
@@ -459,7 +464,8 @@
   </programme>
   <programme start="20261101023000 +0000" stop="20261101030000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI at the Ballot Box</sub-title>
+    <desc lang="en">An examination of the growing role of artificial intelligence in the US midterm elections.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261101030000 +0000" stop="20261101033000 +0000" channel="BBCNews.uk">
@@ -552,7 +558,8 @@
   </programme>
   <programme start="20261101114500 +0000" stop="20261101120000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">US Midterms: Races to Watch</sub-title>
+    <desc lang="en">Sumi and Caitriona go through what you need to know about this year's US midterms.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261101120000 +0000" stop="20261101123000 +0000" channel="BBCNews.uk">
@@ -682,7 +689,8 @@
   </programme>
   <programme start="20261102003000 +0000" stop="20261102010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">Is TV News Fit for Purpose in the Internet Age?</sub-title>
+    <desc lang="en">Are traditional TV news channels fit for purpose in the digital media age?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261102010000 +0000" stop="20261102013000 +0000" channel="BBCNews.uk">
@@ -1412,7 +1420,8 @@
   </programme>
   <programme start="20261105013000 +0000" stop="20261105020000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI at the Ballot Box</sub-title>
+    <desc lang="en">An examination of the growing role of artificial intelligence in the US midterm elections.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261105020000 +0000" stop="20261105023000 +0000" channel="BBCNews.uk">
