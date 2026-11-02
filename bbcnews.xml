@@ -104,9 +104,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
   <programme start="20261102153000 +0000" stop="20261102160000 +0000" channel="BBCNews.uk">
-    <title lang="en">Verified Live</title>
-    <desc lang="en">Matthew Amroliwala presents all the latest global and UK news, live from London.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261102160000 +0000" stop="20261102163000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -114,9 +114,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fpbn2v.jpg" />
   </programme>
   <programme start="20261102163000 +0000" stop="20261102164500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261102164500 +0000" stop="20261102170000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -195,8 +195,9 @@
   </programme>
   <programme start="20261103003000 +0000" stop="20261103010000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">The US Midterms Unpacked In 39 Minutes</sub-title>
+    <desc lang="en">Everything you need to know about the US midterms and what they mean for America.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pkyhwh.jpg" />
   </programme>
   <programme start="20261103010000 +0000" stop="20261103013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -461,16 +462,11 @@
     <desc lang="en">Clive Myrie, Sumi Somaskanda and Caitríona Perry bring you the results as they happen.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pgtkjp.jpg" />
   </programme>
-  <programme start="20261104020000 +0000" stop="20261104060000 +0000" channel="BBCNews.uk">
+  <programme start="20261104020000 +0000" stop="20261104063000 +0000" channel="BBCNews.uk">
     <title lang="en">US Midterm Elections 26</title>
     <sub-title lang="en">Part 2</sub-title>
     <desc lang="en">Clive Myrie, Sumi Somaskanda and Caitríona Perry bring you the results as they happen.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pgtlpm.jpg" />
-  </programme>
-  <programme start="20261104060000 +0000" stop="20261104063000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261104063000 +0000" stop="20261104070000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today</title>
@@ -1196,10 +1192,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261107023000 +0000" stop="20261107030000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Climate Question</title>
-    <sub-title lang="en">How Do You Build a Climate Friendly City?</sub-title>
-    <desc lang="en">Cities are on the front line of climate change. So how can mayors keep urban areas safe?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+    <title lang="en">Africa: From Reparations to Action</title>
+    <desc lang="en">African leaders push to turn reparations demands into action after UN resolution.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
   </programme>
   <programme start="20261107030000 +0000" stop="20261107033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1438,7 +1433,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Bangkok Under Pressure</sub-title>
     <desc lang="en">A report from Thailand, where flooding has highlighted the challenges facing Bangkok.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pktt5c.png" />
   </programme>
   <programme start="20261108040000 +0000" stop="20261108043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1539,8 +1534,9 @@
   </programme>
   <programme start="20261108133000 +0000" stop="20261108140000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
-    <desc lang="en">Tech Now explores the latest innovations and technologies shaping our lives.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <sub-title lang="en">Wildfires: Fighting Hidden Hotspots</sub-title>
+    <desc lang="en">Shiona McCallum visits Cairngorms National Park to see tech monitor wildfire damage.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pfw9wr.jpg" />
   </programme>
   <programme start="20261108140000 +0000" stop="20261108143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1548,10 +1544,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Climate Question</title>
-    <sub-title lang="en">How Do You Build a Climate Friendly City?</sub-title>
-    <desc lang="en">Cities are on the front line of climate change. So how can mayors keep urban areas safe?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+    <title lang="en">AI Decoded</title>
+    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1572,7 +1567,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Bangkok Under Pressure</sub-title>
     <desc lang="en">A report from Thailand, where flooding has highlighted the challenges facing Bangkok.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pktt5c.png" />
   </programme>
   <programme start="20261108170000 +0000" stop="20261108180000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1625,10 +1620,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261108233000 +0000" stop="20261109000000 +0000" channel="BBCNews.uk">
-    <title lang="en">Global Eye</title>
-    <sub-title lang="en">Bangkok Under Pressure</sub-title>
-    <desc lang="en">A report from Thailand, where flooding has highlighted the challenges facing Bangkok.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <title lang="en">Africa: From Reparations to Action</title>
+    <desc lang="en">African leaders push to turn reparations demands into action after UN resolution.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
   </programme>
   <programme start="20261109000000 +0000" stop="20261109003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
