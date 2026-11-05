@@ -165,7 +165,7 @@
   </programme>
   <programme start="20261105210000 +0000" stop="20261105220000 +0000" channel="BBCNews.uk">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of debate from Liverpool.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
   </programme>
   <programme start="20261105220000 +0000" stop="20261105223000 +0000" channel="BBCNews.uk">
@@ -200,7 +200,8 @@
   </programme>
   <programme start="20261106013000 +0000" stop="20261106020000 +0000" channel="BBCNews.uk">
     <title lang="en">The Interface</title>
-    <desc lang="en">The show that brings you the tech stories that matter most to you.</desc>
+    <sub-title lang="en">Instagram’s 90-Minute Video Gamble</sub-title>
+    <desc lang="en">Thomas Germain and Jessica Maddox on Instagram's long videos and a scarily human AI voice.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phgsm3.jpg" />
   </programme>
   <programme start="20261106020000 +0000" stop="20261106023000 +0000" channel="BBCNews.uk">
@@ -473,7 +474,7 @@
   <programme start="20261107023000 +0000" stop="20261107030000 +0000" channel="BBCNews.uk">
     <title lang="en">Africa: From Reparations to Action</title>
     <desc lang="en">African leaders push to turn reparations demands into action after UN resolution.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0plhxtt.jpg" />
   </programme>
   <programme start="20261107030000 +0000" stop="20261107033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -482,7 +483,8 @@
   </programme>
   <programme start="20261107033000 +0000" stop="20261107040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The Role of Social Media in Gen-Z Protests Across Europe</sub-title>
+    <desc lang="en">How online platforms shaped unrest in Europe and the narratives that followed.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261107040000 +0000" stop="20261107043000 +0000" channel="BBCNews.uk">
@@ -503,7 +505,8 @@
   </programme>
   <programme start="20261107053000 +0000" stop="20261107060000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Meta's Secret Robot?</sub-title>
+    <desc lang="en">Would you let AI walk around your home?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261107060000 +0000" stop="20261107063000 +0000" channel="BBCNews.uk">
@@ -534,7 +537,8 @@
   </programme>
   <programme start="20261107083000 +0000" stop="20261107090000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The Role of Social Media in Gen-Z Protests Across Europe</sub-title>
+    <desc lang="en">How online platforms shaped unrest in Europe and the narratives that followed.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261107090000 +0000" stop="20261107100000 +0000" channel="BBCNews.uk">
@@ -579,7 +583,8 @@
   </programme>
   <programme start="20261107133000 +0000" stop="20261107140000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Meta's Secret Robot?</sub-title>
+    <desc lang="en">Would you let AI walk around your home?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261107140000 +0000" stop="20261107143000 +0000" channel="BBCNews.uk">
@@ -589,7 +594,8 @@
   </programme>
   <programme start="20261107143000 +0000" stop="20261107150000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The Role of Social Media in Gen-Z Protests Across Europe</sub-title>
+    <desc lang="en">How online platforms shaped unrest in Europe and the narratives that followed.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261107150000 +0000" stop="20261107153000 +0000" channel="BBCNews.uk">
@@ -614,7 +620,8 @@
   </programme>
   <programme start="20261107163000 +0000" stop="20261107170000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <sub-title lang="en">Series 3: Nick Timothy</sub-title>
+    <desc lang="en">Shadow justice secretary Nick Timothy on what it's like in Trump's Oval Office.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261107170000 +0000" stop="20261107180000 +0000" channel="BBCNews.uk">
@@ -669,7 +676,7 @@
   </programme>
   <programme start="20261107233000 +0000" stop="20261108000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Can Africa hold on to more of the wealth its metals and minerals are creating?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261108000000 +0000" stop="20261108003000 +0000" channel="BBCNews.uk">
@@ -700,7 +707,8 @@
   </programme>
   <programme start="20261108023000 +0000" stop="20261108030000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Meta's Secret Robot?</sub-title>
+    <desc lang="en">Would you let AI walk around your home?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261108030000 +0000" stop="20261108033000 +0000" channel="BBCNews.uk">
@@ -732,7 +740,7 @@
   </programme>
   <programme start="20261108053000 +0000" stop="20261108060000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Can Africa hold on to more of the wealth its metals and minerals are creating?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261108060000 +0000" stop="20261108063000 +0000" channel="BBCNews.uk">
@@ -819,7 +827,8 @@
   </programme>
   <programme start="20261108143000 +0000" stop="20261108150000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Meta's Secret Robot?</sub-title>
+    <desc lang="en">Would you let AI walk around your home?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261108150000 +0000" stop="20261108153000 +0000" channel="BBCNews.uk">
@@ -896,7 +905,7 @@
   <programme start="20261108233000 +0000" stop="20261109000000 +0000" channel="BBCNews.uk">
     <title lang="en">Africa: From Reparations to Action</title>
     <desc lang="en">African leaders push to turn reparations demands into action after UN resolution.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bvs4dq.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0plhxtt.jpg" />
   </programme>
   <programme start="20261109000000 +0000" stop="20261109003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -905,7 +914,8 @@
   </programme>
   <programme start="20261109003000 +0000" stop="20261109010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The Role of Social Media in Gen-Z Protests Across Europe</sub-title>
+    <desc lang="en">How online platforms shaped unrest in Europe and the narratives that followed.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261109010000 +0000" stop="20261109013000 +0000" channel="BBCNews.uk">
@@ -915,7 +925,8 @@
   </programme>
   <programme start="20261109013000 +0000" stop="20261109020000 +0000" channel="BBCNews.uk">
     <title lang="en">The Interface</title>
-    <desc lang="en">The show that brings you the tech stories that matter most to you.</desc>
+    <sub-title lang="en">Instagram’s 90-Minute Video Gamble</sub-title>
+    <desc lang="en">Thomas Germain and Jessica Maddox on Instagram's long videos and a scarily human AI voice.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phgsm3.jpg" />
   </programme>
   <programme start="20261109020000 +0000" stop="20261109023000 +0000" channel="BBCNews.uk">
@@ -1175,7 +1186,7 @@
   </programme>
   <programme start="20261110013000 +0000" stop="20261110020000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Can Africa hold on to more of the wealth its metals and minerals are creating?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261110020000 +0000" stop="20261110023000 +0000" channel="BBCNews.uk">
@@ -1691,7 +1702,8 @@
   </programme>
   <programme start="20261112013000 +0000" stop="20261112020000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">Meta's Secret Robot?</sub-title>
+    <desc lang="en">Would you let AI walk around your home?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261112020000 +0000" stop="20261112023000 +0000" channel="BBCNews.uk">
