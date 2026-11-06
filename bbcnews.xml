@@ -185,7 +185,8 @@
   </programme>
   <programme start="20261106233000 +0000" stop="20261107000000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Democrats Win Big in US Midterms</sub-title>
+    <desc lang="en">Democrats have taken control of Congress. What next for Republicans?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261107000000 +0000" stop="20261107003000 +0000" channel="BBCNews.uk">
@@ -271,7 +272,7 @@
   </programme>
   <programme start="20261107073000 +0000" stop="20261107080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">John Simpson explores what the last years of Donald Trump’s presidency might look like.</desc>
+    <desc lang="en">John Simpson explores what the last years of Donald Trump's presidency might look like.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pl903t.jpg" />
   </programme>
   <programme start="20261107080000 +0000" stop="20261107083000 +0000" channel="BBCNews.uk">
@@ -307,7 +308,7 @@
   </programme>
   <programme start="20261107113000 +0000" stop="20261107120000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">John Simpson explores what the last years of Donald Trump’s presidency might look like.</desc>
+    <desc lang="en">John Simpson explores what the last years of Donald Trump's presidency might look like.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pl903t.jpg" />
   </programme>
   <programme start="20261107120000 +0000" stop="20261107123000 +0000" channel="BBCNews.uk">
@@ -354,7 +355,7 @@
   </programme>
   <programme start="20261107154500 +0000" stop="20261107160000 +0000" channel="BBCNews.uk">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News.</desc>
+    <desc lang="en">Did BBC News devote too much airtime to the midterm elections in the United States?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20261107160000 +0000" stop="20261107163000 +0000" channel="BBCNews.uk">
@@ -366,7 +367,7 @@
     <title lang="en">Political Thinking with Nick Robinson</title>
     <sub-title lang="en">Series 3: Nick Timothy</sub-title>
     <desc lang="en">Shadow justice secretary Nick Timothy on what it's like in Trump's Oval Office.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pllmym.jpg" />
   </programme>
   <programme start="20261107170000 +0000" stop="20261107180000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -441,7 +442,7 @@
   </programme>
   <programme start="20261108013000 +0000" stop="20261108020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">John Simpson explores what the last years of Donald Trump’s presidency might look like.</desc>
+    <desc lang="en">John Simpson explores what the last years of Donald Trump's presidency might look like.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pl903t.jpg" />
   </programme>
   <programme start="20261108020000 +0000" stop="20261108023000 +0000" channel="BBCNews.uk">
@@ -518,12 +519,12 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261108090000 +0000" stop="20261108100000 +0000" channel="BBCNews.uk">
+  <programme start="20261108090000 +0000" stop="20261108101500 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
     <desc lang="en">Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pkhpr5.jpg" />
   </programme>
-  <programme start="20261108100000 +0000" stop="20261108103000 +0000" channel="BBCNews.uk">
+  <programme start="20261108101500 +0000" stop="20261108103000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
@@ -540,7 +541,8 @@
   </programme>
   <programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Democrats Win Big in US Midterms</sub-title>
+    <desc lang="en">Democrats have taken control of Congress. What next for Republicans?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="BBCNews.uk">
