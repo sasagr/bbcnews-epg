@@ -113,10 +113,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261107163000 +0000" stop="20261107170000 +0000" channel="BBCNews.uk">
-    <title lang="en">Political Thinking with Nick Robinson</title>
-    <sub-title lang="en">Series 3: Nick Timothy</sub-title>
-    <desc lang="en">Shadow justice secretary Nick Timothy on what it's like in Trump's Oval Office.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pllmym.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261107170000 +0000" stop="20261107180000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -149,9 +148,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261107203000 +0000" stop="20261107210000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261107210000 +0000" stop="20261107220000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -270,7 +269,7 @@
   </programme>
   <programme start="20261108090000 +0000" stop="20261108101500 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
+    <desc lang="en">With Lisa Nandy, Sir Richard Knighton, Nigel Farage, Michel Barnier and Josh Kerr.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pkhpr5.jpg" />
   </programme>
   <programme start="20261108101500 +0000" stop="20261108103000 +0000" channel="BBCNews.uk">
