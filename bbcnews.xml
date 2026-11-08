@@ -145,8 +145,9 @@
   </programme>
   <programme start="20261108203000 +0000" stop="20261108210000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Are there more Russell Brands in the media industry?</sub-title>
+    <desc lang="en">The culture secretary says she’s been told abuse is still happening.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ply4dj.jpg" />
   </programme>
   <programme start="20261108210000 +0000" stop="20261108220000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
