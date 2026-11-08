@@ -36,8 +36,9 @@
   </programme>
   <programme start="20261108090000 +0000" stop="20261108101500 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
+    <sub-title lang="en">Remembrance Sunday, Brexit and Josh Kerr</sub-title>
     <desc lang="en">With Lisa Nandy, Sir Richard Knighton, Nigel Farage, Michel Barnier and Josh Kerr.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pkhpr5.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0plxpm9.jpg" />
   </programme>
   <programme start="20261108101500 +0000" stop="20261108103000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -55,10 +56,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261108113000 +0000" stop="20261108120000 +0000" channel="BBCNews.uk">
-    <title lang="en">The President's Path</title>
-    <sub-title lang="en">Democrats Win Big in US Midterms</sub-title>
-    <desc lang="en">Democrats have taken control of Congress. What next for Republicans?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261108120000 +0000" stop="20261108123000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
