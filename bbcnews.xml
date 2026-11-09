@@ -78,22 +78,22 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20261109130000 +0000" stop="20261109140000 +0000" channel="BBCNews.uk">
+  <programme start="20261109130000 +0000" stop="20261109134500 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
     <desc lang="en">The latest national and international news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
+  </programme>
+  <programme start="20261109134500 +0000" stop="20261109140000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261109140000 +0000" stop="20261109143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20261109143000 +0000" stop="20261109144500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today - NYSE Opening Bell</title>
-    <desc lang="en">The latest business news from New York and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
-  </programme>
-  <programme start="20261109144500 +0000" stop="20261109150000 +0000" channel="BBCNews.uk">
+  <programme start="20261109143000 +0000" stop="20261109150000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
@@ -168,10 +168,15 @@
     <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
   </programme>
-  <programme start="20261109213000 +0000" stop="20261109220000 +0000" channel="BBCNews.uk">
+  <programme start="20261109213000 +0000" stop="20261109215000 +0000" channel="BBCNews.uk">
     <title lang="en">The Context</title>
     <desc lang="en">A regular panel of guests discuss the biggest international stories of the day.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk1nnm.jpg" />
+  </programme>
+  <programme start="20261109215000 +0000" stop="20261109220000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261109220000 +0000" stop="20261109223000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at Ten</title>
@@ -196,7 +201,7 @@
   <programme start="20261110003000 +0000" stop="20261110010000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
     <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pm404g.jpg" />
   </programme>
   <programme start="20261110010000 +0000" stop="20261110013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1493,7 +1498,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Angola: The Race for Critical Minerals</sub-title>
     <desc lang="en">Akisa Wandera reports from Angola.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pm4zl2.png" />
   </programme>
   <programme start="20261115040000 +0000" stop="20261115043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1627,7 +1632,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Angola: The Race for Critical Minerals</sub-title>
     <desc lang="en">Akisa Wandera reports from Angola.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pm4zl2.png" />
   </programme>
   <programme start="20261115170000 +0000" stop="20261115180000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1683,7 +1688,7 @@
     <title lang="en">Global Eye</title>
     <sub-title lang="en">Angola: The Race for Critical Minerals</sub-title>
     <desc lang="en">Akisa Wandera reports from Angola.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nzcsk2.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pm4zl2.png" />
   </programme>
   <programme start="20261116000000 +0000" stop="20261116003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
