@@ -79,9 +79,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20261110130000 +0000" stop="20261110140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261110140000 +0000" stop="20261110143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -195,8 +195,9 @@
   </programme>
   <programme start="20261111003000 +0000" stop="20261111010000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">The David Walliams Allegations</sub-title>
+    <desc lang="en">David Walliams loses injunction battle and is accused of preying on young women for sex.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pmbkk8.jpg" />
   </programme>
   <programme start="20261111010000 +0000" stop="20261111013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -236,7 +237,8 @@
   </programme>
   <programme start="20261111034500 +0000" stop="20261111040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">What's Next for Jensen Huang After China Scandal?</sub-title>
+    <desc lang="en">The head of the world's most valuable AI chip company has apologised for having an affair.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261111040000 +0000" stop="20261111043000 +0000" channel="BBCNews.uk">
@@ -251,7 +253,8 @@
   </programme>
   <programme start="20261111044500 +0000" stop="20261111050000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">What's Next for Jensen Huang After China Scandal?</sub-title>
+    <desc lang="en">The head of the world's most valuable AI chip company has apologised for having an affair.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261111050000 +0000" stop="20261111053000 +0000" channel="BBCNews.uk">
@@ -716,9 +719,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261113013000 +0000" stop="20261113020000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Interface</title>
-    <desc lang="en">The show that brings you the tech stories that matter most to you.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phgsm3.jpg" />
+    <title lang="en">The Big Cases</title>
+    <sub-title lang="en">The Downfall of Russell Brand</sub-title>
+    <desc lang="en">How the outspoken comedian went from Hollywood stardom to a prison sentence.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pm2k4k.jpg" />
   </programme>
   <programme start="20261113020000 +0000" stop="20261113023000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
@@ -955,15 +959,10 @@
     <desc lang="en">The BBC presents in-depth reports on the major international and US news of the day.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0gq408g.jpg" />
   </programme>
-  <programme start="20261113233000 +0000" stop="20261113234500 +0000" channel="BBCNews.uk">
+  <programme start="20261113233000 +0000" stop="20261114000000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
     <desc lang="en">A weekly discussion on the US presidency.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
-  </programme>
-  <programme start="20261113234500 +0000" stop="20261114000000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261114000000 +0000" stop="20261114003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -992,10 +991,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261114023000 +0000" stop="20261114030000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Climate Question</title>
-    <sub-title lang="en">How Do You Build a Climate Friendly City?</sub-title>
-    <desc lang="en">Cities are on the front line of climate change. So how can mayors keep urban areas safe?</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
+    <title lang="en">The Big Cases</title>
+    <sub-title lang="en">The Downfall of Russell Brand</sub-title>
+    <desc lang="en">How the outspoken comedian went from Hollywood stardom to a prison sentence.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pm2k4k.jpg" />
   </programme>
   <programme start="20261114030000 +0000" stop="20261114033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -1045,7 +1044,7 @@
   </programme>
   <programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">How the results of the US midterm elections are reshaping American politics.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261114080000 +0000" stop="20261114083000 +0000" channel="BBCNews.uk">
@@ -1080,7 +1079,7 @@
   </programme>
   <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">How the results of the US midterm elections are reshaping American politics.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="BBCNews.uk">
@@ -1211,7 +1210,7 @@
   </programme>
   <programme start="20261115013000 +0000" stop="20261115020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">How the results of the US midterm elections are reshaping American politics.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261115020000 +0000" stop="20261115023000 +0000" channel="BBCNews.uk">
@@ -1307,12 +1306,7 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261115113000 +0000" stop="20261115114500 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261115114500 +0000" stop="20261115120000 +0000" channel="BBCNews.uk">
+  <programme start="20261115113000 +0000" stop="20261115120000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
     <desc lang="en">A weekly discussion on the US presidency.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
@@ -1420,10 +1414,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261115233000 +0000" stop="20261116000000 +0000" channel="BBCNews.uk">
-    <title lang="en">Global Eye</title>
-    <sub-title lang="en">Angola: The Race for Critical Minerals</sub-title>
-    <desc lang="en">Akisa Wandera reports from Angola.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pm4zl2.png" />
+    <title lang="en">The Big Cases</title>
+    <sub-title lang="en">The Downfall of Russell Brand</sub-title>
+    <desc lang="en">How the outspoken comedian went from Hollywood stardom to a prison sentence.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pm2k4k.jpg" />
   </programme>
   <programme start="20261116000000 +0000" stop="20261116003000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
