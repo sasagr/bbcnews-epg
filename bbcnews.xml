@@ -70,7 +70,8 @@
   </programme>
   <programme start="20261111115500 +0000" stop="20261111130000 +0000" channel="BBCNews.uk">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <sub-title lang="en">Prime Minister’s Questions</sub-title>
+    <desc lang="en">Andy Burnham faces Kemi Badenoch for Prime Minister’s Questions</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
   </programme>
   <programme start="20261111130000 +0000" stop="20261111140000 +0000" channel="BBCNews.uk">
@@ -781,7 +782,7 @@
   <programme start="20261114073000 +0000" stop="20261114080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">How the results of the US midterm elections are reshaping American politics.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pmgk4p.jpg" />
   </programme>
   <programme start="20261114080000 +0000" stop="20261114083000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -816,7 +817,7 @@
   <programme start="20261114113000 +0000" stop="20261114120000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">How the results of the US midterm elections are reshaping American politics.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pmgk4p.jpg" />
   </programme>
   <programme start="20261114120000 +0000" stop="20261114123000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -870,7 +871,8 @@
   </programme>
   <programme start="20261114163000 +0000" stop="20261114170000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <sub-title lang="en">Series 3: Anita Anand</sub-title>
+    <desc lang="en">Canada’s Foreign Minister says she thinks there has been a 'rupture' on the world stage.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="BBCNews.uk">
@@ -925,7 +927,7 @@
   </programme>
   <programme start="20261114233000 +0000" stop="20261115000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How changing winter weather is taking a toll on tourism across Europe.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261115000000 +0000" stop="20261115003000 +0000" channel="BBCNews.uk">
@@ -945,9 +947,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261115013000 +0000" stop="20261115020000 +0000" channel="BBCNews.uk">
-    <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">How the results of the US midterm elections are reshaping American politics.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <title lang="en">Political Thinking with Nick Robinson</title>
+    <sub-title lang="en">Series 3: Anita Anand</sub-title>
+    <desc lang="en">Canada’s Foreign Minister says she thinks there has been a 'rupture' on the world stage.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261115020000 +0000" stop="20261115023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -988,7 +991,7 @@
   </programme>
   <programme start="20261115053000 +0000" stop="20261115060000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How changing winter weather is taking a toll on tourism across Europe.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261115060000 +0000" stop="20261115063000 +0000" channel="BBCNews.uk">
@@ -1432,7 +1435,7 @@
   </programme>
   <programme start="20261117013000 +0000" stop="20261117020000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How changing winter weather is taking a toll on tourism across Europe.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261117020000 +0000" stop="20261117023000 +0000" channel="BBCNews.uk">
