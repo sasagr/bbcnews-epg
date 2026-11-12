@@ -190,8 +190,9 @@
   </programme>
   <programme start="20261113003000 +0000" stop="20261113010000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Are Under-25s About to Lose Sickness Benefits?</sub-title>
+    <desc lang="en">Nvidia boss has quit following revelations of an affair with a suspected Chinese spy.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pmpltb.jpg" />
   </programme>
   <programme start="20261113010000 +0000" stop="20261113013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -483,7 +484,8 @@
   </programme>
   <programme start="20261114033000 +0000" stop="20261114040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">A reckoning for the media industry?</sub-title>
+    <desc lang="en">Russell Brand's conviction and the questions it raises about the culture of the industry.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261114040000 +0000" stop="20261114043000 +0000" channel="BBCNews.uk">
@@ -534,7 +536,8 @@
   </programme>
   <programme start="20261114083000 +0000" stop="20261114090000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">A reckoning for the media industry?</sub-title>
+    <desc lang="en">Russell Brand's conviction and the questions it raises about the culture of the industry.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261114090000 +0000" stop="20261114100000 +0000" channel="BBCNews.uk">
@@ -589,7 +592,8 @@
   </programme>
   <programme start="20261114143000 +0000" stop="20261114150000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">A reckoning for the media industry?</sub-title>
+    <desc lang="en">Russell Brand's conviction and the questions it raises about the culture of the industry.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261114150000 +0000" stop="20261114153000 +0000" channel="BBCNews.uk">
@@ -616,7 +620,7 @@
     <title lang="en">Political Thinking with Nick Robinson</title>
     <sub-title lang="en">Series 3: Anita Anand</sub-title>
     <desc lang="en">Canada’s Foreign Minister says she thinks there has been a 'rupture' on the world stage.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pmp0x5.jpg" />
   </programme>
   <programme start="20261114170000 +0000" stop="20261114180000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -693,7 +697,7 @@
     <title lang="en">Political Thinking with Nick Robinson</title>
     <sub-title lang="en">Series 3: Anita Anand</sub-title>
     <desc lang="en">Canada’s Foreign Minister says she thinks there has been a 'rupture' on the world stage.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pmp0x5.jpg" />
   </programme>
   <programme start="20261115020000 +0000" stop="20261115023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -908,7 +912,8 @@
   </programme>
   <programme start="20261116003000 +0000" stop="20261116010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">A reckoning for the media industry?</sub-title>
+    <desc lang="en">Russell Brand's conviction and the questions it raises about the culture of the industry.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261116010000 +0000" stop="20261116013000 +0000" channel="BBCNews.uk">
