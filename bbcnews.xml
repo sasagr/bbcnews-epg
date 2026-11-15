@@ -36,7 +36,8 @@
   </programme>
   <programme start="20261115090000 +0000" stop="20261115100000 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, Pat McFadden MP and Helen Whateley MP.</desc>
+    <sub-title lang="en">An exclusive interview with Alan Milburn</sub-title>
+    <desc lang="en">Laura Kuenssberg talks to Alan Milburn, Pat McFadden, Helen Whately and Ali Campbell.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pkhpr5.jpg" />
   </programme>
   <programme start="20261115100000 +0000" stop="20261115103000 +0000" channel="BBCNews.uk">
@@ -145,8 +146,9 @@
   </programme>
   <programme start="20261115203000 +0000" stop="20261115210000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Could the Russell Brand Case Change the Age of Consent?</sub-title>
+    <desc lang="en">We hear from one of the journalists who broke the story.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pn501c.jpg" />
   </programme>
   <programme start="20261115210000 +0000" stop="20261115220000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
