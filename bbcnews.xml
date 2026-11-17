@@ -53,30 +53,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261117110000 +0000" stop="20261117113000 +0000" channel="BBCNews.uk">
+  <programme start="20261117110000 +0000" stop="20261117130000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261117113000 +0000" stop="20261117114500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
-  </programme>
-  <programme start="20261117114500 +0000" stop="20261117120000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261117120000 +0000" stop="20261117123000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
-  </programme>
-  <programme start="20261117123000 +0000" stop="20261117130000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20261117130000 +0000" stop="20261117140000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
@@ -195,8 +175,9 @@
   </programme>
   <programme start="20261118003000 +0000" stop="20261118010000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">What happens to young people on benefits under Milburn's plan?</sub-title>
+    <desc lang="en">Alan Milburn wants to get more young people earning or learning, but can his reforms work?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pnhsmf.jpg" />
   </programme>
   <programme start="20261118010000 +0000" stop="20261118013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -236,7 +217,8 @@
   </programme>
   <programme start="20261118034500 +0000" stop="20261118040000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Who Gains the Most from Trump-Xi-Putin Summit?</sub-title>
+    <desc lang="en">Will a summit of the world's three biggest nuclear powers achieve anything?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261118040000 +0000" stop="20261118043000 +0000" channel="BBCNews.uk">
@@ -251,7 +233,8 @@
   </programme>
   <programme start="20261118044500 +0000" stop="20261118050000 +0000" channel="BBCNews.uk">
     <title lang="en">Asia Specific</title>
-    <desc lang="en">Insights and conversations on the stories shaping Asia Pacific. Hosted by Mariko Oi.</desc>
+    <sub-title lang="en">Who Gains the Most from Trump-Xi-Putin Summit?</sub-title>
+    <desc lang="en">Will a summit of the world's three biggest nuclear powers achieve anything?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n24m0y.jpg" />
   </programme>
   <programme start="20261118050000 +0000" stop="20261118053000 +0000" channel="BBCNews.uk">
@@ -1044,7 +1027,7 @@
   </programme>
   <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">From Ukraine, John Simpson analyses the latest developments in the war with Russia.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="BBCNews.uk">
@@ -1079,7 +1062,7 @@
   </programme>
   <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">From Ukraine, John Simpson analyses the latest developments in the war with Russia.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="BBCNews.uk">
@@ -1210,7 +1193,7 @@
   </programme>
   <programme start="20261122013000 +0000" stop="20261122020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
-    <desc lang="en">Unspun World provides an unvarnished version of the week's major global news stories.</desc>
+    <desc lang="en">From Ukraine, John Simpson analyses the latest developments in the war with Russia.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
   </programme>
   <programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="BBCNews.uk">
@@ -1229,10 +1212,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="BBCNews.uk">
-    <title lang="en">Global Eye</title>
-    <sub-title lang="en">Who Owns Libya’s Future?</sub-title>
-    <desc lang="en">Tim Whewell reports from eastern Libya.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pn5dcw.png" />
+    <title lang="en">Political Thinking with Nick Robinson</title>
+    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261122040000 +0000" stop="20261122043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
