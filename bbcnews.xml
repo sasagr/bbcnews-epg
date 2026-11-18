@@ -70,7 +70,8 @@
   </programme>
   <programme start="20261118115500 +0000" stop="20261118130000 +0000" channel="BBCNews.uk">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
+    <sub-title lang="en">Prime Minister’s Questions</sub-title>
+    <desc lang="en">Andy Burnham faces Kemi Badenoch for Prime Minister’s Questions.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
   </programme>
   <programme start="20261118130000 +0000" stop="20261118140000 +0000" channel="BBCNews.uk">
@@ -189,9 +190,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261119003000 +0000" stop="20261119010000 +0000" channel="BBCNews.uk">
-    <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <title lang="en">The Climate Question</title>
+    <sub-title lang="en">How Do You Build a Climate Friendly City?</sub-title>
+    <desc lang="en">Cities are on the front line of climate change. So how can mayors keep urban areas safe?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0nc7wt0.jpg" />
   </programme>
   <programme start="20261119010000 +0000" stop="20261119013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -784,7 +786,7 @@
   <programme start="20261121073000 +0000" stop="20261121080000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">From Ukraine, John Simpson analyses the latest developments in the war with Russia.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pnnbs9.jpg" />
   </programme>
   <programme start="20261121080000 +0000" stop="20261121083000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -819,7 +821,7 @@
   <programme start="20261121113000 +0000" stop="20261121120000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">From Ukraine, John Simpson analyses the latest developments in the war with Russia.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pnnbs9.jpg" />
   </programme>
   <programme start="20261121120000 +0000" stop="20261121123000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -873,7 +875,8 @@
   </programme>
   <programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <sub-title lang="en">Series 3: Kaja Kallas</sub-title>
+    <desc lang="en">Nick Robinson in conversation with the European Union's foreign policy chief, Kaja Kallas.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="BBCNews.uk">
@@ -928,7 +931,7 @@
   </programme>
   <programme start="20261121233000 +0000" stop="20261122000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How changing winter weather is taking a toll on tourism across Europe.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261122000000 +0000" stop="20261122003000 +0000" channel="BBCNews.uk">
@@ -950,7 +953,7 @@
   <programme start="20261122013000 +0000" stop="20261122020000 +0000" channel="BBCNews.uk">
     <title lang="en">Unspun World with John Simpson</title>
     <desc lang="en">From Ukraine, John Simpson analyses the latest developments in the war with Russia.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0bqh04f.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pnnbs9.jpg" />
   </programme>
   <programme start="20261122020000 +0000" stop="20261122023000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -969,7 +972,8 @@
   </programme>
   <programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <sub-title lang="en">Series 3: Kaja Kallas</sub-title>
+    <desc lang="en">Nick Robinson in conversation with the European Union's foreign policy chief, Kaja Kallas.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261122040000 +0000" stop="20261122043000 +0000" channel="BBCNews.uk">
@@ -990,7 +994,7 @@
   </programme>
   <programme start="20261122053000 +0000" stop="20261122060000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How changing winter weather is taking a toll on tourism across Europe.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261122060000 +0000" stop="20261122063000 +0000" channel="BBCNews.uk">
@@ -1433,7 +1437,7 @@
   </programme>
   <programme start="20261124013000 +0000" stop="20261124020000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">How changing winter weather is taking a toll on tourism across Europe.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261124020000 +0000" stop="20261124023000 +0000" channel="BBCNews.uk">
