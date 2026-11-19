@@ -88,15 +88,10 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20261119143000 +0000" stop="20261119144500 +0000" channel="BBCNews.uk">
+  <programme start="20261119143000 +0000" stop="20261119150000 +0000" channel="BBCNews.uk">
     <title lang="en">Business Today - NYSE Opening Bell</title>
     <desc lang="en">The latest business news from New York and around the world.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvwlbb.jpg" />
-  </programme>
-  <programme start="20261119144500 +0000" stop="20261119150000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News Now</title>
-    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20261119150000 +0000" stop="20261119153000 +0000" channel="BBCNews.uk">
     <title lang="en">Verified Live</title>
@@ -200,7 +195,8 @@
   </programme>
   <programme start="20261120013000 +0000" stop="20261120020000 +0000" channel="BBCNews.uk">
     <title lang="en">The Interface</title>
-    <desc lang="en">The show that brings you the tech stories that matter most to you.</desc>
+    <sub-title lang="en">Is it Time to Prepare for Conscious AI?</sub-title>
+    <desc lang="en">Thomas Germain and Jessica Maddox ask philosopher Jeff Sebo if AI could be conscious.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phgsm3.jpg" />
   </programme>
   <programme start="20261120020000 +0000" stop="20261120023000 +0000" channel="BBCNews.uk">
@@ -507,7 +503,8 @@
   </programme>
   <programme start="20261121053000 +0000" stop="20261121060000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Without Limits?</sub-title>
+    <desc lang="en">Can humans remain in control if machines start improving themselves?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261121060000 +0000" stop="20261121063000 +0000" channel="BBCNews.uk">
@@ -582,7 +579,8 @@
   </programme>
   <programme start="20261121133000 +0000" stop="20261121140000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Without Limits?</sub-title>
+    <desc lang="en">Can humans remain in control if machines start improving themselves?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261121140000 +0000" stop="20261121143000 +0000" channel="BBCNews.uk">
@@ -617,8 +615,8 @@
   </programme>
   <programme start="20261121163000 +0000" stop="20261121170000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <sub-title lang="en">Series 3: Kaja Kallas</sub-title>
-    <desc lang="en">Nick Robinson in conversation with the European Union's foreign policy chief, Kaja Kallas.</desc>
+    <sub-title lang="en">Series 3: Peter Kyle</sub-title>
+    <desc lang="en">Peter Kyle sets out his argument for a potential return to the European Union.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261121170000 +0000" stop="20261121180000 +0000" channel="BBCNews.uk">
@@ -704,7 +702,8 @@
   </programme>
   <programme start="20261122023000 +0000" stop="20261122030000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Without Limits?</sub-title>
+    <desc lang="en">Can humans remain in control if machines start improving themselves?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261122030000 +0000" stop="20261122033000 +0000" channel="BBCNews.uk">
@@ -713,10 +712,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261122033000 +0000" stop="20261122040000 +0000" channel="BBCNews.uk">
-    <title lang="en">Political Thinking with Nick Robinson</title>
-    <sub-title lang="en">Series 3: Kaja Kallas</sub-title>
-    <desc lang="en">Nick Robinson in conversation with the European Union's foreign policy chief, Kaja Kallas.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
+    <title lang="en">Global Eye</title>
+    <sub-title lang="en">Who Owns Libya’s Future?</sub-title>
+    <desc lang="en">Tim Whewell reports from eastern Libya.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pn5dcw.png" />
   </programme>
   <programme start="20261122040000 +0000" stop="20261122043000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -746,7 +745,8 @@
   </programme>
   <programme start="20261122063000 +0000" stop="20261122070000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Without Limits?</sub-title>
+    <desc lang="en">Can humans remain in control if machines start improving themselves?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261122070000 +0000" stop="20261122073000 +0000" channel="BBCNews.uk">
@@ -919,7 +919,8 @@
   </programme>
   <programme start="20261123013000 +0000" stop="20261123020000 +0000" channel="BBCNews.uk">
     <title lang="en">The Interface</title>
-    <desc lang="en">The show that brings you the tech stories that matter most to you.</desc>
+    <sub-title lang="en">Is it Time to Prepare for Conscious AI?</sub-title>
+    <desc lang="en">Thomas Germain and Jessica Maddox ask philosopher Jeff Sebo if AI could be conscious.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0phgsm3.jpg" />
   </programme>
   <programme start="20261123020000 +0000" stop="20261123023000 +0000" channel="BBCNews.uk">
@@ -1694,7 +1695,8 @@
   </programme>
   <programme start="20261126013000 +0000" stop="20261126020000 +0000" channel="BBCNews.uk">
     <title lang="en">AI Decoded</title>
-    <desc lang="en">Exploring and unpacking the world of artificial intelligence.</desc>
+    <sub-title lang="en">AI Without Limits?</sub-title>
+    <desc lang="en">Can humans remain in control if machines start improving themselves?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0l50q1s.jpg" />
   </programme>
   <programme start="20261126020000 +0000" stop="20261126023000 +0000" channel="BBCNews.uk">
