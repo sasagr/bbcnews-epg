@@ -78,10 +78,15 @@
     <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
-  <programme start="20261120130000 +0000" stop="20261120140000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News at One</title>
-    <desc lang="en">The latest national and international news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fk7mhm.jpg" />
+  <programme start="20261120130000 +0000" stop="20261120133000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
+  </programme>
+  <programme start="20261120133000 +0000" stop="20261120140000 +0000" channel="BBCNews.uk">
+    <title lang="en">BBC News Now</title>
+    <desc lang="en">All the big stories, live as they happen, presented by Lucy Hockings.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fnmx95.jpg" />
   </programme>
   <programme start="20261120140000 +0000" stop="20261120143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News Now</title>
@@ -175,8 +180,9 @@
   </programme>
   <programme start="20261120223000 +0000" stop="20261120230000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the crucial news stories of the day. With Matt Chorley.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
+    <sub-title lang="en">Will Burnham's deal 'draw a line under division'?</sub-title>
+    <desc lang="en">Andy Burnham says his EU deal will 'draw a line under a decade of drift and division'.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pp5b7x.jpg" />
   </programme>
   <programme start="20261120230000 +0000" stop="20261120233000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
@@ -185,7 +191,8 @@
   </programme>
   <programme start="20261120233000 +0000" stop="20261121000000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump, Xi, Putin Meet: Who Wins?</sub-title>
+    <desc lang="en">The leaders of the US, China and Russia held their first-ever trilateral summit this week.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261121000000 +0000" stop="20261121003000 +0000" channel="BBCNews.uk">
@@ -195,8 +202,9 @@
   </programme>
   <programme start="20261121003000 +0000" stop="20261121010000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">America's Cup: How Sailing is Evolving</sub-title>
     <desc lang="en">Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pp14lp.jpg" />
   </programme>
   <programme start="20261121010000 +0000" stop="20261121013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -221,8 +229,9 @@
   </programme>
   <programme start="20261121024500 +0000" stop="20261121030000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">America's Cup: How Sailing is Evolving</sub-title>
     <desc lang="en">Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pp14lp.jpg" />
   </programme>
   <programme start="20261121030000 +0000" stop="20261121033000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -231,7 +240,8 @@
   </programme>
   <programme start="20261121033000 +0000" stop="20261121040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The GTA VI Phenomenon</sub-title>
+    <desc lang="en">As Grand Theft Auto VI launches we trace its origins from Scotland to a global franchise.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261121040000 +0000" stop="20261121043000 +0000" channel="BBCNews.uk">
@@ -263,8 +273,9 @@
   </programme>
   <programme start="20261121063000 +0000" stop="20261121070000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">America's Cup: How Sailing is Evolving</sub-title>
     <desc lang="en">Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pp14lp.jpg" />
   </programme>
   <programme start="20261121070000 +0000" stop="20261121073000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News (Signed)</title>
@@ -283,7 +294,8 @@
   </programme>
   <programme start="20261121083000 +0000" stop="20261121090000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The GTA VI Phenomenon</sub-title>
+    <desc lang="en">As Grand Theft Auto VI launches we trace its origins from Scotland to a global franchise.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261121090000 +0000" stop="20261121100000 +0000" channel="BBCNews.uk">
@@ -339,7 +351,8 @@
   </programme>
   <programme start="20261121143000 +0000" stop="20261121150000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The GTA VI Phenomenon</sub-title>
+    <desc lang="en">As Grand Theft Auto VI launches we trace its origins from Scotland to a global franchise.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261121150000 +0000" stop="20261121153000 +0000" channel="BBCNews.uk">
@@ -354,7 +367,7 @@
   </programme>
   <programme start="20261121154500 +0000" stop="20261121160000 +0000" channel="BBCNews.uk">
     <title lang="en">Newswatch</title>
-    <desc lang="en">Your views on the coverage of events by BBC News.</desc>
+    <desc lang="en">Why has BBC News at One shown the same report twice, just minutes apart?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m8r0tr.jpg" />
   </programme>
   <programme start="20261121160000 +0000" stop="20261121163000 +0000" channel="BBCNews.uk">
@@ -540,7 +553,8 @@
   </programme>
   <programme start="20261122113000 +0000" stop="20261122120000 +0000" channel="BBCNews.uk">
     <title lang="en">The President's Path</title>
-    <desc lang="en">A weekly discussion on the US presidency.</desc>
+    <sub-title lang="en">Trump, Xi, Putin Meet: Who Wins?</sub-title>
+    <desc lang="en">The leaders of the US, China and Russia held their first-ever trilateral summit this week.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kl4r55.jpg" />
   </programme>
   <programme start="20261122120000 +0000" stop="20261122123000 +0000" channel="BBCNews.uk">
@@ -560,8 +574,9 @@
   </programme>
   <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">America's Cup: How Sailing is Evolving</sub-title>
     <desc lang="en">Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pp14lp.jpg" />
   </programme>
   <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -658,7 +673,8 @@
   </programme>
   <programme start="20261123003000 +0000" stop="20261123010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">The GTA VI Phenomenon</sub-title>
+    <desc lang="en">As Grand Theft Auto VI launches we trace its origins from Scotland to a global franchise.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261123010000 +0000" stop="20261123013000 +0000" channel="BBCNews.uk">
@@ -904,7 +920,7 @@
   </programme>
   <programme start="20261123223000 +0000" stop="20261123230000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsnight</title>
-    <desc lang="en">Insights and global interviews on the news stories of the day. With Victoria Derbyshire.</desc>
+    <desc lang="en">Insights and global interviews on the news stories of the day. With Katie Razzall.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0n2dqll.jpg" />
   </programme>
   <programme start="20261123230000 +0000" stop="20261124000000 +0000" channel="BBCNews.uk">
@@ -1189,8 +1205,9 @@
   </programme>
   <programme start="20261125013000 +0000" stop="20261125020000 +0000" channel="BBCNews.uk">
     <title lang="en">Tech Now</title>
+    <sub-title lang="en">America's Cup: How Sailing is Evolving</sub-title>
     <desc lang="en">Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0kxxp17.jpg" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pp14lp.jpg" />
   </programme>
   <programme start="20261125020000 +0000" stop="20261125023000 +0000" channel="BBCNews.uk">
     <title lang="en">Newsday</title>
