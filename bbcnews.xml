@@ -36,8 +36,9 @@
   </programme>
   <programme start="20261122090000 +0000" stop="20261122100000 +0000" channel="BBCNews.uk">
     <title lang="en">Sunday with Laura Kuenssberg</title>
-    <desc lang="en">Laura Kuenssberg talks to those making the news, inside and outside politics.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pkhpr5.jpg" />
+    <sub-title lang="en">Brexit: Remain Out or Rejoin?</sub-title>
+    <desc lang="en">Laura Kuenssberg talks to Ed Miliband MP, Theresa May, and Alex Burghart MP.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ppbyqy.jpg" />
   </programme>
   <programme start="20261122100000 +0000" stop="20261122103000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -70,16 +71,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261122130000 +0000" stop="20261122133000 +0000" channel="BBCNews.uk">
+  <programme start="20261122130000 +0000" stop="20261122140000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261122133000 +0000" stop="20261122140000 +0000" channel="BBCNews.uk">
-    <title lang="en">Tech Now</title>
-    <sub-title lang="en">America's Cup: How Sailing is Evolving</sub-title>
-    <desc lang="en">Alasdair Keane is in Naples exploring how tech is transforming the America's Cup race.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pp14lp.jpg" />
   </programme>
   <programme start="20261122140000 +0000" stop="20261122143000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -145,8 +140,9 @@
   </programme>
   <programme start="20261122203000 +0000" stop="20261122210000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
-    <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <sub-title lang="en">Theresa May (and Tony Blair) Step Into the Brexit Debate</sub-title>
+    <desc lang="en">Theresa May and Tony Blair have given their verdict on Andy Burnham’s UK-EU reset deal.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ppc1cw.jpg" />
   </programme>
   <programme start="20261122210000 +0000" stop="20261122220000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
