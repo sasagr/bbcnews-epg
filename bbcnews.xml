@@ -59,9 +59,9 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261125113000 +0000" stop="20261125114500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
+    <title lang="en">BBC News</title>
+    <desc lang="en">The latest news from the BBC.</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261125114500 +0000" stop="20261125115500 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -70,8 +70,9 @@
   </programme>
   <programme start="20261125115500 +0000" stop="20261125130000 +0000" channel="BBCNews.uk">
     <title lang="en">Politics Live</title>
-    <desc lang="en">The big political issues of the day.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0mcfc71.jpg" />
+    <sub-title lang="en">Energy bills to soar in January</sub-title>
+    <desc lang="en">What can the government do to help people struggling with the cost of living?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ppsnhm.png" />
   </programme>
   <programme start="20261125130000 +0000" stop="20261125140000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News at One</title>
@@ -421,7 +422,7 @@
   </programme>
   <programme start="20261126210000 +0000" stop="20261126220000 +0000" channel="BBCNews.uk">
     <title lang="en">Question Time</title>
-    <desc lang="en">Fiona Bruce presents an hour of topical debate.</desc>
+    <desc lang="en">Fiona Bruce presents an hour of debate from Clydebank.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0d8kjcq.jpg" />
   </programme>
   <programme start="20261126220000 +0000" stop="20261126223000 +0000" channel="BBCNews.uk">
@@ -685,9 +686,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fjvy7w.jpg" />
   </programme>
   <programme start="20261127223000 +0000" stop="20261127230000 +0000" channel="BBCNews.uk">
-    <title lang="en">BBC News</title>
-    <desc lang="en">The latest news from the BBC.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
+    <title lang="en">Newsnight</title>
+    <sub-title lang="en">Nuclear Veterans: Newsnight Special</sub-title>
+    <desc lang="en">Can the prime minister deliver what Britain's nuclear test veterans are asking for?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ppqrmq.jpg" />
   </programme>
   <programme start="20261127230000 +0000" stop="20261127233000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC World News America</title>
@@ -845,9 +847,10 @@
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
   <programme start="20261128143000 +0000" stop="20261128150000 +0000" channel="BBCNews.uk">
-    <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
+    <title lang="en">Newsnight</title>
+    <sub-title lang="en">Nuclear Veterans: Newsnight Special</sub-title>
+    <desc lang="en">Can the prime minister deliver what Britain's nuclear test veterans are asking for?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ppqrmq.jpg" />
   </programme>
   <programme start="20261128150000 +0000" stop="20261128153000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -926,7 +929,7 @@
   </programme>
   <programme start="20261128233000 +0000" stop="20261129000000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Examining what businesses can do in the face of cyber threats and technology faults.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261129000000 +0000" stop="20261129003000 +0000" channel="BBCNews.uk">
@@ -990,7 +993,7 @@
   </programme>
   <programme start="20261129053000 +0000" stop="20261129060000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Examining what businesses can do in the face of cyber threats and technology faults.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261129060000 +0000" stop="20261129063000 +0000" channel="BBCNews.uk">
@@ -1150,7 +1153,13 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261129233000 +0000" stop="20261130000000 +0000" channel="BBCNews.uk">
+  <programme start="20261129233000 +0000" stop="20261129235500 +0000" channel="BBCNews.uk">
+    <title lang="en">Newsnight</title>
+    <sub-title lang="en">Nuclear Veterans: Newsnight Special</sub-title>
+    <desc lang="en">Can the prime minister deliver what Britain's nuclear test veterans are asking for?</desc>
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0ppqrmq.jpg" />
+  </programme>
+  <programme start="20261129235500 +0000" stop="20261130000000 +0000" channel="BBCNews.uk">
     <title lang="en">Global Eye</title>
     <sub-title lang="en">South Africa: Women Under Threat</sub-title>
     <desc lang="en">A report from South Africa, where a series of murders has exposed the dangers women face.</desc>
@@ -1433,7 +1442,7 @@
   </programme>
   <programme start="20261201013000 +0000" stop="20261201020000 +0000" channel="BBCNews.uk">
     <title lang="en">Talking Business</title>
-    <desc lang="en">Examining the business stories and economic trends that are re-shaping our world.</desc>
+    <desc lang="en">Examining what businesses can do in the face of cyber threats and technology faults.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p02vjwnw.jpg" />
   </programme>
   <programme start="20261201020000 +0000" stop="20261201023000 +0000" channel="BBCNews.uk">
