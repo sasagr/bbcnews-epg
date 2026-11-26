@@ -53,15 +53,10 @@
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
   </programme>
-  <programme start="20261126110000 +0000" stop="20261126113000 +0000" channel="BBCNews.uk">
+  <programme start="20261126110000 +0000" stop="20261126114500 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
     <desc lang="en">The latest news from the BBC.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0fj0528.jpg" />
-  </programme>
-  <programme start="20261126113000 +0000" stop="20261126114500 +0000" channel="BBCNews.uk">
-    <title lang="en">Business Today</title>
-    <desc lang="en">The latest business news from London and around the world.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hvws0j.jpg" />
   </programme>
   <programme start="20261126114500 +0000" stop="20261126120000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -191,7 +186,7 @@
   <programme start="20261127003000 +0000" stop="20261127010000 +0000" channel="BBCNews.uk">
     <title lang="en">Newscast</title>
     <desc lang="en">Lighthearted discussion of the day's news.</desc>
-    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0p86f7y.png" />
+    <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0pq498l.jpg" />
   </programme>
   <programme start="20261127010000 +0000" stop="20261127013000 +0000" channel="BBCNews.uk">
     <title lang="en">BBC News</title>
@@ -483,7 +478,8 @@
   </programme>
   <programme start="20261128033000 +0000" stop="20261128040000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">BBC impartiality and Gaza</sub-title>
+    <desc lang="en">Did the BBC get impartiality right when it covered the Israel-Gaza war?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261128040000 +0000" stop="20261128043000 +0000" channel="BBCNews.uk">
@@ -535,7 +531,8 @@
   </programme>
   <programme start="20261128083000 +0000" stop="20261128090000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">BBC impartiality and Gaza</sub-title>
+    <desc lang="en">Did the BBC get impartiality right when it covered the Israel-Gaza war?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261128090000 +0000" stop="20261128100000 +0000" channel="BBCNews.uk">
@@ -617,7 +614,8 @@
   </programme>
   <programme start="20261128163000 +0000" stop="20261128170000 +0000" channel="BBCNews.uk">
     <title lang="en">Political Thinking with Nick Robinson</title>
-    <desc lang="en">Nick Robinson in conversation with people who influence our political thinking.</desc>
+    <sub-title lang="en">Series 3: Claire Waxman</sub-title>
+    <desc lang="en">Nick Robinson speaks to Claire Waxman, the victims' commissioner for England and Wales.</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0m1pcwp.jpg" />
   </programme>
   <programme start="20261128170000 +0000" stop="20261128180000 +0000" channel="BBCNews.uk">
@@ -915,7 +913,8 @@
   </programme>
   <programme start="20261130003000 +0000" stop="20261130010000 +0000" channel="BBCNews.uk">
     <title lang="en">The Media Show</title>
-    <desc lang="en">A global, topical weekly show that lifts the hood on the entertainment and news business.</desc>
+    <sub-title lang="en">BBC impartiality and Gaza</sub-title>
+    <desc lang="en">Did the BBC get impartiality right when it covered the Israel-Gaza war?</desc>
     <icon src="https://ichef.bbci.co.uk/images/ic/1280x720/p0hrb70c.jpg" />
   </programme>
   <programme start="20261130010000 +0000" stop="20261130013000 +0000" channel="BBCNews.uk">
